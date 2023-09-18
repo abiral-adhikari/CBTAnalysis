@@ -1,0 +1,3700 @@
+,ID,Name,Score,Program
+0,KUCAT_2021_2,suresh subedi,576,cs
+1,KUCAT_2021_3,nabin khadka,614,ce
+2,KUCAT_2021_4,manju rai,642,ce
+3,KUCAT_2021_5,manish prasad pokharel,752,ce
+4,KUCAT_2021_6,preshna karki,458,bio
+5,KUCAT_2021_7,shuvam mahat,684,ce
+6,KUCAT_2021_8,pranish kafle,975,ce
+7,KUCAT_2021_9,shree ram adhikari,922,design
+8,KUCAT_2021_10,diwash gautam,1081,bio
+9,KUCAT_2021_11,amitya humagain,661,power
+10,KUCAT_2021_12,gopal khatri,615,geo
+11,KUCAT_2021_13,evan ranjitkar,662,civil
+12,KUCAT_2021_14,pranil parajuli,909,ce
+13,KUCAT_2021_15,shweta neupane,574,ce
+14,KUCAT_2021_16,abhishek pachhain,1089,cs
+15,KUCAT_2021_17,aman kumar shah,0,power
+16,KUCAT_2021_18,abhyudaya pandey,576,cs
+17,KUCAT_2021_19,anjila thapa,520,arch
+18,KUCAT_2021_20,bivek kumar sah,0,ce
+19,KUCAT_2021_21,sahil ali,469,civil
+20,KUCAT_2021_22,tarannum khatun,433,ce
+21,KUCAT_2021_23,sagyan niraula,328,ce
+22,KUCAT_2021_24,divya panta,515,bio
+23,KUCAT_2021_25,anis bhujel,486,ce
+24,KUCAT_2021_26,nitul tako,585,ce
+25,KUCAT_2021_27,anupam baral,747,arch
+26,KUCAT_2021_28,sachin kumar mandal,0,civil
+27,KUCAT_2021_29,isha bhattarai,817,ce
+28,KUCAT_2021_30,shashank chaudhary,494,ce
+29,KUCAT_2021_31,abhishek karki,615,ce
+30,KUCAT_2021_32,bijay pandey,424,ce
+31,KUCAT_2021_33,satis kumar mandal,0,civil
+32,KUCAT_2021_34,aashish chaudhary,614,ce
+33,KUCAT_2021_35,amit sharma,967,civil
+34,KUCAT_2021_36,bijaya pokhrel,460,geo
+35,KUCAT_2021_37,sayuj bajracharya,360,arch
+36,KUCAT_2021_38,anand kumar jha,399,geo
+37,KUCAT_2021_39,sonu bajracharya,603,communication
+38,KUCAT_2021_40,suyog mahato,999,civil
+39,KUCAT_2021_41,ritesh yadav,440,civil
+40,KUCAT_2021_42,shristi kumari singh,463,ce
+41,KUCAT_2021_43,silu poudel,520,ce
+42,KUCAT_2021_44,shaloni sharma,385,ce
+43,KUCAT_2021_45,aakash shrestha,699,ce
+44,KUCAT_2021_46,kaushika koirala,0,arch
+45,KUCAT_2021_47,suyog karki,568,ce
+46,KUCAT_2021_48,umesh yadav,706,civil
+47,KUCAT_2021_49,nishan gc,508,ce
+48,KUCAT_2021_50,sameer subedi,778,communication
+49,KUCAT_2021_51,rakshya raut,674,arch
+50,KUCAT_2021_52,nabin singh,748,ce
+51,KUCAT_2021_53,satkar niraula,0,ce
+52,KUCAT_2021_54,mukul aryal,672,ce
+53,KUCAT_2021_55,utsav k.c.,555,btech in artificial intelligence
+54,KUCAT_2021_56,saurav kumar jha,957,civil
+55,KUCAT_2021_57,sushan khadka,440,ce
+56,KUCAT_2021_58,timila dangol,527,cs
+57,KUCAT_2021_59,prajwol neupane,552,civil
+58,KUCAT_2021_60,ankit karki,1181,ce
+59,KUCAT_2021_61,saurab shrestha,505,civil
+60,KUCAT_2021_62,shreya pathak,764,bio
+61,KUCAT_2021_63,md salman sabir rain,618,arch
+62,KUCAT_2021_64,saimon pokhrel,0,bio
+63,KUCAT_2021_65,md altaf reza,436,civil
+64,KUCAT_2021_66,yogeshnath mishra,763,civil
+65,KUCAT_2021_67,aashish ghimire,648,cs
+66,KUCAT_2021_68,milan kumar gharti,1180,civil
+67,KUCAT_2021_69,sushant barayal,407,auto
+68,KUCAT_2021_70,subidha acharya,616,cs
+69,KUCAT_2021_71,santu yadav,718,ce
+70,KUCAT_2021_72,ruby shrestha,0,ce
+71,KUCAT_2021_73,riyaz ansari,372,geo
+72,KUCAT_2021_74,sadixhya pandey,745,auto
+73,KUCAT_2021_75,pratik thapa,603,ce
+74,KUCAT_2021_76,manjit baral,471,ce
+75,KUCAT_2021_77,binisha manandhar,368,geo
+76,KUCAT_2021_78,ramir shrestha,741,civil
+77,KUCAT_2021_79,manjit k maharjan,952,ce
+78,KUCAT_2021_80,nimesh poudel,825,ce
+79,KUCAT_2021_81,ayusha shrestha,646,arch
+80,KUCAT_2021_82,bebika chaudhary,0,arch
+81,KUCAT_2021_83,yujan rajbhandari,674,civil
+82,KUCAT_2021_84,bikash kumar shah,668,civil
+83,KUCAT_2021_85,sujan nainawasti,677,civil
+84,KUCAT_2021_86,girwanee dhar shrestha,673,btech in artificial intelligence
+85,KUCAT_2021_87,khusii vaidya,669,envs
+86,KUCAT_2021_88,ram bahadur moktan,548,power
+87,KUCAT_2021_89,jitendra kunwar,830,civil
+88,KUCAT_2021_90,ashmi maharjan,697,arch
+89,KUCAT_2021_91,sarthak ghimire,683,ce
+90,KUCAT_2021_92,pratima mandal,147,ce
+91,KUCAT_2021_93,upendra pant,521,cs
+92,KUCAT_2021_94,archat magar,683,arch
+93,KUCAT_2021_95,saugat neupane,0,civil
+94,KUCAT_2021_96,priya mahato,457,arch
+95,KUCAT_2021_97,bhaskar koirala,508,design
+96,KUCAT_2021_98,aayush man shakya,743,ce
+97,KUCAT_2021_99,sparsh koirala,0,arch
+98,KUCAT_2021_100,birendra bist,565,btech in artificial intelligence
+99,KUCAT_2021_101,krishna basnet,522,civil
+100,KUCAT_2021_102,isha sharma,587,civil
+101,KUCAT_2021_103,ashim bhattarai,0,ce
+102,KUCAT_2021_104,binayak parajuli,802,ce
+103,KUCAT_2021_105,dhiraj sharma,931,civil
+104,KUCAT_2021_106,rijan thapa,398,geo
+105,KUCAT_2021_107,sabin sapkota,643,btech in artificial intelligence
+106,KUCAT_2021_108,suhana amatya,620,arch
+107,KUCAT_2021_109,looza pradhan,585,bio
+108,KUCAT_2021_110,anshu prasain,480,arch
+109,KUCAT_2021_111,deepika bhattarai,506,ce
+110,KUCAT_2021_112,bipin sharma,338,civil
+111,KUCAT_2021_113,kuber thakuri,741,power
+112,KUCAT_2021_114,suman shrestha,601,ce
+113,KUCAT_2021_115,nitesh tamang,707,civil
+114,KUCAT_2021_116,shashwat poudyal,0,ce
+115,KUCAT_2021_117,divyashree rana,535,bio
+116,KUCAT_2021_118,hariom thakur,0,bsc in agriculture
+117,KUCAT_2021_119,subrat humagain,409,ce
+118,KUCAT_2021_120,anisha yadav,658,geo
+119,KUCAT_2021_121,prashant paneru,839,ce
+120,KUCAT_2021_122,prawesh bhattarai,703,ce
+121,KUCAT_2021_123,prasana bastola,496,arch
+122,KUCAT_2021_124,pramit bhattarai,554,ce
+123,KUCAT_2021_125,sabina dahal,0,arch
+124,KUCAT_2021_126,samita niroula,431,arch
+125,KUCAT_2021_127,rajan pandit,668,geo
+126,KUCAT_2021_128,lusan rana,666,bsc in agriculture
+127,KUCAT_2021_129,ankit rajkarnikar,793,civil
+128,KUCAT_2021_130,rabindra giri,437,design
+129,KUCAT_2021_131,aagat bhattarai,572,ce
+130,KUCAT_2021_132,umesh shrestha,465,cs
+131,KUCAT_2021_133,sanskriti giri,767,arch
+132,KUCAT_2021_134,sumargie thapa,804,arch
+133,KUCAT_2021_135,sabina dahal,629,geo
+134,KUCAT_2021_136,niroj mote,610,civil
+135,KUCAT_2021_137,ankit neupane,1006,communication
+136,KUCAT_2021_138,divya bhattarai,622,civil
+137,KUCAT_2021_139,akal gurung,0,auto
+138,KUCAT_2021_140,shambhu sah,515,civil
+139,KUCAT_2021_141,aakriti joshi,664,bio
+140,KUCAT_2021_142,pratik rana,0,design
+141,KUCAT_2021_143,bibek chand sah,526,ce
+142,KUCAT_2021_144,kaushiki chhetri,516,arch
+143,KUCAT_2021_145,trishna lamsal,729,geo
+144,KUCAT_2021_146,abhiyan dhakal,1255,design
+145,KUCAT_2021_147,ayush pradhanang,590,ce
+146,KUCAT_2021_148,avisha paudel,591,arch
+147,KUCAT_2021_149,sumiran dahal,513,ce
+148,KUCAT_2021_150,satyam tiwari,687,ce
+149,KUCAT_2021_151,yechu shrestha,725,arch
+150,KUCAT_2021_152,aarati sapkota,0,envs
+151,KUCAT_2021_153,bikash prasad sah teli,590,civil
+152,KUCAT_2021_154,rupesh dulal,568,ce
+153,KUCAT_2021_155,masaka aryal,543,hydro
+154,KUCAT_2021_156,nani bahadur khadka,559,civil
+155,KUCAT_2021_157,krishna sah,566,civil
+156,KUCAT_2021_158,md sagir rain,454,civil
+157,KUCAT_2021_159,kushal khadka,0,ce
+158,KUCAT_2021_160,isha thapa,921,chem
+159,KUCAT_2021_161,kapildev sah,652,civil
+160,KUCAT_2021_162,mukesh prajapati,743,btech in artificial intelligence
+161,KUCAT_2021_163,rayu byanju shrestha,361,cs
+162,KUCAT_2021_164,saksham shrestha,647,enve
+163,KUCAT_2021_165,aabha pokhrel,666,bsc in agriculture
+164,KUCAT_2021_166,sabishma khanal,0,civil
+165,KUCAT_2021_167,sherina shrestha,483,arch
+166,KUCAT_2021_168,aarogya gyawali,536,cs
+167,KUCAT_2021_169,sadhana bhattarai,505,ce
+168,KUCAT_2021_170,yagya bahadur shahi,586,power
+169,KUCAT_2021_171,janak rokaya,819,ce
+170,KUCAT_2021_172,sunil kumar sah,574,civil
+171,KUCAT_2021_173,pradip yadav,486,civil
+172,KUCAT_2021_174,madhuri kumari,756,bsc in agriculture
+173,KUCAT_2021_175,sandesh dhakal,386,ce
+174,KUCAT_2021_176,kaushik mishra,792,ce
+175,KUCAT_2021_177,maneet raut,555,geo
+176,KUCAT_2021_178,ankesh yadav,492,civil
+177,KUCAT_2021_179,saiba shrestha,443,arch
+178,KUCAT_2021_180,abhimanyu chaudhary,1016,civil
+179,KUCAT_2021_181,puja gurung,0,bio
+180,KUCAT_2021_182,manasvi sharma,739,ce
+181,KUCAT_2021_183,anuj basnet,287,civil
+182,KUCAT_2021_184,karuna pandey,582,ce
+183,KUCAT_2021_185,shital ghimire,847,civil
+184,KUCAT_2021_186,prakriti gyawali,930,ce
+185,KUCAT_2021_187,nawap bastola,738,ce
+186,KUCAT_2021_188,aditi hamal,435,arch
+187,KUCAT_2021_189,akriti kumal,744,ce
+188,KUCAT_2021_190,samragyee thapa,0,envs
+189,KUCAT_2021_191,shekhar parajuli,562,bsc in agriculture
+190,KUCAT_2021_192,nitesh kumar shah,549,civil
+191,KUCAT_2021_193,jeebash giri,589,ce
+192,KUCAT_2021_194,kripa acharya,0,cs
+193,KUCAT_2021_195,resham lamsal,458,geo
+194,KUCAT_2021_196,miss priyam jha,494,bsc in agriculture
+195,KUCAT_2021_197,aayush acharya,0,civil
+196,KUCAT_2021_198,bikram raya,610,civil
+197,KUCAT_2021_199,rishi prasad gupta,695,auto
+198,KUCAT_2021_200,nikki kayastha,600,ce
+199,KUCAT_2021_201,ishwari tiwari,764,bio
+200,KUCAT_2021_202,ashutosh jha,457,ce
+201,KUCAT_2021_203,dipesh dhakal,521,arch
+202,KUCAT_2021_204,subed shrestha byanju,571,arch
+203,KUCAT_2021_205,mukesh adhikari,514,geo
+204,KUCAT_2021_206,sandeep sunar,658,civil
+205,KUCAT_2021_207,harikrishna shah,0,cs
+206,KUCAT_2021_208,manisha kumari chaudhary,604,bsc in agriculture
+207,KUCAT_2021_209,devendra karki,504,auto
+208,KUCAT_2021_210,aanchal kumari,437,bio
+209,KUCAT_2021_211,deepti b.k.,688,arch
+210,KUCAT_2021_212,siddhant malla tamrakar,456,civil
+211,KUCAT_2021_213,aadesh koirala,0,cs
+212,KUCAT_2021_214,dhiraj pokhrel,0,ce
+213,KUCAT_2021_215,nishchal raj subedi,1223,ce
+214,KUCAT_2021_216,prem prakash khadka,674,geo
+215,KUCAT_2021_217,bishesh gautam,1042,ce
+216,KUCAT_2021_218,rhythm niraula,470,btech in artificial intelligence
+217,KUCAT_2021_219,smarika pokhrel,632,bio
+218,KUCAT_2021_220,anjali kumari,495,bsc in agriculture
+219,KUCAT_2021_221,bir sundar bista,536,ce
+220,KUCAT_2021_222,kritika shrestha,468,arch
+221,KUCAT_2021_223,anish bharati,780,ce
+222,KUCAT_2021_224,prayash shakya,948,cs
+223,KUCAT_2021_225,sugam piya,391,civil
+224,KUCAT_2021_226,sulav karna,405,ce
+225,KUCAT_2021_227,mukund mohan mishra,0,communication
+226,KUCAT_2021_228,dewanshu sharma,413,civil
+227,KUCAT_2021_229,sanju pathak,566,ce
+228,KUCAT_2021_230,anish araz,951,cs
+229,KUCAT_2021_231,laxmi rai,343,bsc in agriculture
+230,KUCAT_2021_232,diwash khatiwada,631,auto
+231,KUCAT_2021_233,prabhakar poudel,667,civil
+232,KUCAT_2021_234,bikendra sharma,555,civil
+233,KUCAT_2021_235,ratna raj giri,424,ce
+234,KUCAT_2021_236,aman kumar gupta,544,civil
+235,KUCAT_2021_237,divya sitoula,441,ce
+236,KUCAT_2021_238,krishna kumar mishra,889,civil
+237,KUCAT_2021_239,bharat kumar yadav,802,geo
+238,KUCAT_2021_240,siddhartha kafle,928,bio
+239,KUCAT_2021_241,krishma pokhrel,429,arch
+240,KUCAT_2021_242,zenov gautam,484,ce
+241,KUCAT_2021_243,aarjeet joshi,903,ce
+242,KUCAT_2021_244,dipendra raut kurmi,0,power
+243,KUCAT_2021_245,anusha bhujel,1007,bsc in agriculture
+244,KUCAT_2021_246,prashrit bhayadyo,698,civil
+245,KUCAT_2021_247,riya palanchoke,727,bio
+246,KUCAT_2021_248,ekina gharti magar,0,civil
+247,KUCAT_2021_249,karan kumar sah,702,civil
+248,KUCAT_2021_250,sakshyam khanal,633,cs
+249,KUCAT_2021_251,bishal kumar mehta,503,geo
+250,KUCAT_2021_252,swati neupane,504,arch
+251,KUCAT_2021_253,sudeep chaudhary tharu,530,civil
+252,KUCAT_2021_254,kanchan gautam,471,geo
+253,KUCAT_2021_255,abhinav dhakal,770,ce
+254,KUCAT_2021_256,nirjala shrestha,562,civil
+255,KUCAT_2021_257,prajwal kumar gupta,401,ce
+256,KUCAT_2021_258,pranaya prasai,0,cs
+257,KUCAT_2021_259,sugam mahara,674,ce
+258,KUCAT_2021_260,nirmal raj pandey,343,auto
+259,KUCAT_2021_261,shrutakriti bharati,0,envs
+260,KUCAT_2021_262,ashim aryal,962,ce
+261,KUCAT_2021_263,ayush adhikari,652,civil
+262,KUCAT_2021_264,deepika k.c,748,civil
+263,KUCAT_2021_265,dikshya shrestha,460,ce
+264,KUCAT_2021_266,aditya hari adhikari,549,geo
+265,KUCAT_2021_267,biplob chhetri,518,arch
+266,KUCAT_2021_268,raghabendra chaudhary,485,civil
+267,KUCAT_2021_269,aman singh,507,ce
+268,KUCAT_2021_270,nisha patel,430,bio
+269,KUCAT_2021_271,samragyee swar,972,civil
+270,KUCAT_2021_272,shubhechha poudel,607,enve
+271,KUCAT_2021_273,krishna shah,592,hydro
+272,KUCAT_2021_274,aadim prajapati,789,ce
+273,KUCAT_2021_275,monu babu baitha,730,design
+274,KUCAT_2021_276,saugat uprety,660,ce
+275,KUCAT_2021_277,jyotsana sah,506,civil
+276,KUCAT_2021_278,anju koirala,748,arch
+277,KUCAT_2021_279,birendra prasad sah,598,hydro
+278,KUCAT_2021_280,deepika neupane,483,bsc in agriculture
+279,KUCAT_2021_281,prabhat ranjan,851,geo
+280,KUCAT_2021_282,mahesh parajuli,513,ce
+281,KUCAT_2021_283,subodh paudel,612,cs
+282,KUCAT_2021_284,ramani pradhan,785,civil
+283,KUCAT_2021_285,prabin neupane,471,ce
+284,KUCAT_2021_286,arnabh shrestha,0,cs
+285,KUCAT_2021_287,tulsi das rajbansi,520,geo
+286,KUCAT_2021_288,gautam giri,542,civil
+287,KUCAT_2021_289,dichha poudel,918,civil
+288,KUCAT_2021_290,suman chaudhary,0,geo
+289,KUCAT_2021_291,ishan joshi,0,bio
+290,KUCAT_2021_292,bhagwat kc,450,ce
+291,KUCAT_2021_293,dipesh ray majhi,737,civil
+292,KUCAT_2021_294,adarsha shrestha,738,ce
+293,KUCAT_2021_295,bibesh paudel,571,hydro
+294,KUCAT_2021_296,darshan man shakya,560,civil
+295,KUCAT_2021_297,pratik kumar sah,719,civil
+296,KUCAT_2021_298,rikshay yadav,533,civil
+297,KUCAT_2021_299,aadhar chand,417,geo
+298,KUCAT_2021_300,krishna kumar mehta,409,civil
+299,KUCAT_2021_301,sugam shah,483,civil
+300,KUCAT_2021_302,hritik regmi,1207,civil
+301,KUCAT_2021_303,rohit kumar sah,669,arch
+302,KUCAT_2021_304,aaditya raj paudel,1061,ce
+303,KUCAT_2021_305,poonam parajuli,496,bsc in agriculture
+304,KUCAT_2021_306,suyash regmi,572,btech in artificial intelligence
+305,KUCAT_2021_308,samundra koirala,497,civil
+306,KUCAT_2021_309,pratikshya thapa chhetri,463,arch
+307,KUCAT_2021_310,priya kumari,896,civil
+308,KUCAT_2021_311,santit shakya,606,btech in artificial intelligence
+309,KUCAT_2021_312,sanjog khadka,768,geo
+310,KUCAT_2021_313,bibechana baral,494,arch
+311,KUCAT_2021_314,siddhartha bhandari,543,energy
+312,KUCAT_2021_315,dhurbaraj singh,547,btech in artificial intelligence
+313,KUCAT_2021_316,nirman khadka,805,btech in artificial intelligence
+314,KUCAT_2021_317,agrina karki,518,arch
+315,KUCAT_2021_318,ujjwal shrestha,655,ce
+316,KUCAT_2021_319,rishav rayamajhi,480,auto
+317,KUCAT_2021_320,sarthak shrestha,688,chem
+318,KUCAT_2021_321,shreya shrestha,444,civil
+319,KUCAT_2021_322,shobha pandit,447,civil
+320,KUCAT_2021_323,bishal kuwar chhetri,603,ce
+321,KUCAT_2021_324,bibek thakur,486,civil
+322,KUCAT_2021_325,kritesh shrestha,436,ce
+323,KUCAT_2021_326,ashutosh kumar singh,382,cs
+324,KUCAT_2021_327,samrag lamichhane,459,cs
+325,KUCAT_2021_328,purushottam kumar jha,466,ce
+326,KUCAT_2021_329,kritima bisht,526,arch
+327,KUCAT_2021_330,anshuya koirala,398,arch
+328,KUCAT_2021_331,yamuna bogati,336,arch
+329,KUCAT_2021_332,nirjala k.c.,677,arch
+330,KUCAT_2021_333,satakshi kandel,587,arch
+331,KUCAT_2021_334,gaurab dahal,676,ce
+332,KUCAT_2021_335,chand thakur,534,ce
+333,KUCAT_2021_336,pradipti pandey,589,arch
+334,KUCAT_2021_337,ajay bikram neupane,684,design
+335,KUCAT_2021_338,shristika bhattarai,615,civil
+336,KUCAT_2021_339,aashutosh budhathoki,443,ce
+337,KUCAT_2021_340,sambodhan shakya,660,ce
+338,KUCAT_2021_341,swekshya karna,709,hydro
+339,KUCAT_2021_342,himanshu paudel,1201,design
+340,KUCAT_2021_343,shishir kumar bhattarai,579,ce
+341,KUCAT_2021_344,achyut gyawali,715,ce
+342,KUCAT_2021_345,samriddhi k.c.,762,civil
+343,KUCAT_2021_346,shreeju manandhar,663,ce
+344,KUCAT_2021_347,ganesh jaiswal,704,civil
+345,KUCAT_2021_348,yunidh rawal,647,cs
+346,KUCAT_2021_349,aayush gautam,985,btech in artificial intelligence
+347,KUCAT_2021_350,bishnu kumar yadav,405,geo
+348,KUCAT_2021_351,pritam das,450,civil
+349,KUCAT_2021_352,suyog baral,599,arch
+350,KUCAT_2021_353,aryan raj giri,662,civil
+351,KUCAT_2021_354,samman pathak,972,cs
+352,KUCAT_2021_355,kriti thapa,506,arch
+353,KUCAT_2021_356,prakash bhusal,1071,energy
+354,KUCAT_2021_357,alin ale magar,422,civil
+355,KUCAT_2021_358,nirmala dahal,450,geo
+356,KUCAT_2021_359,hemanta chaudhary,0,civil
+357,KUCAT_2021_360,aadarsh kumar singh,652,ce
+358,KUCAT_2021_361,bhisma prasad upadhayaya,819,btech in artificial intelligence
+359,KUCAT_2021_362,dipti raj sah,0,civil
+360,KUCAT_2021_363,shambhu pandit,294,civil
+361,KUCAT_2021_364,abhinash kumar sah,674,civil
+362,KUCAT_2021_365,urja shrestha,608,bio
+363,KUCAT_2021_366,suyog simkhada,536,cs
+364,KUCAT_2021_367,ananta thapa,948,chem
+365,KUCAT_2021_368,radheshyam yadav,589,civil
+366,KUCAT_2021_369,kishor rokaya,0,civil
+367,KUCAT_2021_370,pranaw raj kafle,710,ce
+368,KUCAT_2021_371,dhiraj pardhan sah,495,bsc in agriculture
+369,KUCAT_2021_372,sulav thapa,530,civil
+370,KUCAT_2021_373,lalit tarami magar,647,civil
+371,KUCAT_2021_374,aayush pokhrel,977,ce
+372,KUCAT_2021_375,bijaya rokaya,474,ce
+373,KUCAT_2021_376,bibek patel,331,geo
+374,KUCAT_2021_377,aayush timalsina,585,civil
+375,KUCAT_2021_378,sanskar rijal,833,ce
+376,KUCAT_2021_379,samip gautam,926,civil
+377,KUCAT_2021_380,mandip kumar thakur,577,btech in artificial intelligence
+378,KUCAT_2021_381,saksham raj adhikari,624,civil
+379,KUCAT_2021_382,bibek ray,458,geo
+380,KUCAT_2021_383,lakpa sherpa,731,arch
+381,KUCAT_2021_384,kshitiz dev adhikari,795,civil
+382,KUCAT_2021_385,genish chaudhary,629,ce
+383,KUCAT_2021_386,pujan adhikari,0,btech in artificial intelligence
+384,KUCAT_2021_387,shivam kumar gupta,592,btech in artificial intelligence
+385,KUCAT_2021_388,balram kumar sah,0,power
+386,KUCAT_2021_389,yushra bhaila,461,ce
+387,KUCAT_2021_390,swechchha parajuli,547,ce
+388,KUCAT_2021_391,sanjay chaudhary,672,civil
+389,KUCAT_2021_392,rachana adhikari,736,ce
+390,KUCAT_2021_393,saurav sharma wagle,0,ce
+391,KUCAT_2021_394,govind prasad pant,548,geo
+392,KUCAT_2021_395,sadhana panthi,1182,ce
+393,KUCAT_2021_396,sushmita nepal,0,arch
+394,KUCAT_2021_397,nabin dahal,681,civil
+395,KUCAT_2021_398,yashaswee shrestha,462,bio
+396,KUCAT_2021_399,mabika dangol,615,geo
+397,KUCAT_2021_400,sufal paudel,0,ce
+398,KUCAT_2021_401,kamlesh kumar sah,0,geo
+399,KUCAT_2021_402,asmin bhattarai,932,design
+400,KUCAT_2021_403,nista manandhar,530,cs
+401,KUCAT_2021_404,shrijan raut,887,geo
+402,KUCAT_2021_405,anushka shah,837,civil
+403,KUCAT_2021_406,jessica dhungana,882,civil
+404,KUCAT_2021_407,smarika chaudhary,464,civil
+405,KUCAT_2021_408,sonik neupane,888,ce
+406,KUCAT_2021_409,neha shah,976,ce
+407,KUCAT_2021_410,roshan kumar mahato,0,ce
+408,KUCAT_2021_411,raju chaudhary,674,arch
+409,KUCAT_2021_412,yashaswi shrestha,639,arch
+410,KUCAT_2021_413,binam sitikhu,513,cs
+411,KUCAT_2021_414,jharana bc,972,arch
+412,KUCAT_2021_415,kushal adhikari,954,ce
+413,KUCAT_2021_416,nutan gyawali,594,cs
+414,KUCAT_2021_417,suprim bhattarai,725,civil
+415,KUCAT_2021_418,ankit regmi,771,ce
+416,KUCAT_2021_419,sugat muni shakya,544,arch
+417,KUCAT_2021_420,asmita sharma,0,ce
+418,KUCAT_2021_421,sonu karak,326,civil
+419,KUCAT_2021_422,rohan ray yadav,776,ce
+420,KUCAT_2021_423,prarthana chalise,581,btech in artificial intelligence
+421,KUCAT_2021_424,deepak yadav,1210,power
+422,KUCAT_2021_425,prajwol aryal,945,ce
+423,KUCAT_2021_426,tilashmi karki,618,energy
+424,KUCAT_2021_427,birendra prashad bhatta,608,geo
+425,KUCAT_2021_428,sneha shrestha,572,ce
+426,KUCAT_2021_429,mukesh amaresh thakur,608,ce
+427,KUCAT_2021_430,arbin chaudhary,729,geo
+428,KUCAT_2021_431,yauman kumar somare,634,civil
+429,KUCAT_2021_432,rudip shrestha,963,design
+430,KUCAT_2021_433,shruti sharma,372,geo
+431,KUCAT_2021_434,ritika yadav,617,arch
+432,KUCAT_2021_435,aarya pant,699,civil
+433,KUCAT_2021_436,eliza sharma,856,ce
+434,KUCAT_2021_437,abhinesh takhachhen,596,civil
+435,KUCAT_2021_438,amrit dawadi,732,civil
+436,KUCAT_2021_439,sushma shrestha,522,geo
+437,KUCAT_2021_440,asmita shrestha,712,civil
+438,KUCAT_2021_441,puja kumari purbey,355,ce
+439,KUCAT_2021_442,prexit joshi,580,ce
+440,KUCAT_2021_443,binisha parajuli,510,geo
+441,KUCAT_2021_444,subash kandel,1079,ce
+442,KUCAT_2021_445,sushil giri,638,ce
+443,KUCAT_2021_446,ritesh babu mahatman yadav,877,civil
+444,KUCAT_2021_447,bishesh raj pandey,583,btech in artificial intelligence
+445,KUCAT_2021_448,kamal khatri,0,ce
+446,KUCAT_2021_449,anna rajbhandari,0,ce
+447,KUCAT_2021_450,dipesh chaudhary,351,hydro
+448,KUCAT_2021_451,bishal lamichhane,1108,ce
+449,KUCAT_2021_452,rohit kumar mandal,935,ce
+450,KUCAT_2021_453,dipesh prasad sah,727,chem
+451,KUCAT_2021_454,nikhil gain,987,civil
+452,KUCAT_2021_455,abisha gautam,615,civil
+453,KUCAT_2021_456,salina khachhe shrestha,516,arch
+454,KUCAT_2021_457,bishesha khatri,636,civil
+455,KUCAT_2021_458,binayak nath yogi,321,ce
+456,KUCAT_2021_459,sonali kumari mandal,791,ce
+457,KUCAT_2021_460,ayusha regmi,610,civil
+458,KUCAT_2021_461,rosana paudel,402,ce
+459,KUCAT_2021_462,suvam pokharel,456,auto
+460,KUCAT_2021_463,samikshya giri,365,ce
+461,KUCAT_2021_464,ayush krishna shrestha,614,ce
+462,KUCAT_2021_465,unisha chaulagain,670,ce
+463,KUCAT_2021_466,vilakshan gyawali,1079,communication
+464,KUCAT_2021_467,sushant gautam,415,civil
+465,KUCAT_2021_468,amisha rijal,853,civil
+466,KUCAT_2021_469,bipin bhattarai,705,ce
+467,KUCAT_2021_470,nishant ghimire,689,ce
+468,KUCAT_2021_471,bibhuti regmi,636,arch
+469,KUCAT_2021_472,kriti shrestha,748,civil
+470,KUCAT_2021_473,bhumika kumari singh,670,geo
+471,KUCAT_2021_474,aashutosh parajuli,429,ce
+472,KUCAT_2021_475,sushant bhandari,614,ce
+473,KUCAT_2021_476,avins sainju,582,ce
+474,KUCAT_2021_477,subrat kumar karna,718,ce
+475,KUCAT_2021_478,ashutosh subedi,878,auto
+476,KUCAT_2021_479,aditya chaudhary,707,civil
+477,KUCAT_2021_480,siddharth kumar singh,0,civil
+478,KUCAT_2021_481,bikram kunwar,0,ce
+479,KUCAT_2021_482,shreyash acharya,0,ce
+480,KUCAT_2021_483,archana rijal,462,bsc in agriculture
+481,KUCAT_2021_484,bidhi shrestha,619,arch
+482,KUCAT_2021_485,aman bhagat,621,ce
+483,KUCAT_2021_486,shreeyan shrestha,679,civil
+484,KUCAT_2021_487,pradip kumar pandit,749,civil
+485,KUCAT_2021_488,pankaj kumar yadav,738,power
+486,KUCAT_2021_489,sujata poudel,609,civil
+487,KUCAT_2021_490,abhipsa wagle,373,ce
+488,KUCAT_2021_491,sulav gupta,484,civil
+489,KUCAT_2021_492,sudhir banjara,479,ce
+490,KUCAT_2021_493,manita shah,475,civil
+491,KUCAT_2021_494,bibek poudel,685,ce
+492,KUCAT_2021_495,rajan thapa,569,power
+493,KUCAT_2021_496,aman sharma,720,power
+494,KUCAT_2021_497,aditya dhamala,674,ce
+495,KUCAT_2021_498,sweety taujale,562,geo
+496,KUCAT_2021_499,niyati malla,582,ce
+497,KUCAT_2021_500,samud govind rajkarnikar,660,ce
+498,KUCAT_2021_501,rajiv gupta,571,civil
+499,KUCAT_2021_502,prabhat kumar jha,0,power
+500,KUCAT_2021_503,priti yadav,457,arch
+501,KUCAT_2021_504,sandesh kuikel,974,ce
+502,KUCAT_2021_505,vinay khadka,402,ce
+503,KUCAT_2021_506,swopnil bista,0,cs
+504,KUCAT_2021_507,rishav upadhaya,790,ce
+505,KUCAT_2021_508,shreya uprety,1284,ce
+506,KUCAT_2021_509,prashant bohara,1050,ce
+507,KUCAT_2021_510,sumi rana magar,510,geo
+508,KUCAT_2021_511,riva joshi,592,ce
+509,KUCAT_2021_512,rahul ravi mahatha,683,btech in artificial intelligence
+510,KUCAT_2021_513,aarohi keshari,502,ce
+511,KUCAT_2021_514,sanim pandey,1255,ce
+512,KUCAT_2021_515,anusuya baral,437,civil
+513,KUCAT_2021_516,wadud ansari,624,cs
+514,KUCAT_2021_517,shankar panjiyar,531,geo
+515,KUCAT_2021_518,anil kumar sah,975,design
+516,KUCAT_2021_519,ronisha kaway,0,ce
+517,KUCAT_2021_520,abhishek kamati,984,ce
+518,KUCAT_2021_521,suvasini poudyal,844,bio
+519,KUCAT_2021_522,samrid sthapit,716,civil
+520,KUCAT_2021_523,anuska giri,735,civil
+521,KUCAT_2021_524,avinash kumar mahaseth,673,civil
+522,KUCAT_2021_525,ayush khadka,514,arch
+523,KUCAT_2021_526,bishal chaudhary,671,ce
+524,KUCAT_2021_527,arkrisha shrestha,514,arch
+525,KUCAT_2021_528,saloni pandey,603,arch
+526,KUCAT_2021_529,aashish sanjel,0,btech in artificial intelligence
+527,KUCAT_2021_530,aryan bhattarai,799,ce
+528,KUCAT_2021_531,rohisa giri,630,ce
+529,KUCAT_2021_532,bikash chaudhary,736,civil
+530,KUCAT_2021_533,yangdu sherpa,543,bio
+531,KUCAT_2021_534,supriya adhikari,644,arch
+532,KUCAT_2021_535,mamata poudel,525,arch
+533,KUCAT_2021_536,sumesh dhonju,805,ce
+534,KUCAT_2021_537,prabesh katwal,737,civil
+535,KUCAT_2021_538,arjun mandal,687,power
+536,KUCAT_2021_539,zaved krishna agam,726,enve
+537,KUCAT_2021_540,manashvi rajbhandari,0,civil
+538,KUCAT_2021_541,ridhika koirala,580,arch
+539,KUCAT_2021_542,amit poudyal,1037,ce
+540,KUCAT_2021_543,samip ghimire,958,ce
+541,KUCAT_2021_544,bipana bajagain,674,bsc in agriculture
+542,KUCAT_2021_545,sunil kumar mahato,578,civil
+543,KUCAT_2021_546,isha koirala,0,btech in artificial intelligence
+544,KUCAT_2021_547,raghav raj baiju,525,hydro
+545,KUCAT_2021_548,biraj bhattarai,1145,civil
+546,KUCAT_2021_549,sandip sanjel,822,ce
+547,KUCAT_2021_550,aavash lamichhane,1043,ce
+548,KUCAT_2021_551,ronak shakya,611,ce
+549,KUCAT_2021_552,rohan thapa,664,ce
+550,KUCAT_2021_553,manjil thapa,586,btech in artificial intelligence
+551,KUCAT_2021_554,aachal dhungana,665,civil
+552,KUCAT_2021_555,sandesh shrestha,561,civil
+553,KUCAT_2021_556,bijaya kumar humagain,476,ce
+554,KUCAT_2021_557,shishir gyawali,0,civil
+555,KUCAT_2021_558,bipul kumar dahal,787,ce
+556,KUCAT_2021_559,kasish karki,538,bsc in agriculture
+557,KUCAT_2021_560,melina singh,717,btech in artificial intelligence
+558,KUCAT_2021_561,probin pun,653,cs
+559,KUCAT_2021_562,anik bhandari,531,cs
+560,KUCAT_2021_563,aayush pantha,668,civil
+561,KUCAT_2021_564,sabal humagain,481,cs
+562,KUCAT_2021_565,adhish dulal,374,bsc in agriculture
+563,KUCAT_2021_566,prashant jaiswal,456,ce
+564,KUCAT_2021_567,satya bhattarai,729,cs
+565,KUCAT_2021_568,baibhav paudel,500,ce
+566,KUCAT_2021_569,riva thapa,542,arch
+567,KUCAT_2021_570,astha shah,1049,ce
+568,KUCAT_2021_571,bigyan kumar piya,722,ce
+569,KUCAT_2021_572,manush ghimire,630,power
+570,KUCAT_2021_573,sunil kumar yadav,925,civil
+571,KUCAT_2021_574,ashish neupane,1022,cs
+572,KUCAT_2021_575,laxmi khanal,648,civil
+573,KUCAT_2021_576,ashmita pokhrel,616,civil
+574,KUCAT_2021_577,annu arya mehta,352,ce
+575,KUCAT_2021_578,preksha jha,0,civil
+576,KUCAT_2021_579,neha bhandari,533,arch
+577,KUCAT_2021_580,shubha amatya,552,arch
+578,KUCAT_2021_581,shreyash poudel,745,ce
+579,KUCAT_2021_582,jyoti ghimire,838,civil
+580,KUCAT_2021_583,aayush awasthi,491,geo
+581,KUCAT_2021_584,shishir sapkota,560,civil
+582,KUCAT_2021_585,utsav sapkota,835,civil
+583,KUCAT_2021_586,sanjay rizal,687,ce
+584,KUCAT_2021_587,anupam poudel,746,civil
+585,KUCAT_2021_588,sulav kandel,595,civil
+586,KUCAT_2021_589,manushree poudyal,545,arch
+587,KUCAT_2021_590,anamika singh,463,civil
+588,KUCAT_2021_591,abinash khanal,951,civil
+589,KUCAT_2021_592,suyog ghimire,735,ce
+590,KUCAT_2021_593,sijan joshi,1042,ce
+591,KUCAT_2021_594,kshitiz raj paudyal,885,ce
+592,KUCAT_2021_595,amrit shrestha,1044,civil
+593,KUCAT_2021_596,swosti manandhar,799,arch
+594,KUCAT_2021_597,navin gyawali,719,btech in artificial intelligence
+595,KUCAT_2021_598,krishma dulal,487,arch
+596,KUCAT_2021_599,anugya lamsal,639,bio
+597,KUCAT_2021_600,bijaya kumar pariyar,0,ce
+598,KUCAT_2021_601,shreya shrestha,843,arch
+599,KUCAT_2021_602,susanta basnet,626,ce
+600,KUCAT_2021_603,samridhi bhandari,779,arch
+601,KUCAT_2021_604,shashi kumar singh,654,civil
+602,KUCAT_2021_605,koshal raj panthi,0,civil
+603,KUCAT_2021_606,anurag mahato,574,ce
+604,KUCAT_2021_607,bibek nayak,732,ce
+605,KUCAT_2021_608,roshan shrestha,546,civil
+606,KUCAT_2021_609,anamika bista,759,civil
+607,KUCAT_2021_610,biplab ghimire,698,auto
+608,KUCAT_2021_611,prabesh sagar baral,0,ce
+609,KUCAT_2021_612,sujan ghimire,1025,cs
+610,KUCAT_2021_613,sudarshan yadav,998,civil
+611,KUCAT_2021_614,salaj chaudhary,388,bsc in agriculture
+612,KUCAT_2021_615,niharika kunwar,667,cs
+613,KUCAT_2021_616,sejal yadav,386,bsc in agriculture
+614,KUCAT_2021_617,sofiya shrestha,571,arch
+615,KUCAT_2021_618,shrijan dahal,589,cs
+616,KUCAT_2021_619,aaditya kafle,752,ce
+617,KUCAT_2021_620,kushal sapkota,788,design
+618,KUCAT_2021_621,saugat bhandari,844,ce
+619,KUCAT_2021_622,deepika panchariya,496,arch
+620,KUCAT_2021_623,niki kumari yadav,737,bsc in agriculture
+621,KUCAT_2021_624,subina belbase,585,arch
+622,KUCAT_2021_625,bishakha chapagain,0,civil
+623,KUCAT_2021_626,kiran kumpakha,0,geo
+624,KUCAT_2021_627,nabin kandel,439,btech in artificial intelligence
+625,KUCAT_2021_628,ojeena kumari singh,586,geo
+626,KUCAT_2021_629,namuna timalsina,615,civil
+627,KUCAT_2021_630,pratibha shrestha,438,civil
+628,KUCAT_2021_631,rashmi thing,708,design
+629,KUCAT_2021_632,raiyan khan,544,civil
+630,KUCAT_2021_633,aman raj poudel,635,bio
+631,KUCAT_2021_634,shirish jonchhen,837,cs
+632,KUCAT_2021_635,subekshya sapkota,766,energy
+633,KUCAT_2021_636,shruti ranjan,0,arch
+634,KUCAT_2021_637,mohan d.c.,572,ce
+635,KUCAT_2021_638,apeksha parajuli,0,civil
+636,KUCAT_2021_639,samyog humagain,558,ce
+637,KUCAT_2021_640,prajwal aryal,754,civil
+638,KUCAT_2021_641,rashmita kumari jha,730,civil
+639,KUCAT_2021_642,sadikshya koirala,337,bsc in agriculture
+640,KUCAT_2021_643,bhawana kadariya,0,geo
+641,KUCAT_2021_644,purushottam sapkota,732,bsc in agriculture
+642,KUCAT_2021_645,tushar mishra,607,civil
+643,KUCAT_2021_646,aman kumar jha,783,ce
+644,KUCAT_2021_647,lajana manandhar,846,arch
+645,KUCAT_2021_648,balram yadav,759,civil
+646,KUCAT_2021_649,binaya gyawali,744,civil
+647,KUCAT_2021_650,aamod mishra,0,ce
+648,KUCAT_2021_651,supriya adhikari,990,ce
+649,KUCAT_2021_652,sujita mahato,325,arch
+650,KUCAT_2021_653,sonu sah,749,geo
+651,KUCAT_2021_654,kishan kumar jaiswal,719,civil
+652,KUCAT_2021_655,karan chaudhary,1125,ce
+653,KUCAT_2021_656,kritika subedi,668,civil
+654,KUCAT_2021_657,prasanna mahaseth,0,civil
+655,KUCAT_2021_658,ayusha manandhar,628,arch
+656,KUCAT_2021_659,sabeen gautam,539,civil
+657,KUCAT_2021_660,love sainju,711,cs
+658,KUCAT_2021_661,mandip shrestha,782,ce
+659,KUCAT_2021_662,sujata lama,383,civil
+660,KUCAT_2021_663,dipesh bikram shah,629,bsc in agriculture
+661,KUCAT_2021_664,rahul chaudhari,0,ce
+662,KUCAT_2021_665,david bhattarai,791,communication
+663,KUCAT_2021_666,suwanee shrestha,701,bsc in agriculture
+664,KUCAT_2021_667,nirjara ranjitkar,555,ce
+665,KUCAT_2021_668,raben kumar yadav,538,civil
+666,KUCAT_2021_669,abhishek mahato,0,cs
+667,KUCAT_2021_670,mohit shrestha,408,civil
+668,KUCAT_2021_671,rajmi syangtan,502,arch
+669,KUCAT_2021_672,aditya kumar thakur,518,civil
+670,KUCAT_2021_673,swastika kumari mahato,0,bio
+671,KUCAT_2021_674,apurva shrestha,544,ce
+672,KUCAT_2021_675,pramila humagain,577,bsc in agriculture
+673,KUCAT_2021_676,murari pandey,596,bsc in agriculture
+674,KUCAT_2021_677,priya shrestha,485,btech in artificial intelligence
+675,KUCAT_2021_678,pratiksha mishra,554,ce
+676,KUCAT_2021_679,bibechana pokhrel,834,civil
+677,KUCAT_2021_680,anjita singh,526,arch
+678,KUCAT_2021_681,sujita regmi,630,btech in artificial intelligence
+679,KUCAT_2021_682,sunita dahal,415,bsc in agriculture
+680,KUCAT_2021_683,karina timalsina,475,bsc in agriculture
+681,KUCAT_2021_684,aachal sah,464,ce
+682,KUCAT_2021_685,atit lawati,0,civil
+683,KUCAT_2021_686,nirbhica shrestha,513,bio
+684,KUCAT_2021_687,prabhat chaturvedi,748,ce
+685,KUCAT_2021_688,suman pokharel,0,civil
+686,KUCAT_2021_689,rebecca shah,572,ce
+687,KUCAT_2021_690,tisha shrestha,499,bio
+688,KUCAT_2021_691,roza shrestha,433,bio
+689,KUCAT_2021_692,dipendra kumar yadav,776,civil
+690,KUCAT_2021_693,purshotam kumar daha dhanu,399,ce
+691,KUCAT_2021_694,shishir bhandari,1371,civil
+692,KUCAT_2021_695,anjali mandal,662,bio
+693,KUCAT_2021_696,shubham karna,790,civil
+694,KUCAT_2021_697,sabina adhikari,450,geo
+695,KUCAT_2021_698,yashoda kandel,0,bio
+696,KUCAT_2021_699,tsewang lama,699,auto
+697,KUCAT_2021_700,tilak budha magar,599,civil
+698,KUCAT_2021_701,aliza adhikari,795,arch
+699,KUCAT_2021_702,soniya mehta,794,civil
+700,KUCAT_2021_703,luis dahal,1069,civil
+701,KUCAT_2021_704,ashish kandel,1011,ce
+702,KUCAT_2021_705,rajesh kumar yadav,0,bsc in agriculture
+703,KUCAT_2021_706,arpana tharu,357,bsc in agriculture
+704,KUCAT_2021_707,sandesh bhatta,812,ce
+705,KUCAT_2021_708,deepika pandey,885,civil
+706,KUCAT_2021_709,kritagya koirala,994,civil
+707,KUCAT_2021_710,gaurav wagle,416,ce
+708,KUCAT_2021_711,kush sainju,603,ce
+709,KUCAT_2021_712,manoj bhatta,616,civil
+710,KUCAT_2021_713,sapana gautam,418,ce
+711,KUCAT_2021_714,prashant sah,526,communication
+712,KUCAT_2021_715,bimal rawat,670,civil
+713,KUCAT_2021_716,dipesh gaire,768,civil
+714,KUCAT_2021_717,smriti adhikari,779,ce
+715,KUCAT_2021_718,sushant subedi,687,civil
+716,KUCAT_2021_719,ashok khatri,752,civil
+717,KUCAT_2021_720,utsika pandey,640,civil
+718,KUCAT_2021_721,vivekananda gupta,884,cs
+719,KUCAT_2021_722,sayujya dhungana,602,cs
+720,KUCAT_2021_723,sneha kandel,544,cs
+721,KUCAT_2021_724,ujjwal luitel,499,ce
+722,KUCAT_2021_725,anjal mahat,511,ce
+723,KUCAT_2021_726,purushotam kumar rauniyar,670,ce
+724,KUCAT_2021_727,dilip tamang,749,design
+725,KUCAT_2021_728,mandika thapa magar,450,ce
+726,KUCAT_2021_729,gauri kuikel,0,civil
+727,KUCAT_2021_730,yasaswi shrestha,484,arch
+728,KUCAT_2021_731,ritesh kumar yadav,570,civil
+729,KUCAT_2021_732,supreme ghimire,474,civil
+730,KUCAT_2021_733,nishant dahal,832,btech in artificial intelligence
+731,KUCAT_2021_734,shiv prakash sah,441,civil
+732,KUCAT_2021_735,nikesh shah,388,bsc in agriculture
+733,KUCAT_2021_736,reuel rai,0,ce
+734,KUCAT_2021_737,anil kumar shah,485,civil
+735,KUCAT_2021_738,bishal khanal,731,ce
+736,KUCAT_2021_739,senchen thamsuhang,879,civil
+737,KUCAT_2021_740,aayush kumar jha,495,ce
+738,KUCAT_2021_741,anamika karna,631,civil
+739,KUCAT_2021_742,shrey dip bhandari,501,cs
+740,KUCAT_2021_743,prafful raj thapa,935,ce
+741,KUCAT_2021_744,anish kunwar chhetri,888,civil
+742,KUCAT_2021_745,shaswat pant,1027,ce
+743,KUCAT_2021_746,arpan paudel,855,ce
+744,KUCAT_2021_747,prashant aryal,699,ce
+745,KUCAT_2021_748,shatakshi shiwakoti,489,cs
+746,KUCAT_2021_749,pardeep joshi,0,ce
+747,KUCAT_2021_750,diksha mallik,604,civil
+748,KUCAT_2021_751,pratik sharma,718,ce
+749,KUCAT_2021_752,gautam sah,451,civil
+750,KUCAT_2021_753,bibek shrestha,404,auto
+751,KUCAT_2021_754,rajan sah,0,civil
+752,KUCAT_2021_755,krishma deoju,436,arch
+753,KUCAT_2021_756,yogesh kumar dubbe,571,chem
+754,KUCAT_2021_757,yogesh bhattarai,361,civil
+755,KUCAT_2021_758,hardik khadka,0,ce
+756,KUCAT_2021_759,sunidhi sharma,840,ce
+757,KUCAT_2021_760,rajan yadav,0,btech in artificial intelligence
+758,KUCAT_2021_761,navin kumar thakur,747,civil
+759,KUCAT_2021_762,aagaman bhattarai,812,cs
+760,KUCAT_2021_763,samir poudel,857,civil
+761,KUCAT_2021_764,arica thapaliya,612,ce
+762,KUCAT_2021_765,bipul chaudhary,759,geo
+763,KUCAT_2021_766,prabin sah,400,geo
+764,KUCAT_2021_767,bharat yadav,576,civil
+765,KUCAT_2021_768,sanskar aryal,735,ce
+766,KUCAT_2021_769,khushbu regmi,1062,civil
+767,KUCAT_2021_770,chandan prashad jayswal,379,civil
+768,KUCAT_2021_771,dikshya sharma,513,energy
+769,KUCAT_2021_772,smriti joshi,610,civil
+770,KUCAT_2021_773,ajib astani magar,507,ce
+771,KUCAT_2021_774,smriti singh,614,arch
+772,KUCAT_2021_775,nirajan diyali,549,ce
+773,KUCAT_2021_776,roshan shah,440,geo
+774,KUCAT_2021_777,kritika dhakal,726,civil
+775,KUCAT_2021_778,liza dev pradhan shrestha,507,arch
+776,KUCAT_2021_779,aadarsh gautam,465,civil
+777,KUCAT_2021_780,sasa dhungana,877,ce
+778,KUCAT_2021_781,rakshya bhusal,623,arch
+779,KUCAT_2021_782,anil tamang,442,auto
+780,KUCAT_2021_783,sophiya shrestha,466,ce
+781,KUCAT_2021_784,prabesh aryal,650,ce
+782,KUCAT_2021_785,smriti koirala,654,ce
+783,KUCAT_2021_786,simran kunwar,542,bsc in agriculture
+784,KUCAT_2021_787,aashish raj mandal,494,civil
+785,KUCAT_2021_788,rashmi kumari,633,arch
+786,KUCAT_2021_789,austin karki,920,ce
+787,KUCAT_2021_790,anil kumar sahani,754,ce
+788,KUCAT_2021_791,afnan rahman,587,ce
+789,KUCAT_2021_792,amrendra mahato,434,civil
+790,KUCAT_2021_793,piyush pandeya,656,civil
+791,KUCAT_2021_794,saish bhattarai,398,ce
+792,KUCAT_2021_795,ayusha kumari sah,552,civil
+793,KUCAT_2021_796,saurab pariyar,0,geo
+794,KUCAT_2021_797,bipina karki,316,arch
+795,KUCAT_2021_798,aayush regmi,682,civil
+796,KUCAT_2021_799,babit dangi,670,ce
+797,KUCAT_2021_800,garima pradhan,440,arch
+798,KUCAT_2021_801,manish mishra,636,civil
+799,KUCAT_2021_802,ayush k.c,1128,ce
+800,KUCAT_2021_803,ranjan kumar ray,421,civil
+801,KUCAT_2021_804,ayushma bhandari,565,geo
+802,KUCAT_2021_805,aayush paudel,554,civil
+803,KUCAT_2021_806,priya karn,406,arch
+804,KUCAT_2021_807,ripu kumar thakur,370,bsc in agriculture
+805,KUCAT_2021_808,yadav acharya,991,civil
+806,KUCAT_2021_809,sudip mahat,412,bsc in agriculture
+807,KUCAT_2021_810,tripti kumari,422,ce
+808,KUCAT_2021_811,sonu kumar gupta,633,civil
+809,KUCAT_2021_812,bishesh raj khanal,701,ce
+810,KUCAT_2021_813,sarbajit kumar yadav,363,civil
+811,KUCAT_2021_814,binod singh dhami,853,civil
+812,KUCAT_2021_815,aayusha subedi,585,civil
+813,KUCAT_2021_816,avay verma,479,ce
+814,KUCAT_2021_817,namaraj lamichhane,839,geo
+815,KUCAT_2021_818,jigyasha acharya,681,civil
+816,KUCAT_2021_819,sweta gautam,531,ce
+817,KUCAT_2021_820,dikshyant adhikari,572,ce
+818,KUCAT_2021_821,amshu bhandari,787,arch
+819,KUCAT_2021_822,suyog bajimayo,562,ce
+820,KUCAT_2021_823,subekshya bajimayo,332,ce
+821,KUCAT_2021_824,arun prasad sah,738,civil
+822,KUCAT_2021_825,ramesh mahato koiri,744,civil
+823,KUCAT_2021_826,hanjal basnet,763,civil
+824,KUCAT_2021_827,rashik shrestha,0,cs
+825,KUCAT_2021_828,lasata ranjitkar,764,bio
+826,KUCAT_2021_829,pramod kumar sah,584,communication
+827,KUCAT_2021_830,missan ban,601,ce
+828,KUCAT_2021_831,sagar chapagain,732,civil
+829,KUCAT_2021_832,saurav sapkota,548,cs
+830,KUCAT_2021_833,rohan katwal,0,ce
+831,KUCAT_2021_834,prashansa tuladhar,642,ce
+832,KUCAT_2021_835,bikash khadka,889,civil
+833,KUCAT_2021_836,samir ban,506,ce
+834,KUCAT_2021_837,jenisha shrestha,561,ce
+835,KUCAT_2021_838,swikar koirala,950,design
+836,KUCAT_2021_839,avinav budhathoki,643,civil
+837,KUCAT_2021_840,asmi shrestha,0,civil
+838,KUCAT_2021_841,hariom patel,608,geo
+839,KUCAT_2021_842,alok patel,753,geo
+840,KUCAT_2021_843,pranisha gautam,430,design
+841,KUCAT_2021_844,kritagya timsina,568,ce
+842,KUCAT_2021_845,jayanti timalsina,548,bsc in agriculture
+843,KUCAT_2021_846,aman maharjan,554,civil
+844,KUCAT_2021_847,diya neupane,957,ce
+845,KUCAT_2021_848,sneha manandhar,576,arch
+846,KUCAT_2021_849,ritika niraula,734,ce
+847,KUCAT_2021_850,sushant poudel,861,civil
+848,KUCAT_2021_851,esika poudel,564,b e i n c i v i l e n g i n e e r i n g ( s p e c i a l i z a t i o n i n h y d r o p o w e r )
+849,KUCAT_2021_852,digant gurmachhan,950,ce
+850,KUCAT_2021_853,pragya gelal,378,civil
+851,KUCAT_2021_854,pinkey kumari thakur,377,arch
+852,KUCAT_2021_855,prem kumar sah,468,civil
+853,KUCAT_2021_856,samriddhi pandey,540,civil
+854,KUCAT_2021_857,rupa bajgain,647,ce
+855,KUCAT_2021_858,anjila subedi,597,ce
+856,KUCAT_2021_859,pranish uprety,984,ce
+857,KUCAT_2021_860,sujal maharjan,0,ce
+858,KUCAT_2021_861,babita mishra,0,civil
+859,KUCAT_2021_862,prarthana upreti,554,arch
+860,KUCAT_2021_863,ankit adhikari,653,ce
+861,KUCAT_2021_864,sushil bhandari,369,auto
+862,KUCAT_2021_865,ram dahal,432,ce
+863,KUCAT_2021_866,swornim shrestha,754,ce
+864,KUCAT_2021_867,prashant shrestha,637,arch
+865,KUCAT_2021_868,rohan dhakal,711,ce
+866,KUCAT_2021_869,anish timalsina,999,ce
+867,KUCAT_2021_870,kamana karki,360,bio
+868,KUCAT_2021_871,rakshya khatri,754,geo
+869,KUCAT_2021_872,nikita rc,420,geo
+870,KUCAT_2021_873,sewan uprety,736,ce
+871,KUCAT_2021_874,subit nepal,919,ce
+872,KUCAT_2021_875,raj simkhada,848,ce
+873,KUCAT_2021_876,aditya pandit,649,ce
+874,KUCAT_2021_877,binayak subedi,578,ce
+875,KUCAT_2021_878,sneha chhetri,1119,ce
+876,KUCAT_2021_879,dhiraj sah,509,ce
+877,KUCAT_2021_880,jit bahadur khadka,509,geo
+878,KUCAT_2021_881,aakash ramdam,520,design
+879,KUCAT_2021_882,mahima thapa,806,bio
+880,KUCAT_2021_883,sujan khadka,519,geo
+881,KUCAT_2021_884,rista shrestha,981,ce
+882,KUCAT_2021_885,prabeen giri,0,ce
+883,KUCAT_2021_886,shreekrishna adhikari,496,civil
+884,KUCAT_2021_887,divya bhattarai,555,civil
+885,KUCAT_2021_888,tej kanta upadhyay,518,hydro
+886,KUCAT_2021_889,ayushma timalsina,475,geo
+887,KUCAT_2021_890,neha yadav,825,auto
+888,KUCAT_2021_891,pratigya koirala,624,geo
+889,KUCAT_2021_892,aadesh jung singh,367,civil
+890,KUCAT_2021_893,shashiraj chaudhary tharu,418,civil
+891,KUCAT_2021_894,sulav kumar karki,567,ce
+892,KUCAT_2021_895,sekh aftab husain,532,civil
+893,KUCAT_2021_896,arakshya roka,525,arch
+894,KUCAT_2021_897,ritika timalsina,499,geo
+895,KUCAT_2021_898,sanatan khanal,461,bio
+896,KUCAT_2021_899,simran kumari,698,arch
+897,KUCAT_2021_900,dipin panta,828,ce
+898,KUCAT_2021_901,aman adhikari,597,civil
+899,KUCAT_2021_902,sambhu kumar yadav,366,power
+900,KUCAT_2021_903,swikar jaiswal,1109,cs
+901,KUCAT_2021_904,nirjal dhakal,932,energy
+902,KUCAT_2021_905,kishan raj malla,496,ce
+903,KUCAT_2021_906,yogesh kumar sah,0,ce
+904,KUCAT_2021_907,ranveer yadav,789,ce
+905,KUCAT_2021_908,junip giri,657,civil
+906,KUCAT_2021_909,rajiv mahato,991,civil
+907,KUCAT_2021_910,awish regmi,846,ce
+908,KUCAT_2021_911,tanishk thapa,813,civil
+909,KUCAT_2021_912,yogesh ghimire,852,geo
+910,KUCAT_2021_913,richi pandey,0,ce
+911,KUCAT_2021_914,loosa maharjan,425,ce
+912,KUCAT_2021_915,apurva subedi,764,civil
+913,KUCAT_2021_916,samriddhi karki,1116,civil
+914,KUCAT_2021_917,sonu prasad shah,439,civil
+915,KUCAT_2021_918,abhinav badal,533,power
+916,KUCAT_2021_919,utsab subedi,755,ce
+917,KUCAT_2021_920,sneha maharjan,452,arch
+918,KUCAT_2021_921,amit sah,0,civil
+919,KUCAT_2021_922,rajani sharma chalise,660,ce
+920,KUCAT_2021_923,kusum upadhyay,598,arch
+921,KUCAT_2021_924,pallika kafle,564,envs
+922,KUCAT_2021_925,dol raj giri,740,ce
+923,KUCAT_2021_926,prajapati prasad mahato,495,ce
+924,KUCAT_2021_927,krish adhikari,417,ce
+925,KUCAT_2021_928,aarshi karki,614,civil
+926,KUCAT_2021_929,puskar bohara,913,ce
+927,KUCAT_2021_930,anup gupta,405,civil
+928,KUCAT_2021_931,biplav chaudhary,455,ce
+929,KUCAT_2021_932,aayusha bhatta,768,ce
+930,KUCAT_2021_933,aakash upadhaya,829,design
+931,KUCAT_2021_934,hariom kumar shah,343,geo
+932,KUCAT_2021_935,prashant chaudhary,481,civil
+933,KUCAT_2021_936,ganesh saud,611,geo
+934,KUCAT_2021_937,swaraj sigdel,846,ce
+935,KUCAT_2021_938,anjila timalsina,522,auto
+936,KUCAT_2021_939,kalpana ghising,0,bsc in agriculture
+937,KUCAT_2021_940,riti maharjan,859,arch
+938,KUCAT_2021_941,shubham dahal,447,civil
+939,KUCAT_2021_942,sunaya upadhyay,1003,ce
+940,KUCAT_2021_943,lochan pant,692,geo
+941,KUCAT_2021_944,prashiddhi budhathoki,514,cs
+942,KUCAT_2021_945,atik sahukhala,333,auto
+943,KUCAT_2021_946,rohan kumar jha,538,ce
+944,KUCAT_2021_947,prabhat ghimire,612,ce
+945,KUCAT_2021_948,nishan k.c,756,ce
+946,KUCAT_2021_949,nischal thapa,392,ce
+947,KUCAT_2021_950,nabin ray,709,btech in artificial intelligence
+948,KUCAT_2021_951,akkal bahadur dhami,632,civil
+949,KUCAT_2021_952,sijan bahadur chhetri,611,civil
+950,KUCAT_2021_953,diwas adhikari,379,auto
+951,KUCAT_2021_954,sujal gupta,650,bsc in agriculture
+952,KUCAT_2021_955,anjan panjiyar,702,ce
+953,KUCAT_2021_956,ram binay raut,386,civil
+954,KUCAT_2021_957,adhish nidhi tiwari,622,cs
+955,KUCAT_2021_958,kailash badu,698,arch
+956,KUCAT_2021_959,gaurisha baral,464,cs
+957,KUCAT_2021_960,pratik upadhyaya dhakal,753,ce
+958,KUCAT_2021_961,pujan simkhada,609,civil
+959,KUCAT_2021_962,abhishek thapa,343,ce
+960,KUCAT_2021_963,pratik bashyal,898,civil
+961,KUCAT_2021_964,yesh kumar mahato,679,civil
+962,KUCAT_2021_965,abhyudit adhikari,601,ce
+963,KUCAT_2021_966,rabin regmi,813,civil
+964,KUCAT_2021_967,gaurab wagle,775,ce
+965,KUCAT_2021_968,rojan gautam,754,ce
+966,KUCAT_2021_969,sanlab adhikari,646,design
+967,KUCAT_2021_970,aakriti thapa,365,envs
+968,KUCAT_2021_971,susmita adhikari,641,civil
+969,KUCAT_2021_972,alisha gautam,637,bio
+970,KUCAT_2021_973,aastha sharma,570,ce
+971,KUCAT_2021_974,aagaman bhandari,749,ce
+972,KUCAT_2021_975,sadiksha ghimire,545,ce
+973,KUCAT_2021_976,anish subedi,915,ce
+974,KUCAT_2021_977,soumya dahal,718,ce
+975,KUCAT_2021_978,suman singh,396,civil
+976,KUCAT_2021_979,ranjana paudel,567,civil
+977,KUCAT_2021_980,samita paudel,638,arch
+978,KUCAT_2021_981,anuja kafle,1052,ce
+979,KUCAT_2021_982,pradeep manandhar,620,ce
+980,KUCAT_2021_983,kanchan bhattarai,550,civil
+981,KUCAT_2021_984,santosh yadav,1037,ce
+982,KUCAT_2021_985,roman bhandari,408,geo
+983,KUCAT_2021_986,surjan singh thakuri,571,geo
+984,KUCAT_2021_987,anchal karn,472,arch
+985,KUCAT_2021_988,mandira tiwari,885,civil
+986,KUCAT_2021_989,biplov kattel,577,ce
+987,KUCAT_2021_990,kritika sharma,0,civil
+988,KUCAT_2021_991,prashant kumar yadav,784,ce
+989,KUCAT_2021_992,nischal pradhan,489,cs
+990,KUCAT_2021_993,abhay kumar sah,729,ce
+991,KUCAT_2021_994,aasara bade shrestha,549,cs
+992,KUCAT_2021_995,samip manandhar,935,ce
+993,KUCAT_2021_996,anish tamang,397,cs
+994,KUCAT_2021_997,yogesh dahal,648,ce
+995,KUCAT_2021_998,pragun bhandari,956,civil
+996,KUCAT_2021_999,sophiya khadka,771,ce
+997,KUCAT_2021_1000,chanchal kumari raut,379,geo
+998,KUCAT_2021_1001,aman mahato,396,ce
+999,KUCAT_2021_1002,roshan chaudhary,806,civil
+1000,KUCAT_2021_1003,manish kumar yadav,0,civil
+1001,KUCAT_2021_1004,siddharth chaudhary,1006,ce
+1002,KUCAT_2021_1005,sahil duwal,606,ce
+1003,KUCAT_2021_1006,aditya dhakal,948,ce
+1004,KUCAT_2021_1007,aayusha bhantana,559,arch
+1005,KUCAT_2021_1008,arpan khadka,0,civil
+1006,KUCAT_2021_1009,jeeni shrestha,678,ce
+1007,KUCAT_2021_1010,gayatri bhatt,521,bsc in agriculture
+1008,KUCAT_2021_1011,saumya shrestha,831,ce
+1009,KUCAT_2021_1012,nirdesh bhattarai,593,ce
+1010,KUCAT_2021_1013,sandesh pokharel,0,ce
+1011,KUCAT_2021_1014,suchana khanal,899,arch
+1012,KUCAT_2021_1015,dipak shrestha,630,civil
+1013,KUCAT_2021_1016,anish kumar das,637,ce
+1014,KUCAT_2021_1017,sukdev pokhrel,469,chem
+1015,KUCAT_2021_1018,alok kumar sah,995,ce
+1016,KUCAT_2021_1019,aakriti pangeni,0,arch
+1017,KUCAT_2021_1020,prashanna paudel,954,ce
+1018,KUCAT_2021_1021,isha bista,381,ce
+1019,KUCAT_2021_1022,kritam shrestha,822,ce
+1020,KUCAT_2021_1023,shaya shrestha,539,civil
+1021,KUCAT_2021_1024,rupesh kumar khang,548,civil
+1022,KUCAT_2021_1025,biswas pokhrel,526,bsc in agriculture
+1023,KUCAT_2021_1026,rebecca subedi,911,civil
+1024,KUCAT_2021_1027,suryanshu verma,517,ce
+1025,KUCAT_2021_1028,anand sagar singh,423,geo
+1026,KUCAT_2021_1029,japhil hawari,858,civil
+1027,KUCAT_2021_1030,isha rijal,720,ce
+1028,KUCAT_2021_1031,anan rai,455,cs
+1029,KUCAT_2021_1032,aarju bhandari,591,geo
+1030,KUCAT_2021_1033,prekshya bhatta,643,ce
+1031,KUCAT_2021_1034,anisha thapa,553,civil
+1032,KUCAT_2021_1035,love kumar sah,854,civil
+1033,KUCAT_2021_1036,kriti bastola,569,enve
+1034,KUCAT_2021_1037,anisha bhandari,0,ce
+1035,KUCAT_2021_1038,aarya pradhan,399,bsc in agriculture
+1036,KUCAT_2021_1039,shreya rani,781,communication
+1037,KUCAT_2021_1040,siddharth khanal,819,power
+1038,KUCAT_2021_1041,kanchan shrestha,768,btech in artificial intelligence
+1039,KUCAT_2021_1042,salil rijal,498,civil
+1040,KUCAT_2021_1043,garima buddhacharya,730,bio
+1041,KUCAT_2021_1044,manish manandhar,585,civil
+1042,KUCAT_2021_1045,bhawana chaudhary,510,envs
+1043,KUCAT_2021_1046,shivan kumar yadav,485,geo
+1044,KUCAT_2021_1047,sajina giri,688,civil
+1045,KUCAT_2021_1048,sameer prasad sah,376,ce
+1046,KUCAT_2021_1049,rajanand raut,504,ce
+1047,KUCAT_2021_1050,abasar paudyal,904,geo
+1048,KUCAT_2021_1051,aashish bhandari,693,civil
+1049,KUCAT_2021_1052,kaushal bijay manandhar,425,civil
+1050,KUCAT_2021_1053,lokesh poudyal,557,design
+1051,KUCAT_2021_1054,sabin ghimire,748,civil
+1052,KUCAT_2021_1055,aakash poudel,916,geo
+1053,KUCAT_2021_1056,misan karki,0,civil
+1054,KUCAT_2021_1057,sumit mainali,666,communication
+1055,KUCAT_2021_1058,bikrant pudasaini,639,ce
+1056,KUCAT_2021_1059,shivam khadka,601,ce
+1057,KUCAT_2021_1060,sagar katuwal,0,ce
+1058,KUCAT_2021_1061,vishwanath jha,507,auto
+1059,KUCAT_2021_1062,sushan adhikari,1062,ce
+1060,KUCAT_2021_1063,siddhartha shrestha,562,ce
+1061,KUCAT_2021_1064,dhiraj jha,0,ce
+1062,KUCAT_2021_1065,isan thapa,764,geo
+1063,KUCAT_2021_1066,angad adhikari,330,cs
+1064,KUCAT_2021_1067,isha nepal,860,ce
+1065,KUCAT_2021_1068,gigyasha niroula,561,cs
+1066,KUCAT_2021_1069,samyak shrestha,523,civil
+1067,KUCAT_2021_1070,ashvin dhakal,0,ce
+1068,KUCAT_2021_1071,sushant khanal,601,ce
+1069,KUCAT_2021_1072,hemani bhatt,806,geo
+1070,KUCAT_2021_1073,anuj bhattarai,888,geo
+1071,KUCAT_2021_1074,shreyash basnet,0,cs
+1072,KUCAT_2021_1075,anshul thapa,474,civil
+1073,KUCAT_2021_1076,sushant kumar chaudhary,425,civil
+1074,KUCAT_2021_1077,amit prasad chaurasiya,0,civil
+1075,KUCAT_2021_1078,rikesh dhamala,387,geo
+1076,KUCAT_2021_1079,madhukant ray,363,bsc in agriculture
+1077,KUCAT_2021_1080,prachi bhatta,515,civil
+1078,KUCAT_2021_1081,chakra bist,546,ce
+1079,KUCAT_2021_1082,prabhash sah,386,bio
+1080,KUCAT_2021_1083,prachi bhatta,527,civil
+1081,KUCAT_2021_1084,rajesh kumar sah,548,auto
+1082,KUCAT_2021_1085,savyata bhattarai,552,arch
+1083,KUCAT_2021_1086,krishant timilsina,1214,ce
+1084,KUCAT_2021_1087,saroj kumar sah,510,geo
+1085,KUCAT_2021_1088,devansha shrestha,460,ce
+1086,KUCAT_2021_1089,anisha khanal,0,geo
+1087,KUCAT_2021_1090,nilisha maharjan,769,ce
+1088,KUCAT_2021_1091,aashish karki,1540,ce
+1089,KUCAT_2021_1092,yoga nand kumar mandal,407,ce
+1090,KUCAT_2021_1093,nitish kumar thakur,413,arch
+1091,KUCAT_2021_1094,prajwal yadav,0,ce
+1092,KUCAT_2021_1095,shristi karki,567,arch
+1093,KUCAT_2021_1096,avinab khadka,751,ce
+1094,KUCAT_2021_1097,subira pokharel,0,cs
+1095,KUCAT_2021_1098,dibash shrestha,595,civil
+1096,KUCAT_2021_1099,manish marasini,798,civil
+1097,KUCAT_2021_1100,ram krishna ghimire,1137,ce
+1098,KUCAT_2021_1101,arbind singh,450,civil
+1099,KUCAT_2021_1102,prabin baniya,911,ce
+1100,KUCAT_2021_1103,samikshya adhikari,590,ce
+1101,KUCAT_2021_1104,rosel rajya laxmi shah,404,arch
+1102,KUCAT_2021_1105,sulove shrestha,742,civil
+1103,KUCAT_2021_1106,rabi chandra aryal,831,design
+1104,KUCAT_2021_1107,safal shrestha,442,arch
+1105,KUCAT_2021_1108,rupak yadav,975,hydro
+1106,KUCAT_2021_1109,prakash bahadur sapkota,736,civil
+1107,KUCAT_2021_1110,pratyusha chapagain,499,cs
+1108,KUCAT_2021_1111,ankur aryal,819,cs
+1109,KUCAT_2021_1112,mira khulal,606,bsc in agriculture
+1110,KUCAT_2021_1113,santosh joshi,1055,civil
+1111,KUCAT_2021_1114,aakriti sigdel,544,bio
+1112,KUCAT_2021_1115,alisna pratik yadav,629,civil
+1113,KUCAT_2021_1116,bishist pandey,403,ce
+1114,KUCAT_2021_1117,krishal kharbuja,885,auto
+1115,KUCAT_2021_1118,nishchal rasaili,670,civil
+1116,KUCAT_2021_1119,sugat sujakhu,1096,ce
+1117,KUCAT_2021_1120,manas basnet,589,ce
+1118,KUCAT_2021_1121,prakash dulal,1251,civil
+1119,KUCAT_2021_1122,sajita khadka,554,civil
+1120,KUCAT_2021_1123,sagar upadhaya,618,geo
+1121,KUCAT_2021_1124,krijma ranabhat,576,bio
+1122,KUCAT_2021_1125,khushbu yadav,443,bsc in agriculture
+1123,KUCAT_2021_1126,sujal basnet,362,civil
+1124,KUCAT_2021_1127,drishya karki,400,ce
+1125,KUCAT_2021_1128,sneha upreti,581,civil
+1126,KUCAT_2021_1129,kabita mahato,383,civil
+1127,KUCAT_2021_1130,anamol dhakal,0,ce
+1128,KUCAT_2021_1131,mukesh bhandari,517,geo
+1129,KUCAT_2021_1132,mamata ranabhat,965,civil
+1130,KUCAT_2021_1133,manash kumar nepal,625,ce
+1131,KUCAT_2021_1134,bhuban bista,349,civil
+1132,KUCAT_2021_1135,nabin kumar rajak,401,geo
+1133,KUCAT_2021_1136,samrat panta,701,bio
+1134,KUCAT_2021_1137,arpan chaudhary,528,civil
+1135,KUCAT_2021_1138,archana dhoju,617,civil
+1136,KUCAT_2021_1139,arhat tuladhar,775,civil
+1137,KUCAT_2021_1140,bishal chaulagain,609,ce
+1138,KUCAT_2021_1141,anand yadav,726,geo
+1139,KUCAT_2021_1142,sanjog sapkota,0,communication
+1140,KUCAT_2021_1143,gita neupane,824,ce
+1141,KUCAT_2021_1144,rishap raj chaudhary,801,ce
+1142,KUCAT_2021_1145,anuj kumar,514,ce
+1143,KUCAT_2021_1146,abbal baral,1008,ce
+1144,KUCAT_2021_1147,pariskrit bhagat,0,ce
+1145,KUCAT_2021_1148,dipen katuwal,0,civil
+1146,KUCAT_2021_1149,sanjeev manandhar,724,arch
+1147,KUCAT_2021_1150,binod kshetri,913,civil
+1148,KUCAT_2021_1151,bishal adhikari,0,btech in artificial intelligence
+1149,KUCAT_2021_1152,bhaskar babu koirala,657,ce
+1150,KUCAT_2021_1153,ursha shrestha,393,ce
+1151,KUCAT_2021_1154,anubhav adhikari,0,geo
+1152,KUCAT_2021_1155,sushil duwal,1071,arch
+1153,KUCAT_2021_1156,shraddheya subedi,463,design
+1154,KUCAT_2021_1157,so hmu,862,civil
+1155,KUCAT_2021_1158,prabesh guragain,1098,btech in artificial intelligence
+1156,KUCAT_2021_1159,sudip kumar thakur,766,design
+1157,KUCAT_2021_1160,anish dutta,509,geo
+1158,KUCAT_2021_1161,shraddha baral,740,arch
+1159,KUCAT_2021_1162,trilok thapa,586,ce
+1160,KUCAT_2021_1163,shadhusharan yadav,719,ce
+1161,KUCAT_2021_1164,parbati chhetri,523,civil
+1162,KUCAT_2021_1165,ashok kumar yadav,463,civil
+1163,KUCAT_2021_1166,utkristha bhattarai,591,ce
+1164,KUCAT_2021_1167,daya laxmi kharel,362,bio
+1165,KUCAT_2021_1168,smarika pokhrel,698,bio
+1166,KUCAT_2021_1169,sagar regmi,580,civil
+1167,KUCAT_2021_1170,sujan acharya,710,ce
+1168,KUCAT_2021_1171,gaurav chataut,915,ce
+1169,KUCAT_2021_1172,pankaj mangardaita,715,civil
+1170,KUCAT_2021_1173,bigyapti dhungana,763,arch
+1171,KUCAT_2021_1174,shreejal parajuli,908,ce
+1172,KUCAT_2021_1175,chirayu bhattarai,733,ce
+1173,KUCAT_2021_1176,amuhang limbu,615,ce
+1174,KUCAT_2021_1177,aman shilpakar,673,civil
+1175,KUCAT_2021_1178,arya bhattarai,818,ce
+1176,KUCAT_2021_1179,bibek kumar sah,536,civil
+1177,KUCAT_2021_1180,prabin awal,757,civil
+1178,KUCAT_2021_1181,anukul pokharel,701,ce
+1179,KUCAT_2021_1182,buddhi ram yadav,647,civil
+1180,KUCAT_2021_1183,pranisha karki,499,bsc in agriculture
+1181,KUCAT_2021_1184,jiban khadka,540,geo
+1182,KUCAT_2021_1185,sachin raj sah,538,civil
+1183,KUCAT_2021_1186,mahesh kumar yadav,562,civil
+1184,KUCAT_2021_1187,krishna kumar sah,621,design
+1185,KUCAT_2021_1188,aakesha sah,527,arch
+1186,KUCAT_2021_1189,abhishek sah,604,civil
+1187,KUCAT_2021_1190,shristi nepal,0,ce
+1188,KUCAT_2021_1191,diwas parajuli,1107,ce
+1189,KUCAT_2021_1192,sujan chaudhary,772,arch
+1190,KUCAT_2021_1193,dhrub pandit,0,cs
+1191,KUCAT_2021_1194,nirajan mandal,430,civil
+1192,KUCAT_2021_1195,atish kumar sah,339,ce
+1193,KUCAT_2021_1196,smritee regmi,0,arch
+1194,KUCAT_2021_1197,manish gupta,0,civil
+1195,KUCAT_2021_1198,shashi nath chaudhary,443,bsc in agriculture
+1196,KUCAT_2021_1199,afreena ansari,565,arch
+1197,KUCAT_2021_1200,agrima regmi,833,ce
+1198,KUCAT_2021_1201,sujan joshi,994,btech in artificial intelligence
+1199,KUCAT_2021_1202,pritisha maharjan,765,arch
+1200,KUCAT_2021_1203,nitika pradhananga,508,cs
+1201,KUCAT_2021_1204,abinash yadav,503,civil
+1202,KUCAT_2021_1205,uday raj chaudhary,654,power
+1203,KUCAT_2021_1206,gokaran chaudhary,623,power
+1204,KUCAT_2021_1207,rikita kumari chaudhary,506,bsc in agriculture
+1205,KUCAT_2021_1208,rajan kumar ray,1006,civil
+1206,KUCAT_2021_1209,roshan bhattarai,528,ce
+1207,KUCAT_2021_1210,supriya silwal,744,geo
+1208,KUCAT_2021_1211,rima banjara,583,ce
+1209,KUCAT_2021_1212,pallav pokhrel,716,civil
+1210,KUCAT_2021_1213,roshan budha,445,civil
+1211,KUCAT_2021_1214,kamal shahi,770,civil
+1212,KUCAT_2021_1215,ritik yadav,795,civil
+1213,KUCAT_2021_1216,riya jha,633,ce
+1214,KUCAT_2021_1217,satkar gautam,0,ce
+1215,KUCAT_2021_1218,swagat gautam,0,civil
+1216,KUCAT_2021_1219,asmika yadav,571,geo
+1217,KUCAT_2021_1220,shrijal sthapit,866,ce
+1218,KUCAT_2021_1221,rohit kumar sah,704,ce
+1219,KUCAT_2021_1222,sudha sah,475,geo
+1220,KUCAT_2021_1223,kripa humagain,518,auto
+1221,KUCAT_2021_1224,sumana kumari shah,400,arch
+1222,KUCAT_2021_1225,kripesh shrestha barun,535,ce
+1223,KUCAT_2021_1226,prashna gautam,681,ce
+1224,KUCAT_2021_1227,suhani gurung,618,arch
+1225,KUCAT_2021_1228,aswin basnet,0,geo
+1226,KUCAT_2021_1229,sanskriti khatiwada,751,civil
+1227,KUCAT_2021_1230,radhika ghimire,430,bsc in agriculture
+1228,KUCAT_2021_1231,safal bhattarai,855,civil
+1229,KUCAT_2021_1232,samyog chaulagain,909,civil
+1230,KUCAT_2021_1233,sahaj sharma,331,ce
+1231,KUCAT_2021_1234,khushbu yadav,578,bsc in agriculture
+1232,KUCAT_2021_1235,anish bhusal,546,ce
+1233,KUCAT_2021_1236,palma gole,408,arch
+1234,KUCAT_2021_1237,ishan dawadi,954,ce
+1235,KUCAT_2021_1238,amit chaudhary kurmi,0,civil
+1236,KUCAT_2021_1239,ashim adhikari,696,civil
+1237,KUCAT_2021_1240,anuj kandel sharma,1015,geo
+1238,KUCAT_2021_1241,prakash ghimire,636,btech in artificial intelligence
+1239,KUCAT_2021_1242,suvaprabhat kafle,759,civil
+1240,KUCAT_2021_1243,sagar paudel,549,ce
+1241,KUCAT_2021_1244,manjul gopal sharma,693,ce
+1242,KUCAT_2021_1245,nitesh yadav,766,geo
+1243,KUCAT_2021_1246,ankit pathak,572,arch
+1244,KUCAT_2021_1247,aasish shrestha,596,ce
+1245,KUCAT_2021_1248,sanskriti kc,0,bio
+1246,KUCAT_2021_1249,sanjit yadav,640,geo
+1247,KUCAT_2021_1250,bibash dhakal,527,civil
+1248,KUCAT_2021_1251,simpal koirala,400,ce
+1249,KUCAT_2021_1252,manish rouniyar,331,ce
+1250,KUCAT_2021_1253,aruna chaudhary,758,bsc in agriculture
+1251,KUCAT_2021_1254,sapana giri,0,ce
+1252,KUCAT_2021_1255,srijal kapri,699,ce
+1253,KUCAT_2021_1256,binesh oli,471,ce
+1254,KUCAT_2021_1257,aarati dhungana,947,ce
+1255,KUCAT_2021_1258,aayush thapa magar,0,civil
+1256,KUCAT_2021_1259,aayush adhikari,720,civil
+1257,KUCAT_2021_1260,prativa khadka,588,envs
+1258,KUCAT_2021_1261,jenisha shrestha,724,ce
+1259,KUCAT_2021_1262,trishan shrestha,912,ce
+1260,KUCAT_2021_1263,nitesh rajbanshi,801,ce
+1261,KUCAT_2021_1264,shreya chaulagain,826,ce
+1262,KUCAT_2021_1265,pabitra tiwari,600,ce
+1263,KUCAT_2021_1266,prajwal chaudhary,1047,ce
+1264,KUCAT_2021_1267,shashank sakha,703,cs
+1265,KUCAT_2021_1268,aayushma timalsina,721,ce
+1266,KUCAT_2021_1269,anupama neupane,812,ce
+1267,KUCAT_2021_1270,manish kharel,259,ce
+1268,KUCAT_2021_1271,prabin paudel,782,ce
+1269,KUCAT_2021_1272,nischal k.c.,816,civil
+1270,KUCAT_2021_1273,chandrakant sapkota,888,communication
+1271,KUCAT_2021_1274,nitika bhattarai,572,civil
+1272,KUCAT_2021_1275,sambad khatiwada,844,ce
+1273,KUCAT_2021_1276,adity sapkota,993,enve
+1274,KUCAT_2021_1277,prithvi raj thapa magar,1073,ce
+1275,KUCAT_2021_1278,yashodha chhetri,649,arch
+1276,KUCAT_2021_1279,arya budha chhetri,772,arch
+1277,KUCAT_2021_1280,suyog dhungana,953,ce
+1278,KUCAT_2021_1281,sushma karki,576,civil
+1279,KUCAT_2021_1282,ashwini joshi,709,enve
+1280,KUCAT_2021_1283,pragalbha acharya,950,ce
+1281,KUCAT_2021_1284,aakriti wagle,0,civil
+1282,KUCAT_2021_1285,samvid acharya,585,ce
+1283,KUCAT_2021_1286,prashuna sapkota,475,civil
+1284,KUCAT_2021_1287,anshu bhandari,632,ce
+1285,KUCAT_2021_1288,ayush aryal,1193,civil
+1286,KUCAT_2021_1289,avash chaudhary,383,computational
+1287,KUCAT_2021_1290,bishwas manandhar,579,civil
+1288,KUCAT_2021_1291,bidhan karki,0,civil
+1289,KUCAT_2021_1292,ritu raj jha,589,civil
+1290,KUCAT_2021_1293,sajal maharjan,568,ce
+1291,KUCAT_2021_1294,agrima shrestha,568,arch
+1292,KUCAT_2021_1295,khagendra khadka,432,civil
+1293,KUCAT_2021_1296,darpan niraula,0,cs
+1294,KUCAT_2021_1297,samir bikram dhami,1027,auto
+1295,KUCAT_2021_1298,rabin pathak,607,arch
+1296,KUCAT_2021_1299,sujal sangraula,730,ce
+1297,KUCAT_2021_1300,amrit paudel,827,ce
+1298,KUCAT_2021_1301,rojseen shrestha,953,civil
+1299,KUCAT_2021_1302,sushant adhikari,0,civil
+1300,KUCAT_2021_1303,kapil adhikari,766,ce
+1301,KUCAT_2021_1304,elina karn,542,arch
+1302,KUCAT_2021_1305,pratik adhikari,1034,civil
+1303,KUCAT_2021_1306,aayush thakur,656,civil
+1304,KUCAT_2021_1307,aayog karki,741,civil
+1305,KUCAT_2021_1308,sworup thapa,909,design
+1306,KUCAT_2021_1309,sushil dahal,847,ce
+1307,KUCAT_2021_1310,aabhash guragain,653,design
+1308,KUCAT_2021_1311,ananya dangol,478,ce
+1309,KUCAT_2021_1312,sneha bhandari,507,arch
+1310,KUCAT_2021_1313,ajay sah,669,ce
+1311,KUCAT_2021_1314,monika thapa,678,bio
+1312,KUCAT_2021_1315,arya sharma,0,ce
+1313,KUCAT_2021_1316,sambandha bhattarai,867,geo
+1314,KUCAT_2021_1317,prakriti ghimire,766,arch
+1315,KUCAT_2021_1318,siddhartha tiwari,762,ce
+1316,KUCAT_2021_1319,sanjeeta acharya,586,ce
+1317,KUCAT_2021_1320,rajina bhusal,708,civil
+1318,KUCAT_2021_1321,aavash adhikari,856,ce
+1319,KUCAT_2021_1322,aswin chhetri,626,ce
+1320,KUCAT_2021_1323,pratiksha paneru,592,ce
+1321,KUCAT_2021_1324,karib maharjan,1061,ce
+1322,KUCAT_2021_1325,asmita nyoupane,570,civil
+1323,KUCAT_2021_1326,waibhawa mishra,622,ce
+1324,KUCAT_2021_1327,nimesh maharjan,774,civil
+1325,KUCAT_2021_1328,pankaj dahal,983,civil
+1326,KUCAT_2021_1329,samyog sahu,584,arch
+1327,KUCAT_2021_1330,arjun thakur,605,civil
+1328,KUCAT_2021_1331,bini maharjan,464,arch
+1329,KUCAT_2021_1332,romiya baidya,480,civil
+1330,KUCAT_2021_1333,sunny kumar sah,913,ce
+1331,KUCAT_2021_1334,nabin yadav,843,civil
+1332,KUCAT_2021_1335,sesema limbu,478,civil
+1333,KUCAT_2021_1336,shekhraj puri,715,civil
+1334,KUCAT_2021_1337,mohit rajbhandari,878,ce
+1335,KUCAT_2021_1338,neha karn,619,geo
+1336,KUCAT_2021_1339,amit sah,635,ce
+1337,KUCAT_2021_1340,sandip adhikari,0,design
+1338,KUCAT_2021_1341,siddhartha devkota,640,ce
+1339,KUCAT_2021_1342,priyansha shrestha,830,arch
+1340,KUCAT_2021_1343,akash kumar singh,799,design
+1341,KUCAT_2021_1344,nikita khuju,762,cs
+1342,KUCAT_2021_1345,babita bhatt,496,civil
+1343,KUCAT_2021_1346,buddha kumar sharma,975,ce
+1344,KUCAT_2021_1347,krishna thapa,479,arch
+1345,KUCAT_2021_1348,sushant neopane,925,ce
+1346,KUCAT_2021_1349,aayush baral,0,ce
+1347,KUCAT_2021_1350,aayush regmi,1038,ce
+1348,KUCAT_2021_1351,santosh ranabhat,498,ce
+1349,KUCAT_2021_1352,raju kumar sah,705,enve
+1350,KUCAT_2021_1353,aayushree chaudhary,406,civil
+1351,KUCAT_2021_1354,randeep yadav,331,civil
+1352,KUCAT_2021_1355,aastha prajapati,572,ce
+1353,KUCAT_2021_1356,nabin budhathoki,0,communication
+1354,KUCAT_2021_1357,prashanna shrestha,488,civil
+1355,KUCAT_2021_1358,nirbhik dhakal,596,ce
+1356,KUCAT_2021_1359,sweety shrestha,810,arch
+1357,KUCAT_2021_1360,ishani tandukar,0,chem
+1358,KUCAT_2021_1361,aditi paudyal,553,arch
+1359,KUCAT_2021_1362,sadhana shrestha,0,ce
+1360,KUCAT_2021_1363,sohan shreshta,319,ce
+1361,KUCAT_2021_1364,sushil kumar yadav,0,ce
+1362,KUCAT_2021_1365,rohit shah,774,civil
+1363,KUCAT_2021_1366,kamlesh raut,744,civil
+1364,KUCAT_2021_1367,subi shrestha,0,ce
+1365,KUCAT_2021_1368,kritika subedi,0,ce
+1366,KUCAT_2021_1369,isha tandukar,0,chem
+1367,KUCAT_2021_1370,sajja thapa,430,ce
+1368,KUCAT_2021_1371,pushpa raj shrestha,493,civil
+1369,KUCAT_2021_1372,senish khadka,776,ce
+1370,KUCAT_2021_1373,samarpan thapa,640,ce
+1371,KUCAT_2021_1374,aashish chaulagain,635,geo
+1372,KUCAT_2021_1375,pratistha shakya,693,civil
+1373,KUCAT_2021_1376,shankar bhandari,498,cs
+1374,KUCAT_2021_1377,kalyan sapkota,422,ce
+1375,KUCAT_2021_1378,bibhushan lamsal,0,ce
+1376,KUCAT_2021_1379,sarthak neupane,583,ce
+1377,KUCAT_2021_1380,nishant tamang,515,geo
+1378,KUCAT_2021_1381,sadikshya ghimire,552,cs
+1379,KUCAT_2021_1382,prayesh pandey,684,civil
+1380,KUCAT_2021_1383,bebisha dawadi,0,arch
+1381,KUCAT_2021_1384,saugat marasini,631,civil
+1382,KUCAT_2021_1385,subheksha adhikari,574,civil
+1383,KUCAT_2021_1386,manoj thapa,1326,arch
+1384,KUCAT_2021_1387,dhiraj kumar mahato,908,civil
+1385,KUCAT_2021_1388,sudish kumar tharu,416,civil
+1386,KUCAT_2021_1389,aarya shrestha,528,bio
+1387,KUCAT_2021_1390,rakesh nayak,0,design
+1388,KUCAT_2021_1391,isha mulmi,949,civil
+1389,KUCAT_2021_1392,susmita adhikari,650,civil
+1390,KUCAT_2021_1393,bishwas jung bist,729,ce
+1391,KUCAT_2021_1394,tejashwee bashyal,760,envs
+1392,KUCAT_2021_1395,mahan sigdel,590,ce
+1393,KUCAT_2021_1396,anna tiwari,550,bio
+1394,KUCAT_2021_1397,bishnu sharma,877,ce
+1395,KUCAT_2021_1398,manas pradhan,713,ce
+1396,KUCAT_2021_1399,kritika thakur,600,civil
+1397,KUCAT_2021_1400,sachin dhakal,986,civil
+1398,KUCAT_2021_1401,sanskreeti bhandari,506,arch
+1399,KUCAT_2021_1402,mohit poudel,776,ce
+1400,KUCAT_2021_1403,jatin raut,785,ce
+1401,KUCAT_2021_1404,manish pandey,865,ce
+1402,KUCAT_2021_1405,prajwol parajuli,481,civil
+1403,KUCAT_2021_1406,nirakar nepal,0,power
+1404,KUCAT_2021_1407,vimochan kulung rai,780,ce
+1405,KUCAT_2021_1408,abhishek jha,496,ce
+1406,KUCAT_2021_1409,umesh thapa,419,civil
+1407,KUCAT_2021_1410,dipan bartaula,1229,ce
+1408,KUCAT_2021_1411,uma shankar mishra,0,civil
+1409,KUCAT_2021_1412,kalyan marasini,0,ce
+1410,KUCAT_2021_1413,soniya gautam,608,civil
+1411,KUCAT_2021_1414,manita upreti,523,ce
+1412,KUCAT_2021_1415,abinash karki,602,civil
+1413,KUCAT_2021_1416,mahammad farman mansoor,889,ce
+1414,KUCAT_2021_1417,sapana banjade,738,geo
+1415,KUCAT_2021_1418,bibek regmi,646,ce
+1416,KUCAT_2021_1419,anusha mahara,0,bio
+1417,KUCAT_2021_1420,pratik joshi,0,ce
+1418,KUCAT_2021_1421,rashmi dulal,622,chem
+1419,KUCAT_2021_1422,agrim paudel,1341,civil
+1420,KUCAT_2021_1423,pratik adhikari,0,communication
+1421,KUCAT_2021_1424,arunima upreti,632,ce
+1422,KUCAT_2021_1425,yuvraj shrestha,653,civil
+1423,KUCAT_2021_1426,bibek adhikari,1206,ce
+1424,KUCAT_2021_1427,sheshraman shrestha,710,civil
+1425,KUCAT_2021_1428,shreeya dhakal,785,civil
+1426,KUCAT_2021_1429,gaurab thapa,859,ce
+1427,KUCAT_2021_1430,stuti thapaliya,362,bio
+1428,KUCAT_2021_1431,rohit adhikari,646,civil
+1429,KUCAT_2021_1432,sharad ghimire,849,ce
+1430,KUCAT_2021_1433,abishek luitel,848,ce
+1431,KUCAT_2021_1434,md fahad asraf ansari,896,civil
+1432,KUCAT_2021_1435,anish pradhan,624,ce
+1433,KUCAT_2021_1436,anuj shrestha,1142,ce
+1434,KUCAT_2021_1437,prateek poddar,514,civil
+1435,KUCAT_2021_1438,anil banjade,903,ce
+1436,KUCAT_2021_1439,sandip bharati giri,409,civil
+1437,KUCAT_2021_1440,siddharth sah,355,civil
+1438,KUCAT_2021_1441,fayeza aman,543,arch
+1439,KUCAT_2021_1442,apar babu basnet,456,ce
+1440,KUCAT_2021_1443,utshah bikram kc,464,ce
+1441,KUCAT_2021_1444,sunny sah,822,civil
+1442,KUCAT_2021_1445,dhiraj kumar thakur,558,ce
+1443,KUCAT_2021_1446,prijana shrestha,489,bsc in agriculture
+1444,KUCAT_2021_1447,rahul pratap sah,454,ce
+1445,KUCAT_2021_1448,bishnu dev chaudhary,0,auto
+1446,KUCAT_2021_1449,bibek tamang,781,civil
+1447,KUCAT_2021_1450,bibek bhatt,308,civil
+1448,KUCAT_2021_1451,aayush bhandari,751,civil
+1449,KUCAT_2021_1452,bishal gautam,838,ce
+1450,KUCAT_2021_1453,smaran bam,305,cs
+1451,KUCAT_2021_1454,samiksha gurung,561,arch
+1452,KUCAT_2021_1455,subodh kumar mandal,542,civil
+1453,KUCAT_2021_1456,puja kumari kadayat,792,power
+1454,KUCAT_2021_1457,aniket budha magar,742,ce
+1455,KUCAT_2021_1458,shreya shah,574,ce
+1456,KUCAT_2021_1459,kritika gautam,647,ce
+1457,KUCAT_2021_1460,ashok pajiyar,459,civil
+1458,KUCAT_2021_1461,agraj sigdel,845,civil
+1459,KUCAT_2021_1462,anita kafle,694,geo
+1460,KUCAT_2021_1463,samriddha singh thakuri,0,civil
+1461,KUCAT_2021_1464,sandhya sapkota,791,civil
+1462,KUCAT_2021_1465,aslesha tamrakar,501,arch
+1463,KUCAT_2021_1466,nihal mahato,506,ce
+1464,KUCAT_2021_1467,nishan subedi,1151,btech in artificial intelligence
+1465,KUCAT_2021_1468,madhyika adhikari,450,cs
+1466,KUCAT_2021_1469,shrishtika bajracharya,624,ce
+1467,KUCAT_2021_1470,shova chhantyal,545,arch
+1468,KUCAT_2021_1471,sweekar koirala,532,ce
+1469,KUCAT_2021_1472,yaman ojha,459,civil
+1470,KUCAT_2021_1473,aarya luitel,511,arch
+1471,KUCAT_2021_1474,khojaneeti sharma,676,arch
+1472,KUCAT_2021_1475,subh narayan gupta,525,civil
+1473,KUCAT_2021_1476,kshinit bhattarai,555,civil
+1474,KUCAT_2021_1477,manyeta neupane,0,cs
+1475,KUCAT_2021_1478,neeta ghimire,0,geo
+1476,KUCAT_2021_1479,shikha shah,715,arch
+1477,KUCAT_2021_1480,mridani pandey,598,ce
+1478,KUCAT_2021_1481,rajesh rokaya,792,communication
+1479,KUCAT_2021_1482,ayusha pokharel,633,ce
+1480,KUCAT_2021_1483,bhumi chalise,477,ce
+1481,KUCAT_2021_1484,rishika shrestha,368,arch
+1482,KUCAT_2021_1485,anshu patel,639,btech in artificial intelligence
+1483,KUCAT_2021_1486,amresh kumar yadav,379,civil
+1484,KUCAT_2021_1487,dipesh kumar gyawali,706,ce
+1485,KUCAT_2021_1488,ashmani ghimire,584,arch
+1486,KUCAT_2021_1489,sushan shrestha,808,ce
+1487,KUCAT_2021_1490,aayush sharma,615,civil
+1488,KUCAT_2021_1491,subodh gaihre,757,ce
+1489,KUCAT_2021_1492,abiral regmi,567,civil
+1490,KUCAT_2021_1493,shrijan bhusal,964,ce
+1491,KUCAT_2021_1494,aaditya aryal,496,power
+1492,KUCAT_2021_1495,dipak rajbanshi,728,civil
+1493,KUCAT_2021_1496,raju yadav,0,civil
+1494,KUCAT_2021_1497,nabin nepal,744,bsc in agriculture
+1495,KUCAT_2021_1498,rohan lagarwar,442,civil
+1496,KUCAT_2021_1499,kajal pandey,567,ce
+1497,KUCAT_2021_1500,bishakha pokharel,739,ce
+1498,KUCAT_2021_1501,kristina adhikari,855,arch
+1499,KUCAT_2021_1502,dev kumar sah,1058,bio
+1500,KUCAT_2021_1503,ishan ojha,541,ce
+1501,KUCAT_2021_1504,isha shah,474,ce
+1502,KUCAT_2021_1505,sashuv kafle,604,ce
+1503,KUCAT_2021_1506,suraj prajapati,632,geo
+1504,KUCAT_2021_1507,sanjeet babu keshari,472,communication
+1505,KUCAT_2021_1508,nischal shrestha,583,civil
+1506,KUCAT_2021_1509,prajendra gautam,606,civil
+1507,KUCAT_2021_1510,sudichchha shrestha,367,arch
+1508,KUCAT_2021_1511,aryan dharel,649,auto
+1509,KUCAT_2021_1512,aakriti adhikari,653,bio
+1510,KUCAT_2021_1513,nitya chaudhary,543,civil
+1511,KUCAT_2021_1514,aashraya dahal,516,civil
+1512,KUCAT_2021_1515,gaurav duwedi,460,geo
+1513,KUCAT_2021_1516,supreet dangol,0,ce
+1514,KUCAT_2021_1517,suphal bhattarai,848,ce
+1515,KUCAT_2021_1518,riyaj nepal,0,communication
+1516,KUCAT_2021_1519,upendra adhikari,468,auto
+1517,KUCAT_2021_1520,suijal shrestha,612,civil
+1518,KUCAT_2021_1521,subha prabhat phuyal,0,ce
+1519,KUCAT_2021_1522,dinesh bhandari,608,geo
+1520,KUCAT_2021_1523,roshani k.c,0,civil
+1521,KUCAT_2021_1524,jitendra mahara,0,civil
+1522,KUCAT_2021_1525,sony kumari chaudhary,650,ce
+1523,KUCAT_2021_1526,aditya bhandari,932,civil
+1524,KUCAT_2021_1527,rojika gauro,426,cs
+1525,KUCAT_2021_1528,ridina shrestha,434,arch
+1526,KUCAT_2021_1529,malbin chhetri,901,ce
+1527,KUCAT_2021_1530,samir thapa,557,communication
+1528,KUCAT_2021_1531,prasannna shakya,713,ce
+1529,KUCAT_2021_1532,rajak sinkhwal,318,ce
+1530,KUCAT_2021_1533,vivek gautam,920,arch
+1531,KUCAT_2021_1534,anveshan timsina,1011,ce
+1532,KUCAT_2021_1535,safal mainali,568,ce
+1533,KUCAT_2021_1536,babin shrestha,549,ce
+1534,KUCAT_2021_1537,ayasha maharjan,0,arch
+1535,KUCAT_2021_1538,pratika khatiwada,696,ce
+1536,KUCAT_2021_1539,ranjita dahal,483,ce
+1537,KUCAT_2021_1540,asok b.k.,1214,ce
+1538,KUCAT_2021_1541,keshav kumar yadav,781,civil
+1539,KUCAT_2021_1542,ramesh kumar budhathoki,635,civil
+1540,KUCAT_2021_1543,stuti pandeya,645,arch
+1541,KUCAT_2021_1544,babita khatiwada,621,design
+1542,KUCAT_2021_1545,sandhya adhikari,450,ce
+1543,KUCAT_2021_1546,nischal jung karki,836,civil
+1544,KUCAT_2021_1547,ashesh chandra bhattarai,0,civil
+1545,KUCAT_2021_1548,nitesh kumar yadav,798,power
+1546,KUCAT_2021_1549,ankit bhattarai,1117,ce
+1547,KUCAT_2021_1550,sujan baskota,1044,ce
+1548,KUCAT_2021_1551,anupa paudel,507,bio
+1549,KUCAT_2021_1552,utkrist mani neupane,775,ce
+1550,KUCAT_2021_1553,nikhil chhetri,596,ce
+1551,KUCAT_2021_1554,subodh sigdel,404,btech in artificial intelligence
+1552,KUCAT_2021_1555,brikhesh kumar yadav,461,geo
+1553,KUCAT_2021_1556,nishan adhikari,0,civil
+1554,KUCAT_2021_1557,pranisha tandukar,606,arch
+1555,KUCAT_2021_1558,dhirendra bhatta,819,civil
+1556,KUCAT_2021_1559,sumit pant,648,ce
+1557,KUCAT_2021_1560,ajeet thapa,531,civil
+1558,KUCAT_2021_1561,prachi baidhya,445,civil
+1559,KUCAT_2021_1562,nikita kunwor,917,civil
+1560,KUCAT_2021_1563,manisha rokaya,261,civil
+1561,KUCAT_2021_1564,pradip chhetri,376,geo
+1562,KUCAT_2021_1565,nishant subedi,592,civil
+1563,KUCAT_2021_1566,sujal pradhan,514,civil
+1564,KUCAT_2021_1567,spandan shrestha,723,ce
+1565,KUCAT_2021_1568,pritha shrestha,611,arch
+1566,KUCAT_2021_1569,nirajan bhandari,836,ce
+1567,KUCAT_2021_1570,anish joshi,504,ce
+1568,KUCAT_2021_1571,saurav sen khawas,645,civil
+1569,KUCAT_2021_1572,sachin maharjan,671,ce
+1570,KUCAT_2021_1573,sudip karki,305,geo
+1571,KUCAT_2021_1574,supreksha koirala,908,civil
+1572,KUCAT_2021_1575,shlok koirala,992,btech in artificial intelligence
+1573,KUCAT_2021_1576,anish shahi,623,civil
+1574,KUCAT_2021_1577,prajwol dhungana,425,ce
+1575,KUCAT_2021_1578,abiral paudel,674,btech in artificial intelligence
+1576,KUCAT_2021_1579,tappush manandhar,543,civil
+1577,KUCAT_2021_1580,nitya jha,489,arch
+1578,KUCAT_2021_1581,subas aryal,646,ce
+1579,KUCAT_2021_1582,gitika shakya,664,bio
+1580,KUCAT_2021_1583,parikshya lamichhane,501,ce
+1581,KUCAT_2021_1584,sejal adhikari,981,ce
+1582,KUCAT_2021_1585,pranjal poudel,0,enve
+1583,KUCAT_2021_1586,rajib raut,659,civil
+1584,KUCAT_2021_1587,biraj poudel,479,civil
+1585,KUCAT_2021_1588,apar parajuli,619,arch
+1586,KUCAT_2021_1589,anjali mishra,405,bio
+1587,KUCAT_2021_1590,bishwajeet chaudhary,462,ce
+1588,KUCAT_2021_1591,sohan dangol,692,ce
+1589,KUCAT_2021_1592,nandawee lamichhane,817,geo
+1590,KUCAT_2021_1593,bhuwan paneru,533,geo
+1591,KUCAT_2021_1594,ankit nepal,923,ce
+1592,KUCAT_2021_1595,amit kumar sah,370,civil
+1593,KUCAT_2021_1596,dil bahadur belbase,790,ce
+1594,KUCAT_2021_1597,srisak luitel,511,ce
+1595,KUCAT_2021_1598,phiroj kumar sah,1041,ce
+1596,KUCAT_2021_1599,sijan khadka,377,civil
+1597,KUCAT_2021_1600,niskarsa kafle,372,civil
+1598,KUCAT_2021_1601,shubhanjan dhoj joshi,737,auto
+1599,KUCAT_2021_1602,janak sapkota,1036,ce
+1600,KUCAT_2021_1603,bimarsha kandel,0,arch
+1601,KUCAT_2021_1604,ramchandra khadka,873,ce
+1602,KUCAT_2021_1605,abishek adhikari,626,design
+1603,KUCAT_2021_1606,sanish musyaju,573,geo
+1604,KUCAT_2021_1607,bibechana khadka,591,geo
+1605,KUCAT_2021_1608,ankush jha,996,power
+1606,KUCAT_2021_1609,piyush neupane,543,auto
+1607,KUCAT_2021_1610,shalini das,480,civil
+1608,KUCAT_2021_1611,janaki ghale,451,civil
+1609,KUCAT_2021_1612,diwash bist,1141,civil
+1610,KUCAT_2021_1613,ujjwal niraula,789,arch
+1611,KUCAT_2021_1614,aabhushan bhandari,591,arch
+1612,KUCAT_2021_1615,deepak raj singh,412,civil
+1613,KUCAT_2021_1616,bibek acharya,1053,energy
+1614,KUCAT_2021_1617,sunil bk,707,arch
+1615,KUCAT_2021_1618,rujan bastola,596,ce
+1616,KUCAT_2021_1619,ranjita ghimire,0,civil
+1617,KUCAT_2021_1620,priya kumari yadav,564,civil
+1618,KUCAT_2021_1621,pratik subedi,632,civil
+1619,KUCAT_2021_1622,baburam bista,830,cs
+1620,KUCAT_2021_1623,anish kaiti,713,ce
+1621,KUCAT_2021_1624,gajendra thakur,630,civil
+1622,KUCAT_2021_1625,rakshya sharma,755,civil
+1623,KUCAT_2021_1626,sanil prasad gorkhali,0,cs
+1624,KUCAT_2021_1627,nirajan kumar chaudhary,838,power
+1625,KUCAT_2021_1628,pranil krishna palikhel,0,ce
+1626,KUCAT_2021_1629,rupesh shrestha,815,arch
+1627,KUCAT_2021_1630,krishn dev sah,0,design
+1628,KUCAT_2021_1631,omkar giri,625,ce
+1629,KUCAT_2021_1632,riya sharma,0,arch
+1630,KUCAT_2021_1633,ranjit adhikari,651,civil
+1631,KUCAT_2021_1634,prasanna jibi ghimire,579,civil
+1632,KUCAT_2021_1635,anup regmi,674,civil
+1633,KUCAT_2021_1636,siddhanta shrestha,809,ce
+1634,KUCAT_2021_1637,aditya krishna,772,ce
+1635,KUCAT_2021_1638,sujan subedi,492,bio
+1636,KUCAT_2021_1639,abhishek jonchhen,519,civil
+1637,KUCAT_2021_1640,jyoti adhikari,599,ce
+1638,KUCAT_2021_1641,anjali kumari yadav,756,civil
+1639,KUCAT_2021_1642,sujit kumar das,738,ce
+1640,KUCAT_2021_1643,diwakar karki,0,civil
+1641,KUCAT_2021_1644,pratikshya basel,562,ce
+1642,KUCAT_2021_1645,kritesh katuwal,0,civil
+1643,KUCAT_2021_1646,naresh shrestha,559,communication
+1644,KUCAT_2021_1647,sakriya dahal,827,ce
+1645,KUCAT_2021_1648,raghav sitaula,678,ce
+1646,KUCAT_2021_1649,kopila devkota,594,hydro
+1647,KUCAT_2021_1650,avash mani dahal,661,ce
+1648,KUCAT_2021_1651,niraj pokhrel,0,civil
+1649,KUCAT_2021_1652,miken baniya,631,ce
+1650,KUCAT_2021_1653,rupesh kumar yadav,560,civil
+1651,KUCAT_2021_1654,dikshant lamsal,506,ce
+1652,KUCAT_2021_1655,nitin ghimire,983,ce
+1653,KUCAT_2021_1656,nikhil shrestha,647,civil
+1654,KUCAT_2021_1657,sagar adhikari,1262,geo
+1655,KUCAT_2021_1658,subhash mandal,644,ce
+1656,KUCAT_2021_1659,jyoti kumari sah,0,bsc in agriculture
+1657,KUCAT_2021_1660,bigya vijay dhungana,847,ce
+1658,KUCAT_2021_1661,shubham raut,548,ce
+1659,KUCAT_2021_1662,nirupan karki,931,cs
+1660,KUCAT_2021_1663,sarishma neupane,529,civil
+1661,KUCAT_2021_1664,surya joshi,512,ce
+1662,KUCAT_2021_1665,jeshmin rai,0,arch
+1663,KUCAT_2021_1666,eureka acharya,626,ce
+1664,KUCAT_2021_1667,sijan adhikari,877,ce
+1665,KUCAT_2021_1668,sanskrit adhikari,0,ce
+1666,KUCAT_2021_1669,rabi raj acharya,684,civil
+1667,KUCAT_2021_1670,roja rai,672,arch
+1668,KUCAT_2021_1671,elisha regmi,658,civil
+1669,KUCAT_2021_1672,arun chandra bhusal,947,btech in artificial intelligence
+1670,KUCAT_2021_1673,dibas timilsena,499,civil
+1671,KUCAT_2021_1674,ashutosh aman,661,civil
+1672,KUCAT_2021_1675,pushpa baruwal,0,civil
+1673,KUCAT_2021_1676,aditya joshi,595,bio
+1674,KUCAT_2021_1677,prabhu shah kanu,431,design
+1675,KUCAT_2021_1678,kishan kumar mishra,504,civil
+1676,KUCAT_2021_1679,anuj shah,758,hydro
+1677,KUCAT_2021_1680,nani babu aryal,398,civil
+1678,KUCAT_2021_1681,krishdeep bhujel,519,ce
+1679,KUCAT_2021_1682,manish basnet,573,ce
+1680,KUCAT_2021_1683,kaji bahadur karki,313,civil
+1681,KUCAT_2021_1684,anil shrestha,1030,ce
+1682,KUCAT_2021_1685,tia bishwakarma,0,design
+1683,KUCAT_2021_1686,bhabuk thapa,836,btech in artificial intelligence
+1684,KUCAT_2021_1687,yashoda bist,491,civil
+1685,KUCAT_2021_1688,anushka shrestha,314,bio
+1686,KUCAT_2021_1689,rupesh ray yadav,390,civil
+1687,KUCAT_2021_1690,aadesh shrestha,479,cs
+1688,KUCAT_2021_1691,bishes bastola,818,communication
+1689,KUCAT_2021_1692,aashutosh dhakal,1031,civil
+1690,KUCAT_2021_1693,saroj poudel,1093,ce
+1691,KUCAT_2021_1694,ashim sharma,740,ce
+1692,KUCAT_2021_1695,raman mandal,649,civil
+1693,KUCAT_2021_1696,nishan limbu,0,ce
+1694,KUCAT_2021_1697,sumit lasiwa,942,ce
+1695,KUCAT_2021_1698,manoj kumar singh,512,ce
+1696,KUCAT_2021_1699,manisha yadav,689,civil
+1697,KUCAT_2021_1700,abhishu khanal,0,civil
+1698,KUCAT_2021_1701,tejesh shrestha,822,ce
+1699,KUCAT_2021_1702,dikshant bikram thapa,1130,civil
+1700,KUCAT_2021_1703,aabhash pokharel,557,ce
+1701,KUCAT_2021_1704,aanchal khadka,0,ce
+1702,KUCAT_2021_1705,anjan kumar karki,756,civil
+1703,KUCAT_2021_1706,arbashu dhakal,1034,ce
+1704,KUCAT_2021_1707,dipen kumar sah,598,civil
+1705,KUCAT_2021_1708,darshan gyawali,547,ce
+1706,KUCAT_2021_1709,sworup karki,708,ce
+1707,KUCAT_2021_1710,arisha prasain,869,ce
+1708,KUCAT_2021_1711,yogesh khadka,490,design
+1709,KUCAT_2021_1712,sajina acharya,622,geo
+1710,KUCAT_2021_1713,kristina basnet,586,arch
+1711,KUCAT_2021_1714,gautam gupta,409,arch
+1712,KUCAT_2021_1715,sumikshya sigdel,0,civil
+1713,KUCAT_2021_1716,aashish shrestha,482,civil
+1714,KUCAT_2021_1717,subodh kumar rauniyar,444,geo
+1715,KUCAT_2021_1718,anushka rajchal,413,arch
+1716,KUCAT_2021_1719,shyam sundar shah,987,civil
+1717,KUCAT_2021_1720,prakriti ray,497,ce
+1718,KUCAT_2021_1721,krishna karki,0,ce
+1719,KUCAT_2021_1722,pratik ray,488,communication
+1720,KUCAT_2021_1723,janbi gauchan,402,civil
+1721,KUCAT_2021_1724,wasif reza siddique,402,arch
+1722,KUCAT_2021_1725,melina pun,488,civil
+1723,KUCAT_2021_1726,prabha koirala,438,arch
+1724,KUCAT_2021_1727,nitesh mandal,426,arch
+1725,KUCAT_2021_1728,roshan darlami,675,civil
+1726,KUCAT_2021_1729,niru khatiwada,550,design
+1727,KUCAT_2021_1730,saugat baral,772,ce
+1728,KUCAT_2021_1731,lal babu patel,263,communication
+1729,KUCAT_2021_1732,samir shahi,823,hydro
+1730,KUCAT_2021_1733,supreme bhandari,1020,ce
+1731,KUCAT_2021_1734,monika bhatt,552,bsc in agriculture
+1732,KUCAT_2021_1735,umesh joshi,0,ce
+1733,KUCAT_2021_1736,prija kafle,1038,civil
+1734,KUCAT_2021_1737,anish chaudhary,511,ce
+1735,KUCAT_2021_1738,rajesh thapa,553,civil
+1736,KUCAT_2021_1739,anita kumari pant,737,geo
+1737,KUCAT_2021_1740,simran senchury,500,ce
+1738,KUCAT_2021_1741,om raj panday,699,ce
+1739,KUCAT_2021_1742,dhirendra raj madai,1056,energy
+1740,KUCAT_2021_1743,suhrit babu yogi,741,civil
+1741,KUCAT_2021_1744,sandesh khatiwada,755,ce
+1742,KUCAT_2021_1745,binod dhakal,582,civil
+1743,KUCAT_2021_1746,sugam krishna dhungana,0,geo
+1744,KUCAT_2021_1747,aaryan khanal,621,civil
+1745,KUCAT_2021_1748,ayush dahal,857,geo
+1746,KUCAT_2021_1749,swikarya dahal,1380,ce
+1747,KUCAT_2021_1750,gaurav ghimire,0,ce
+1748,KUCAT_2021_1751,kushal baral,710,civil
+1749,KUCAT_2021_1752,dipika dahal,788,civil
+1750,KUCAT_2021_1753,bibek basnet,641,civil
+1751,KUCAT_2021_1754,samin shrestha,559,ce
+1752,KUCAT_2021_1755,swarup kc,563,bsc in agriculture
+1753,KUCAT_2021_1756,hem raj joshi,490,civil
+1754,KUCAT_2021_1757,nabina sapkota,605,arch
+1755,KUCAT_2021_1758,hemraj neupane,0,ce
+1756,KUCAT_2021_1759,bibhuti acharya,566,civil
+1757,KUCAT_2021_1760,astha mallik,0,bio
+1758,KUCAT_2021_1761,dipesh humagain,677,civil
+1759,KUCAT_2021_1762,rupesh prasad mahato,464,bsc in agriculture
+1760,KUCAT_2021_1763,ashmi ghimire,508,arch
+1761,KUCAT_2021_1764,ranjit kumar jaiswal,436,design
+1762,KUCAT_2021_1765,mahigya dahal,434,arch
+1763,KUCAT_2021_1766,manish neupane,625,ce
+1764,KUCAT_2021_1767,ashish koirala,898,civil
+1765,KUCAT_2021_1768,miraj poudel,625,civil
+1766,KUCAT_2021_1769,laxmi narayan yadav,508,ce
+1767,KUCAT_2021_1770,ishan awal,615,cs
+1768,KUCAT_2021_1771,siddhant khadka,697,ce
+1769,KUCAT_2021_1772,shubhechya palikhe,768,arch
+1770,KUCAT_2021_1773,shashank bhatta,1108,ce
+1771,KUCAT_2021_1774,aaditya joshi,918,ce
+1772,KUCAT_2021_1775,sushank sapkota,738,civil
+1773,KUCAT_2021_1776,ankit neupane,0,power
+1774,KUCAT_2021_1777,krischal dahal,862,ce
+1775,KUCAT_2021_1778,manish pokharel,974,cs
+1776,KUCAT_2021_1780,aayush pant,473,bsc in agriculture
+1777,KUCAT_2021_1781,om prakash yadav,665,ce
+1778,KUCAT_2021_1782,samridhi shah,648,ce
+1779,KUCAT_2021_1783,anup raskoti magar,679,ce
+1780,KUCAT_2021_1784,safal roka magar,552,ce
+1781,KUCAT_2021_1785,karuna malla,534,bsc in agriculture
+1782,KUCAT_2021_1786,achyut bhattarai,808,ce
+1783,KUCAT_2021_1787,avinandan badayak,632,bsc in agriculture
+1784,KUCAT_2021_1788,sashanka dhakal,845,hydro
+1785,KUCAT_2021_1789,sneha joshi,457,ce
+1786,KUCAT_2021_1790,shusant adhikari,909,ce
+1787,KUCAT_2021_1791,aayush bhattarai,592,civil
+1788,KUCAT_2021_1792,suman chaudhary,493,ce
+1789,KUCAT_2021_1793,swastik rajbhandari,589,arch
+1790,KUCAT_2021_1794,rohit kumar sah,631,civil
+1791,KUCAT_2021_1795,deepak yadav,798,civil
+1792,KUCAT_2021_1796,deewa ghimire,481,civil
+1793,KUCAT_2021_1797,aayush sapkota,572,ce
+1794,KUCAT_2021_1798,ashish pandey,0,civil
+1795,KUCAT_2021_1799,pradikchhya thapa,440,civil
+1796,KUCAT_2021_1800,aadarsha kaini,635,civil
+1797,KUCAT_2021_1801,riya maharjan,733,ce
+1798,KUCAT_2021_1802,nayan acharya,780,geo
+1799,KUCAT_2021_1803,pranjal acharya,590,ce
+1800,KUCAT_2021_1804,rubi mandal,308,bsc in agriculture
+1801,KUCAT_2021_1805,anamika bhujel,595,civil
+1802,KUCAT_2021_1806,priya kumari jaiswal,562,cs
+1803,KUCAT_2021_1807,atithi shrestha,0,geo
+1804,KUCAT_2021_1808,karan shrestha,0,ce
+1805,KUCAT_2021_1809,sabin sangroula,456,ce
+1806,KUCAT_2021_1810,paridhi shrestha,536,cs
+1807,KUCAT_2021_1811,sagar agrahari,615,ce
+1808,KUCAT_2021_1812,saroj shrestha,416,ce
+1809,KUCAT_2021_1813,sandesh panthi,877,ce
+1810,KUCAT_2021_1814,kuldip adhikari,321,civil
+1811,KUCAT_2021_1815,siddhant thakur,0,ce
+1812,KUCAT_2021_1816,raskin ghimire,885,ce
+1813,KUCAT_2021_1817,raksha mehta,585,ce
+1814,KUCAT_2021_1818,smriti bhusal,347,ce
+1815,KUCAT_2021_1819,rijan kharel,598,civil
+1816,KUCAT_2021_1820,shashi bhatt,733,arch
+1817,KUCAT_2021_1821,nobel singh,726,ce
+1818,KUCAT_2021_1822,shekh sajid,628,civil
+1819,KUCAT_2021_1823,pujan kharel,611,civil
+1820,KUCAT_2021_1824,abhishrent khatri,524,ce
+1821,KUCAT_2021_1825,ujjwal basnet,0,ce
+1822,KUCAT_2021_1826,saugat bhattarai,973,civil
+1823,KUCAT_2021_1827,aayush pande,584,arch
+1824,KUCAT_2021_1828,roshna dhakal,0,btech in artificial intelligence
+1825,KUCAT_2021_1829,kritika poudel,577,arch
+1826,KUCAT_2021_1830,diyamand bohara,573,ce
+1827,KUCAT_2021_1831,summit sthapit,620,ce
+1828,KUCAT_2021_1832,anil paudel,779,ce
+1829,KUCAT_2021_1833,aanchal paudel,873,arch
+1830,KUCAT_2021_1834,smriti pandit,947,arch
+1831,KUCAT_2021_1835,prashant thakur,557,civil
+1832,KUCAT_2021_1836,anuraj bista,547,civil
+1833,KUCAT_2021_1837,ashish rijal,782,ce
+1834,KUCAT_2021_1838,saphal rimal,1216,ce
+1835,KUCAT_2021_1839,yumesh ban,584,btech in artificial intelligence
+1836,KUCAT_2021_1840,sharad subedi,457,auto
+1837,KUCAT_2021_1841,yokisha poudel,443,arch
+1838,KUCAT_2021_1842,prajwal devkota,859,civil
+1839,KUCAT_2021_1843,subigya kadariya,787,bio
+1840,KUCAT_2021_1844,ritesh shrestha,570,ce
+1841,KUCAT_2021_1845,sijan bhusal,1084,civil
+1842,KUCAT_2021_1846,binit sharma,691,communication
+1843,KUCAT_2021_1847,sulav g.c.,0,civil
+1844,KUCAT_2021_1848,kshitiz parajuli,889,ce
+1845,KUCAT_2021_1849,sujal ranjitkar,493,civil
+1846,KUCAT_2021_1850,pranjal sharma,780,btech in artificial intelligence
+1847,KUCAT_2021_1851,vishal thapa,316,geo
+1848,KUCAT_2021_1852,shraddha wagle,441,ce
+1849,KUCAT_2021_1853,kshitij karki,462,arch
+1850,KUCAT_2021_1854,bishal humagain,719,ce
+1851,KUCAT_2021_1855,bidur ghimire,0,civil
+1852,KUCAT_2021_1856,amrit pandey,552,civil
+1853,KUCAT_2021_1857,kaushal kumar thakur,508,ce
+1854,KUCAT_2021_1858,nirjala aryal,479,ce
+1855,KUCAT_2021_1859,bijay dahal,0,ce
+1856,KUCAT_2021_1860,avishek pushkar,738,power
+1857,KUCAT_2021_1861,anirudra kumar prajapati,1051,civil
+1858,KUCAT_2021_1862,roshni mishra,454,power
+1859,KUCAT_2021_1863,jumesh lumre magar,307,ce
+1860,KUCAT_2021_1864,devendra subedi,580,ce
+1861,KUCAT_2021_1865,samir karki,504,civil
+1862,KUCAT_2021_1866,serena pokharel,515,arch
+1863,KUCAT_2021_1867,nitesh kumar yadav,510,civil
+1864,KUCAT_2021_1868,vikash jaishi regmi,367,ce
+1865,KUCAT_2021_1869,mukesh dahal,1489,power
+1866,KUCAT_2021_1870,ankit pandey,922,civil
+1867,KUCAT_2021_1871,dratiya bariya,450,envs
+1868,KUCAT_2021_1872,bhuwan shrestha,704,power
+1869,KUCAT_2021_1873,dibya prakash thakur,587,civil
+1870,KUCAT_2021_1874,satrudhan ray,686,civil
+1871,KUCAT_2021_1875,salina shrestha,0,arch
+1872,KUCAT_2021_1876,prashant raut,458,civil
+1873,KUCAT_2021_1877,laxmi basnet,330,civil
+1874,KUCAT_2021_1878,dipendra kumar sharma,676,ce
+1875,KUCAT_2021_1879,sujan deula,758,ce
+1876,KUCAT_2021_1880,bivek chaudhary,0,ce
+1877,KUCAT_2021_1881,bigyan chhetri,453,ce
+1878,KUCAT_2021_1882,rinchen sangmo ghale,655,envs
+1879,KUCAT_2021_1883,jeevanath kafle,565,ce
+1880,KUCAT_2021_1884,amit kumar majhi munna,606,civil
+1881,KUCAT_2021_1885,sujal paudel,498,civil
+1882,KUCAT_2021_1886,utsav adhikari,774,civil
+1883,KUCAT_2021_1887,abi kumar yadav,373,civil
+1884,KUCAT_2021_1888,santosh kumar sah,319,power
+1885,KUCAT_2021_1889,ansan rai,662,btech in artificial intelligence
+1886,KUCAT_2021_1890,ankit gurung,552,ce
+1887,KUCAT_2021_1891,sandesh kc,515,ce
+1888,KUCAT_2021_1892,sushma thapa magar,0,hydro
+1889,KUCAT_2021_1893,madan thakur hajam,727,design
+1890,KUCAT_2021_1894,bipul jha,0,ce
+1891,KUCAT_2021_1895,subash shrestha,683,civil
+1892,KUCAT_2021_1896,uttam kumar thakur,0,chem
+1893,KUCAT_2021_1897,prahlad kumar das,649,geo
+1894,KUCAT_2021_1898,sital birkatta,535,ce
+1895,KUCAT_2021_1899,swikar paudel,789,civil
+1896,KUCAT_2021_1900,sajita poudel,0,civil
+1897,KUCAT_2021_1901,aarjan lamichhane,570,civil
+1898,KUCAT_2021_1902,roshan pandey,583,ce
+1899,KUCAT_2021_1903,prashant pokhrel,623,ce
+1900,KUCAT_2021_1904,royal dahal,467,btech in artificial intelligence
+1901,KUCAT_2021_1905,laxman gyawali,547,civil
+1902,KUCAT_2021_1906,kushal aryal,1036,btech in artificial intelligence
+1903,KUCAT_2021_1907,subham chapagain,536,civil
+1904,KUCAT_2021_1908,aakanksha bhatta,505,arch
+1905,KUCAT_2021_1909,saroj kumar das,507,power
+1906,KUCAT_2021_1910,sapana mahara,562,bsc in agriculture
+1907,KUCAT_2021_1911,rajendra aryal,464,bsc in agriculture
+1908,KUCAT_2021_1912,nishchal basyal,582,civil
+1909,KUCAT_2021_1913,abhishek kumar jha,552,ce
+1910,KUCAT_2021_1914,aayush poudel,976,arch
+1911,KUCAT_2021_1915,nirvik bhandari,539,hydro
+1912,KUCAT_2021_1916,amrit pandey,520,power
+1913,KUCAT_2021_1917,raushan kumar,516,civil
+1914,KUCAT_2021_1918,abishek lamsal,501,civil
+1915,KUCAT_2021_1919,suraj kumar yadav,556,ce
+1916,KUCAT_2021_1920,sunita thapa,0,civil
+1917,KUCAT_2021_1921,abishek kumar sah,584,civil
+1918,KUCAT_2021_1922,dipak karki,657,civil
+1919,KUCAT_2021_1923,sejal sedhai,0,civil
+1920,KUCAT_2021_1924,krishna kumar yadav,569,geo
+1921,KUCAT_2021_1925,pranit joshi,845,ce
+1922,KUCAT_2021_1926,sumesh shrestha,542,ce
+1923,KUCAT_2021_1927,shreeya shrestha,708,arch
+1924,KUCAT_2021_1928,siddhant yadav,725,civil
+1925,KUCAT_2021_1929,diksha giri,382,arch
+1926,KUCAT_2021_1930,sanjina maharjan,819,arch
+1927,KUCAT_2021_1931,rajiv niraula,578,power
+1928,KUCAT_2021_1932,samundra bhattarai,0,ce
+1929,KUCAT_2021_1933,bikesh manandhar,0,cs
+1930,KUCAT_2021_1934,barsha neupane,478,arch
+1931,KUCAT_2021_1935,lalit kamati,566,geo
+1932,KUCAT_2021_1936,anup raj paudel,712,ce
+1933,KUCAT_2021_1937,aditi shrestha,428,cs
+1934,KUCAT_2021_1938,prajwal khadka,870,cs
+1935,KUCAT_2021_1939,sulav adhikari,0,ce
+1936,KUCAT_2021_1940,pralhad raj parajuli,398,civil
+1937,KUCAT_2021_1941,ayush poudel,1068,civil
+1938,KUCAT_2021_1942,amarnath kumar sharma,393,bsc in agriculture
+1939,KUCAT_2021_1943,diya maharjan,385,arch
+1940,KUCAT_2021_1944,ambika sunar,564,bsc in agriculture
+1941,KUCAT_2021_1945,aashutosh karn,443,civil
+1942,KUCAT_2021_1946,ram bogati,871,civil
+1943,KUCAT_2021_1947,manjit kumar yadav,578,ce
+1944,KUCAT_2021_1948,nishal karki,463,ce
+1945,KUCAT_2021_1949,miksen begha,470,arch
+1946,KUCAT_2021_1950,rohin sharma,0,civil
+1947,KUCAT_2021_1951,deepak kumar pandit,581,ce
+1948,KUCAT_2021_1952,kripa shrestha,775,ce
+1949,KUCAT_2021_1953,puskar kathayat,727,civil
+1950,KUCAT_2021_1954,suman jung karki,0,cs
+1951,KUCAT_2021_1955,rabin budhathoki,352,ce
+1952,KUCAT_2021_1956,abishek thapa,449,civil
+1953,KUCAT_2021_1957,binod kumar sah,853,power
+1954,KUCAT_2021_1958,priyanka shahi,500,auto
+1955,KUCAT_2021_1959,hritik chaudhary,895,computational
+1956,KUCAT_2021_1960,prasun mishra,535,power
+1957,KUCAT_2021_1961,pradip bhatt,667,ce
+1958,KUCAT_2021_1962,susan lubanjar,580,arch
+1959,KUCAT_2021_1963,sezja shrestha,791,ce
+1960,KUCAT_2021_1964,suresh yadav,381,civil
+1961,KUCAT_2021_1965,sajan ghimire,589,cs
+1962,KUCAT_2021_1966,pratiksha dahal,722,geo
+1963,KUCAT_2021_1967,niraj chalise,659,civil
+1964,KUCAT_2021_1968,sarik sigdel,885,civil
+1965,KUCAT_2021_1969,asim sapkota,571,ce
+1966,KUCAT_2021_1970,saliz thapa,852,civil
+1967,KUCAT_2021_1971,rahul yadav,0,civil
+1968,KUCAT_2021_1972,ayushma thapaliya,430,civil
+1969,KUCAT_2021_1973,jenish maharjan,595,ce
+1970,KUCAT_2021_1974,sangat karki,527,arch
+1971,KUCAT_2021_1975,ashim tiwari,946,ce
+1972,KUCAT_2021_1976,ranjit adhikari,330,ce
+1973,KUCAT_2021_1977,aadarsha rijal,600,ce
+1974,KUCAT_2021_1978,sushant dhungana,704,energy
+1975,KUCAT_2021_1979,riti bhatta,706,arch
+1976,KUCAT_2021_1980,aryan paudel,573,civil
+1977,KUCAT_2021_1981,ashutosh kumar mishra,565,auto
+1978,KUCAT_2021_1982,utsav shrestha,625,cs
+1979,KUCAT_2021_1983,diwas sapkota,0,ce
+1980,KUCAT_2021_1984,abhinandan ghimire,639,ce
+1981,KUCAT_2021_1985,simran gautam,722,arch
+1982,KUCAT_2021_1986,yukta singh,504,civil
+1983,KUCAT_2021_1987,sushan joshi,705,auto
+1984,KUCAT_2021_1988,nitesh acharya,0,cs
+1985,KUCAT_2021_1989,rakshya gharti,750,civil
+1986,KUCAT_2021_1990,prashant bisokarma,0,power
+1987,KUCAT_2021_1991,tilak neupane,675,civil
+1988,KUCAT_2021_1992,roja maharjan,493,design
+1989,KUCAT_2021_1993,chandan yadav,523,civil
+1990,KUCAT_2021_1994,sugam bhattarai,713,bio
+1991,KUCAT_2021_1995,kishor dhungana,811,ce
+1992,KUCAT_2021_1996,marshal bajgai,374,bsc in agriculture
+1993,KUCAT_2021_1997,bikesh shrestha,657,ce
+1994,KUCAT_2021_1998,subrat dhital,968,ce
+1995,KUCAT_2021_1999,manish kumar mahato,496,geo
+1996,KUCAT_2021_2000,smita yadav,642,civil
+1997,KUCAT_2021_2001,bishorup karki,432,civil
+1998,KUCAT_2021_2002,ajit kumar das,913,ce
+1999,KUCAT_2021_2003,ram udgar kamati,0,civil
+2000,KUCAT_2021_2004,manish mahasetha,0,ce
+2001,KUCAT_2021_2005,aashish kumar karki,749,geo
+2002,KUCAT_2021_2006,binu bhandari,605,arch
+2003,KUCAT_2021_2007,diroj aryal,465,civil
+2004,KUCAT_2021_2008,hrithik bishwokarma,752,design
+2005,KUCAT_2021_2009,niranjan goit,573,civil
+2006,KUCAT_2021_2010,rajesh dahal,663,civil
+2007,KUCAT_2021_2011,arpan giri,611,ce
+2008,KUCAT_2021_2012,sanchit poudel,604,ce
+2009,KUCAT_2021_2013,jibachh kumar yadav,513,bsc in agriculture
+2010,KUCAT_2021_2014,roshan karki,0,communication
+2011,KUCAT_2021_2015,keshav shrestha,584,civil
+2012,KUCAT_2021_2016,abhishek ghimire,803,civil
+2013,KUCAT_2021_2017,dipesh poudel,0,civil
+2014,KUCAT_2021_2018,dharmendra prasad yadav,703,bsc in agriculture
+2015,KUCAT_2021_2019,sweekar khadka,726,civil
+2016,KUCAT_2021_2020,krishna rayamajhi,0,ce
+2017,KUCAT_2021_2021,subarna shrestha,883,ce
+2018,KUCAT_2021_2022,samjhana chhetri,422,civil
+2019,KUCAT_2021_2023,ravi kumar chaudhary,434,bsc in agriculture
+2020,KUCAT_2021_2024,pawan rawal,0,ce
+2021,KUCAT_2021_2025,nikesh karki,413,enve
+2022,KUCAT_2021_2026,ranjan kumar kushwaha,601,power
+2023,KUCAT_2021_2027,pradip pokhrel,1090,civil
+2024,KUCAT_2021_2028,prashamsha rai,766,civil
+2025,KUCAT_2021_2029,bipin sapkota,502,auto
+2026,KUCAT_2021_2030,biraj shrestha,444,civil
+2027,KUCAT_2021_2031,mukesh kumar paswan,0,ce
+2028,KUCAT_2021_2032,shubhashish shrestha,557,arch
+2029,KUCAT_2021_2033,aashirbad bhandari,802,ce
+2030,KUCAT_2021_2034,aagaman k.c.,834,cs
+2031,KUCAT_2021_2035,anurodh shrestha,543,arch
+2032,KUCAT_2021_2036,sakshi jangam,619,bsc in agriculture
+2033,KUCAT_2021_2037,simran shahi,0,bio
+2034,KUCAT_2021_2038,kapildev kumar mahato,847,ce
+2035,KUCAT_2021_2039,sarita sapkota,476,geo
+2036,KUCAT_2021_2040,rina laghu,504,ce
+2037,KUCAT_2021_2041,bishal kumar sah,804,ce
+2038,KUCAT_2021_2042,laxmikant sapkota,964,auto
+2039,KUCAT_2021_2043,rajesh kumar sah,418,ce
+2040,KUCAT_2021_2044,rajiv shrestha,636,civil
+2041,KUCAT_2021_2045,gangaram mandal,683,ce
+2042,KUCAT_2021_2046,durgesh yadav(ahir),0,civil
+2043,KUCAT_2021_2047,nikesh gautam,0,power
+2044,KUCAT_2021_2048,manish babu shrestha,467,ce
+2045,KUCAT_2021_2049,swokriti shrestha,479,arch
+2046,KUCAT_2021_2050,saiman adhikari,710,bio
+2047,KUCAT_2021_2051,karuna shrestha,400,civil
+2048,KUCAT_2021_2052,amit yadav,551,civil
+2049,KUCAT_2021_2053,manisha kumari yadav,0,auto
+2050,KUCAT_2021_2054,abhinav sharma,736,ce
+2051,KUCAT_2021_2055,kanchan kumari sah,0,civil
+2052,KUCAT_2021_2056,simran thapa,0,civil
+2053,KUCAT_2021_2057,utsab dahal,770,ce
+2054,KUCAT_2021_2058,pawan shankar pandit,589,civil
+2055,KUCAT_2021_2059,sushil kumar singh,385,ce
+2056,KUCAT_2021_2060,ram udgar pandit,439,civil
+2057,KUCAT_2021_2061,sajina nepal,566,bsc in agriculture
+2058,KUCAT_2021_2062,aadesh shrestha,604,chem
+2059,KUCAT_2021_2063,nisshreet bhattarai,471,enve
+2060,KUCAT_2021_2064,ronita bhandari,590,bsc in agriculture
+2061,KUCAT_2021_2065,aavanish koirala,772,ce
+2062,KUCAT_2021_2066,bibek shrestha,910,civil
+2063,KUCAT_2021_2067,sarita subedi,1010,bio
+2064,KUCAT_2021_2068,raj yonjan,422,civil
+2065,KUCAT_2021_2069,dipesh kafle,561,civil
+2066,KUCAT_2021_2070,arjun kunwar,789,ce
+2067,KUCAT_2021_2071,swajan rajbanshi,0,cs
+2068,KUCAT_2021_2072,sudiksha joshi,476,civil
+2069,KUCAT_2021_2073,kanchan dhamala,552,ce
+2070,KUCAT_2021_2074,anil poudel,0,civil
+2071,KUCAT_2021_2075,hansel mandal,0,ce
+2072,KUCAT_2021_2076,mrityunjay kumar yadav,449,civil
+2073,KUCAT_2021_2077,aadarsha sunam pariyar,691,civil
+2074,KUCAT_2021_2078,anjali chaudhary,544,ce
+2075,KUCAT_2021_2079,garima bhandari,483,civil
+2076,KUCAT_2021_2080,prashraya shrestha,618,bio
+2077,KUCAT_2021_2081,shrutigya uprety,570,ce
+2078,KUCAT_2021_2082,sonu kumar gupta,988,btech in artificial intelligence
+2079,KUCAT_2021_2083,bhanu mishra,434,ce
+2080,KUCAT_2021_2084,bhawana timalsina,680,computational
+2081,KUCAT_2021_2085,ankit bhandari,691,ce
+2082,KUCAT_2021_2086,saksham adhikari,486,ce
+2083,KUCAT_2021_2087,suraksha gyawali,0,civil
+2084,KUCAT_2021_2088,suresh bohara,492,civil
+2085,KUCAT_2021_2089,gaurab ghimire,915,civil
+2086,KUCAT_2021_2090,jyoti chaudhary,540,civil
+2087,KUCAT_2021_2091,jamuna chapagain,689,arch
+2088,KUCAT_2021_2092,darpan pokhrel,844,civil
+2089,KUCAT_2021_2093,deepak jagri,369,civil
+2090,KUCAT_2021_2094,bipin khanal,529,civil
+2091,KUCAT_2021_2095,aman kumar sah,518,ce
+2092,KUCAT_2021_2096,sangam mishra,1074,civil
+2093,KUCAT_2021_2097,bikram parki,849,ce
+2094,KUCAT_2021_2098,dipesh shrestha,879,civil
+2095,KUCAT_2021_2099,bikram bachagain,631,ce
+2096,KUCAT_2021_2100,robert tiruwa,353,civil
+2097,KUCAT_2021_2101,arun neupane,609,civil
+2098,KUCAT_2021_2102,rajan kumar sah,431,ce
+2099,KUCAT_2021_2103,bimal shahi,679,ce
+2100,KUCAT_2021_2104,shiva aryal,816,civil
+2101,KUCAT_2021_2105,meenal lamsal,0,arch
+2102,KUCAT_2021_2106,saroj gautam,690,ce
+2103,KUCAT_2021_2107,denish joshi,563,arch
+2104,KUCAT_2021_2108,pragyan gaire,648,ce
+2105,KUCAT_2021_2109,trishna subedi,0,arch
+2106,KUCAT_2021_2110,nikolson chauhan,541,cs
+2107,KUCAT_2021_2111,ujjwal mallick,563,bio
+2108,KUCAT_2021_2112,prayog dwa,0,ce
+2109,KUCAT_2021_2113,binit shrestha,571,ce
+2110,KUCAT_2021_2114,sadikchhya basnet,605,arch
+2111,KUCAT_2021_2115,manita joshi,549,ce
+2112,KUCAT_2021_2116,prashiddha regmi,528,ce
+2113,KUCAT_2021_2117,rosa prajapati,0,cs
+2114,KUCAT_2021_2118,meghraj oli,471,civil
+2115,KUCAT_2021_2119,priyajan swongamikha,0,ce
+2116,KUCAT_2021_2120,sandeep dharel,0,civil
+2117,KUCAT_2021_2121,rohit yadav,595,design
+2118,KUCAT_2021_2122,anish shahi,625,ce
+2119,KUCAT_2021_2123,rabindra kumar sah,339,civil
+2120,KUCAT_2021_2124,manjit kumar chaudhary,435,ce
+2121,KUCAT_2021_2125,aadarsha sapkota,440,cs
+2122,KUCAT_2021_2126,bibek kumar mandal,350,ce
+2123,KUCAT_2021_2127,jagdish snehi,464,civil
+2124,KUCAT_2021_2128,roshan karki,458,civil
+2125,KUCAT_2021_2129,anish chaudhary tharu,313,civil
+2126,KUCAT_2021_2130,sugam adhikari,590,ce
+2127,KUCAT_2021_2131,bibek sah,508,civil
+2128,KUCAT_2021_2132,aditya raj,774,auto
+2129,KUCAT_2021_2133,antim thapa bayambu magar,602,civil
+2130,KUCAT_2021_2134,kajal kumari rauniyar,494,ce
+2131,KUCAT_2021_2135,samragyi devkota,667,bsc in agriculture
+2132,KUCAT_2021_2136,saransh dev,381,bsc in agriculture
+2133,KUCAT_2021_2137,darshan lamichhane,953,design
+2134,KUCAT_2021_2138,sabal gautam,0,cs
+2135,KUCAT_2021_2139,aayush lamsal,802,ce
+2136,KUCAT_2021_2140,pranisha khatiwada,473,arch
+2137,KUCAT_2021_2141,binod shrestha,719,civil
+2138,KUCAT_2021_2142,ashbin thapa,911,ce
+2139,KUCAT_2021_2143,aayush bishwakarma,522,ce
+2140,KUCAT_2021_2144,sunil ray yadav,626,power
+2141,KUCAT_2021_2145,aayush parajuli,656,ce
+2142,KUCAT_2021_2146,sangit adhikari,562,civil
+2143,KUCAT_2021_2147,dinesh kumar ghimire,396,civil
+2144,KUCAT_2021_2148,ronit shrestha,500,civil
+2145,KUCAT_2021_2149,aayush nepal,790,civil
+2146,KUCAT_2021_2150,mahesh sigdel,783,civil
+2147,KUCAT_2021_2151,pratik sharma bhusal,764,cs
+2148,KUCAT_2021_2152,bipin bashyal,1049,ce
+2149,KUCAT_2021_2153,abbal chhatkuli,537,civil
+2150,KUCAT_2021_2154,gopil bhatt,560,auto
+2151,KUCAT_2021_2155,kushal maharjan,456,ce
+2152,KUCAT_2021_2156,prakriti acharya,586,ce
+2153,KUCAT_2021_2157,bhuwan prasad joshi,645,ce
+2154,KUCAT_2021_2158,bishal pun,647,civil
+2155,KUCAT_2021_2159,abhisekh bhandari,698,auto
+2156,KUCAT_2021_2160,sujan khadkathoki bk,570,ce
+2157,KUCAT_2021_2161,ashiya thapa,390,arch
+2158,KUCAT_2021_2162,rabin adhikari,636,ce
+2159,KUCAT_2021_2163,sunny jha,0,ce
+2160,KUCAT_2021_2164,nigam yadav,616,ce
+2161,KUCAT_2021_2165,vansh dev,0,civil
+2162,KUCAT_2021_2166,nitesh kamat,499,ce
+2163,KUCAT_2021_2167,sohan maharjan,0,cs
+2164,KUCAT_2021_2168,samar kumar patel,587,chem
+2165,KUCAT_2021_2169,shadab ali shekh,465,ce
+2166,KUCAT_2021_2170,navin kumar sah,0,geo
+2167,KUCAT_2021_2171,bikas lamichhane jaisi,898,civil
+2168,KUCAT_2021_2172,shuvam baral,531,btech in artificial intelligence
+2169,KUCAT_2021_2173,shubham manandhar,434,arch
+2170,KUCAT_2021_2174,aayush aryal,580,auto
+2171,KUCAT_2021_2175,subhra baruwa,423,arch
+2172,KUCAT_2021_2176,kabita timsina,422,civil
+2173,KUCAT_2021_2177,kritish pokharel,0,btech in artificial intelligence
+2174,KUCAT_2021_2178,prabin raj dhungana,890,ce
+2175,KUCAT_2021_2179,nikhil k.c.,760,ce
+2176,KUCAT_2021_2180,suman marasini,527,civil
+2177,KUCAT_2021_2181,bishal bhattarai,569,ce
+2178,KUCAT_2021_2182,uddhav sapkota,610,ce
+2179,KUCAT_2021_2183,sameer baskota,727,ce
+2180,KUCAT_2021_2184,shubha acharya,928,ce
+2181,KUCAT_2021_2185,ranjit adhikari,985,ce
+2182,KUCAT_2021_2186,rinit maharjan,410,ce
+2183,KUCAT_2021_2187,ramesh kumar yadav,520,civil
+2184,KUCAT_2021_2188,sandip wagle,639,ce
+2185,KUCAT_2021_2189,sindhu pangeni,717,ce
+2186,KUCAT_2021_2190,aditi bhandari,0,arch
+2187,KUCAT_2021_2191,dristi kafle,757,cs
+2188,KUCAT_2021_2192,prajwal pudasainee,917,civil
+2189,KUCAT_2021_2193,awash bhandari,296,ce
+2190,KUCAT_2021_2194,kripesh poudel,688,ce
+2191,KUCAT_2021_2195,bardan khadka,899,communication
+2192,KUCAT_2021_2196,sushant karki,697,civil
+2193,KUCAT_2021_2197,sanjeev mandal,491,civil
+2194,KUCAT_2021_2198,bhupal singh oli,1061,civil
+2195,KUCAT_2021_2199,pravash yadav,552,ce
+2196,KUCAT_2021_2200,nayan shrestha,773,civil
+2197,KUCAT_2021_2201,sajan subedi,938,civil
+2198,KUCAT_2021_2202,sagun dhakal,445,ce
+2199,KUCAT_2021_2203,laxmi narayan gurung,716,civil
+2200,KUCAT_2021_2204,amrit kandel,1058,ce
+2201,KUCAT_2021_2205,prasun timalsina,581,ce
+2202,KUCAT_2021_2206,puspa hari ghimire,702,ce
+2203,KUCAT_2021_2207,sadikshya khadka,973,bio
+2204,KUCAT_2021_2208,krishna basnet,351,bio
+2205,KUCAT_2021_2209,bibek baraili,764,ce
+2206,KUCAT_2021_2210,manshi joshi,477,ce
+2207,KUCAT_2021_2211,binita adhikari,741,btech in artificial intelligence
+2208,KUCAT_2021_2212,nischal shrestha,583,auto
+2209,KUCAT_2021_2213,kusum gurung,640,civil
+2210,KUCAT_2021_2214,aayush upadhyay,830,ce
+2211,KUCAT_2021_2215,avishek raj ranjan,620,ce
+2212,KUCAT_2021_2216,rajan sah,470,civil
+2213,KUCAT_2021_2217,shreeya khatri,503,civil
+2214,KUCAT_2021_2218,supriya pahadi,305,civil
+2215,KUCAT_2021_2219,ankit shrestha,530,ce
+2216,KUCAT_2021_2220,shikshya ojha,0,civil
+2217,KUCAT_2021_2221,himani shah,565,arch
+2218,KUCAT_2021_2222,maryada gyawali,415,arch
+2219,KUCAT_2021_2223,mobin dahal,607,ce
+2220,KUCAT_2021_2224,norbu gurung,694,civil
+2221,KUCAT_2021_2225,pooja pandey,552,civil
+2222,KUCAT_2021_2226,yukesh bal tamang,502,civil
+2223,KUCAT_2021_2227,sabin manandhar,796,ce
+2224,KUCAT_2021_2228,naresh raj bashyal,0,ce
+2225,KUCAT_2021_2229,santosh baniya,633,ce
+2226,KUCAT_2021_2230,aaron regmi,454,civil
+2227,KUCAT_2021_2231,bibek kumar sah,0,civil
+2228,KUCAT_2021_2232,sakshyam luitel,1180,ce
+2229,KUCAT_2021_2233,simon nakarmi,527,cs
+2230,KUCAT_2021_2234,pravin yadav,812,civil
+2231,KUCAT_2021_2235,satish gautam,779,ce
+2232,KUCAT_2021_2236,eerav koirala,547,cs
+2233,KUCAT_2021_2237,apekshya panta,578,arch
+2234,KUCAT_2021_2238,utsav belbase,678,arch
+2235,KUCAT_2021_2239,bisek babu khanal,563,ce
+2236,KUCAT_2021_2240,susmita adhikari,546,geo
+2237,KUCAT_2021_2241,umit sah,398,ce
+2238,KUCAT_2021_2242,priyankar baidya(tamang),734,ce
+2239,KUCAT_2021_2243,mohit singh budal,801,ce
+2240,KUCAT_2021_2244,niraj kumar chaudhary,466,ce
+2241,KUCAT_2021_2245,raj shrestha,516,cs
+2242,KUCAT_2021_2246,suraj kafle,0,civil
+2243,KUCAT_2021_2247,debish thapa,0,civil
+2244,KUCAT_2021_2248,sudip adhikari,979,power
+2245,KUCAT_2021_2249,dipesh kumar shrestha,598,cs
+2246,KUCAT_2021_2250,sisir subedi,602,civil
+2247,KUCAT_2021_2251,aryan shrestha,570,ce
+2248,KUCAT_2021_2252,nischal rai,568,design
+2249,KUCAT_2021_2253,piyush rimal,574,design
+2250,KUCAT_2021_2254,sagar paudel chudali,796,ce
+2251,KUCAT_2021_2255,ashesh upreti,511,civil
+2252,KUCAT_2021_2256,susmita subedi,517,civil
+2253,KUCAT_2021_2257,aagya shakya,462,ce
+2254,KUCAT_2021_2258,smriti bajagain,645,ce
+2255,KUCAT_2021_2259,rajan paudel,636,ce
+2256,KUCAT_2021_2260,yug paudyal,546,geo
+2257,KUCAT_2021_2261,om babu bhatttarai,611,civil
+2258,KUCAT_2021_2262,enough paudel,668,geo
+2259,KUCAT_2021_2263,alina katwal,0,bsc in agriculture
+2260,KUCAT_2021_2264,sarahana shrestha,537,ce
+2261,KUCAT_2021_2265,aditya kumar yadav,915,civil
+2262,KUCAT_2021_2266,rahul yadav,413,ce
+2263,KUCAT_2021_2267,chhayangba lama,413,civil
+2264,KUCAT_2021_2268,roshani roka,789,arch
+2265,KUCAT_2021_2269,unisha adhikari,510,arch
+2266,KUCAT_2021_2270,bhaskar joshi,701,civil
+2267,KUCAT_2021_2271,anmol shrestha,585,civil
+2268,KUCAT_2021_2272,ishan katwal,671,communication
+2269,KUCAT_2021_2273,hrishi prasad gupta,649,ce
+2270,KUCAT_2021_2274,prajwal sapkota,902,civil
+2271,KUCAT_2021_2275,rosha aryal,523,bsc in agriculture
+2272,KUCAT_2021_2276,dikshya khadka,694,bio
+2273,KUCAT_2021_2277,kalyan bhattarai,0,btech in artificial intelligence
+2274,KUCAT_2021_2278,ritesh kumar chaudhary,645,bsc in agriculture
+2275,KUCAT_2021_2279,raju shrestha,456,ce
+2276,KUCAT_2021_2280,nishan bhattarai,527,civil
+2277,KUCAT_2021_2281,alina timilsina,414,arch
+2278,KUCAT_2021_2282,sambriddhi neupane,563,arch
+2279,KUCAT_2021_2283,shreni dahal,581,arch
+2280,KUCAT_2021_2284,prajwal bhusal,379,bsc in agriculture
+2281,KUCAT_2021_2285,tank prasad awasthi,971,civil
+2282,KUCAT_2021_2286,bishal baral,0,civil
+2283,KUCAT_2021_2287,mijash bhugai,903,ce
+2284,KUCAT_2021_2288,raunak mishra,859,power
+2285,KUCAT_2021_2289,sana khatun,0,ce
+2286,KUCAT_2021_2290,pradeep pandey,454,ce
+2287,KUCAT_2021_2291,sakar subedi,832,civil
+2288,KUCAT_2021_2292,rabindra yadav,0,power
+2289,KUCAT_2021_2293,yogesh bogati,0,ce
+2290,KUCAT_2021_2294,manoj shrestha,583,ce
+2291,KUCAT_2021_2295,srijan joshi,563,ce
+2292,KUCAT_2021_2296,ajay paudel,496,ce
+2293,KUCAT_2021_2297,pratishtha tamrakar,653,arch
+2294,KUCAT_2021_2298,amrit pandey,1170,ce
+2295,KUCAT_2021_2299,ayush bohara,420,arch
+2296,KUCAT_2021_2300,aaryan dahal,1118,ce
+2297,KUCAT_2021_2301,suraj mahaseth,665,civil
+2298,KUCAT_2021_2302,sarvesh khanal,431,ce
+2299,KUCAT_2021_2303,anish karn,406,ce
+2300,KUCAT_2021_2304,pratima rajbanshi,0,bio
+2301,KUCAT_2021_2305,ranjit upadhyaya,0,ce
+2302,KUCAT_2021_2306,ankit bhandari,925,ce
+2303,KUCAT_2021_2307,babita karki,279,arch
+2304,KUCAT_2021_2308,birinchi k c,0,cs
+2305,KUCAT_2021_2309,jenisha karki,462,arch
+2306,KUCAT_2021_2310,santosh kumar chaudhary,233,ce
+2307,KUCAT_2021_2311,sochan thapa magar,766,civil
+2308,KUCAT_2021_2312,susham shrestha,675,auto
+2309,KUCAT_2021_2313,aakash bahadur lama,564,ce
+2310,KUCAT_2021_2314,dilip kumar sah,379,geo
+2311,KUCAT_2021_2315,kabir maharjan,380,civil
+2312,KUCAT_2021_2316,prensha maharjan,421,ce
+2313,KUCAT_2021_2317,dibya bhandari,675,bsc in agriculture
+2314,KUCAT_2021_2318,suraj bishwokarma,678,civil
+2315,KUCAT_2021_2319,bikash pokhrel,1371,ce
+2316,KUCAT_2021_2320,pratyush khadka,669,ce
+2317,KUCAT_2021_2321,prajwal poudel,748,civil
+2318,KUCAT_2021_2322,arjun lekhak,0,ce
+2319,KUCAT_2021_2323,shujal maharjan,568,cs
+2320,KUCAT_2021_2324,shreeya nepal,687,cs
+2321,KUCAT_2021_2325,intaf malik,728,ce
+2322,KUCAT_2021_2326,avay kumar chaudhary,438,hydro
+2323,KUCAT_2021_2327,raj kumar yadav,707,civil
+2324,KUCAT_2021_2328,sabin kumar chaudhary,542,btech in artificial intelligence
+2325,KUCAT_2021_2329,abij bhandari,424,civil
+2326,KUCAT_2021_2330,nootan bajagain,363,enve
+2327,KUCAT_2021_2331,anjali b.k,511,civil
+2328,KUCAT_2021_2332,diksha jha,458,civil
+2329,KUCAT_2021_2333,sanjay kumar yadav,405,bsc in agriculture
+2330,KUCAT_2021_2334,manish kumar yadav,527,civil
+2331,KUCAT_2021_2335,jivan kadel,0,cs
+2332,KUCAT_2021_2336,birendra kumar tharu,578,civil
+2333,KUCAT_2021_2337,kumar gautam,648,ce
+2334,KUCAT_2021_2338,sarad bashyal,0,ce
+2335,KUCAT_2021_2339,mukesh bastola,809,civil
+2336,KUCAT_2021_2340,simran khatri,739,civil
+2337,KUCAT_2021_2341,deepa dahal,371,civil
+2338,KUCAT_2021_2342,rahul balal,433,ce
+2339,KUCAT_2021_2343,krishpin chaulagain,583,civil
+2340,KUCAT_2021_2344,aayusha shrestha,780,arch
+2341,KUCAT_2021_2345,nabin shrestha,0,ce
+2342,KUCAT_2021_2346,raghupati sharma,568,civil
+2343,KUCAT_2021_2347,raj kumar chaudhary,0,civil
+2344,KUCAT_2021_2348,sagar khanal,950,civil
+2345,KUCAT_2021_2349,sushil khadka,586,bsc in agriculture
+2346,KUCAT_2021_2350,bardan dawadi,691,auto
+2347,KUCAT_2021_2351,govinda bohara,0,geo
+2348,KUCAT_2021_2352,pawan tiwari,887,ce
+2349,KUCAT_2021_2353,abiram adhikari,798,ce
+2350,KUCAT_2021_2354,praful kathayat,525,ce
+2351,KUCAT_2021_2355,abhishek jha,0,civil
+2352,KUCAT_2021_2356,sirisan kc,639,ce
+2353,KUCAT_2021_2357,kirtan shrestha,574,communication
+2354,KUCAT_2021_2358,rupesh kumar yadav,595,power
+2355,KUCAT_2021_2359,kishor sanjyal,432,ce
+2356,KUCAT_2021_2360,denish shahi,0,communication
+2357,KUCAT_2021_2361,saurav panthi,629,civil
+2358,KUCAT_2021_2362,saroj gumanju,680,civil
+2359,KUCAT_2021_2363,avisesh parajuli,0,ce
+2360,KUCAT_2021_2364,pooja sapkota,659,civil
+2361,KUCAT_2021_2365,devansh joshi,913,ce
+2362,KUCAT_2021_2366,raj kumar yadav,676,geo
+2363,KUCAT_2021_2367,sudha subedi,661,bsc in agriculture
+2364,KUCAT_2021_2368,barsha ghimire sunar,781,ce
+2365,KUCAT_2021_2369,sanju joshi,441,ce
+2366,KUCAT_2021_2370,pratap dhakal,466,ce
+2367,KUCAT_2021_2371,deep khanal,527,ce
+2368,KUCAT_2021_2372,abhinaash tiwari,804,ce
+2369,KUCAT_2021_2373,kiran dhakal,665,civil
+2370,KUCAT_2021_2374,bedraj lungeli,420,bsc in agriculture
+2371,KUCAT_2021_2375,prashows amatya,751,ce
+2372,KUCAT_2021_2376,pankaj yadav,553,bsc in agriculture
+2373,KUCAT_2021_2377,ramakant dawadi,632,ce
+2374,KUCAT_2021_2378,rabindra bhandari,435,arch
+2375,KUCAT_2021_2379,anamika sharma,401,civil
+2376,KUCAT_2021_2380,amardeep limbu,719,ce
+2377,KUCAT_2021_2381,bibek bc,740,civil
+2378,KUCAT_2021_2382,prayojan poudel,504,ce
+2379,KUCAT_2021_2383,shivaji patel,568,ce
+2380,KUCAT_2021_2384,nirmal ghale,0,civil
+2381,KUCAT_2021_2385,priyanshu yadav,530,civil
+2382,KUCAT_2021_2386,jenith dandekhu,442,arch
+2383,KUCAT_2021_2387,asmita sapkota,711,ce
+2384,KUCAT_2021_2388,bebin lingden limbu,0,civil
+2385,KUCAT_2021_2389,dibash basnet,471,civil
+2386,KUCAT_2021_2390,shrijal man shrestha,663,arch
+2387,KUCAT_2021_2391,achyut khanal,618,civil
+2388,KUCAT_2021_2392,sandesh bhattarai,789,civil
+2389,KUCAT_2021_2393,samrita maharjan,456,arch
+2390,KUCAT_2021_2394,birajman tamang,466,cs
+2391,KUCAT_2021_2395,ananda pandey,0,civil
+2392,KUCAT_2021_2396,nirajan kumar yadav,579,civil
+2393,KUCAT_2021_2397,anshu pradhanang,0,ce
+2394,KUCAT_2021_2398,sabina neupane,493,civil
+2395,KUCAT_2021_2399,rishad baniya,728,cs
+2396,KUCAT_2021_2400,biras paudel,614,ce
+2397,KUCAT_2021_2401,ishan tajale,331,civil
+2398,KUCAT_2021_2402,deepak kumar k.c.,506,civil
+2399,KUCAT_2021_2403,binit shrestha,849,ce
+2400,KUCAT_2021_2404,manisha adhikari,660,civil
+2401,KUCAT_2021_2405,khum bahadur bishwokarma,529,civil
+2402,KUCAT_2021_2406,heman rai,378,civil
+2403,KUCAT_2021_2407,uday kumar sharma,327,civil
+2404,KUCAT_2021_2408,ashmita kurumbang,0,civil
+2405,KUCAT_2021_2409,kritika shrestha,695,civil
+2406,KUCAT_2021_2410,jibendra yadav,792,civil
+2407,KUCAT_2021_2411,bibek shrestha,338,civil
+2408,KUCAT_2021_2412,laxmi dhakal,522,arch
+2409,KUCAT_2021_2413,khadak kumar shrestha,566,civil
+2410,KUCAT_2021_2414,sijan rijal,925,civil
+2411,KUCAT_2021_2415,yadav bhandari,0,civil
+2412,KUCAT_2021_2416,gaurav subedi,686,ce
+2413,KUCAT_2021_2417,pujan subedi,614,civil
+2414,KUCAT_2021_2418,niruja bhandari,630,ce
+2415,KUCAT_2021_2419,romy shrestha,640,arch
+2416,KUCAT_2021_2420,sabin shrestha,352,civil
+2417,KUCAT_2021_2421,bibek karki,737,cs
+2418,KUCAT_2021_2422,kanakmani das pariyar,0,ce
+2419,KUCAT_2021_2423,sayuri shrestha,454,bio
+2420,KUCAT_2021_2424,shristy shah,590,bio
+2421,KUCAT_2021_2425,samir kc,484,civil
+2422,KUCAT_2021_2426,prabesh tharu,642,civil
+2423,KUCAT_2021_2427,shiddhika koirala,497,civil
+2424,KUCAT_2021_2428,ayush adhikari,0,ce
+2425,KUCAT_2021_2429,jenish adhikari,0,ce
+2426,KUCAT_2021_2430,kritika acharya,0,arch
+2427,KUCAT_2021_2431,krishna bhandari,427,ce
+2428,KUCAT_2021_2432,nishchal shrestha,540,btech in artificial intelligence
+2429,KUCAT_2021_2433,jharana adhikari,591,ce
+2430,KUCAT_2021_2434,dipesh dhakal,757,ce
+2431,KUCAT_2021_2435,ayush lamsal,609,ce
+2432,KUCAT_2021_2436,rabi shankar mahato,485,civil
+2433,KUCAT_2021_2437,pradip acharya,427,civil
+2434,KUCAT_2021_2438,obin bade shrestha,526,ce
+2435,KUCAT_2021_2439,subechya karanjit,449,cs
+2436,KUCAT_2021_2440,sumisa panta,0,design
+2437,KUCAT_2021_2441,abishek khadka,415,arch
+2438,KUCAT_2021_2442,manju kumari sah,328,bsc in agriculture
+2439,KUCAT_2021_2443,diyana pradhan,773,arch
+2440,KUCAT_2021_2444,swastika acharya,741,arch
+2441,KUCAT_2021_2445,jitesh chaudhary,839,cs
+2442,KUCAT_2021_2446,pramish sharma sapkota,836,ce
+2443,KUCAT_2021_2447,sitala subedi,637,arch
+2444,KUCAT_2021_2448,sajana k. c.,598,civil
+2445,KUCAT_2021_2449,vivek dahal,524,ce
+2446,KUCAT_2021_2450,rammani dhakal,0,ce
+2447,KUCAT_2021_2451,saijal sthapit,0,civil
+2448,KUCAT_2021_2452,anil prasad sah,528,ce
+2449,KUCAT_2021_2453,nijan duwal,665,ce
+2450,KUCAT_2021_2454,dolak dc,532,civil
+2451,KUCAT_2021_2455,saban shrestha,487,ce
+2452,KUCAT_2021_2456,prashamsa rayamajhi,498,enve
+2453,KUCAT_2021_2457,aashish hitang,922,civil
+2454,KUCAT_2021_2458,hemanta bc,392,civil
+2455,KUCAT_2021_2459,amrit subedi,749,ce
+2456,KUCAT_2021_2460,summit maharjan,923,arch
+2457,KUCAT_2021_2461,aakash kumar sah,403,civil
+2458,KUCAT_2021_2462,anish pokharel,576,ce
+2459,KUCAT_2021_2463,sejal dahal,822,bio
+2460,KUCAT_2021_2464,bigya bhandari,462,ce
+2461,KUCAT_2021_2465,nigam chaudhary,459,civil
+2462,KUCAT_2021_2466,namita baral,0,civil
+2463,KUCAT_2021_2467,bishnu prasad pandey,839,civil
+2464,KUCAT_2021_2468,rupendra sharma,846,civil
+2465,KUCAT_2021_2469,rupesh chaudhary,250,cs
+2466,KUCAT_2021_2470,binit gurung,603,ce
+2467,KUCAT_2021_2471,pabitra sapkota,744,envs
+2468,KUCAT_2021_2472,achut kharel,770,civil
+2469,KUCAT_2021_2473,susan aryal,649,arch
+2470,KUCAT_2021_2474,nomika dhakal,909,communication
+2471,KUCAT_2021_2475,bipin ghale,903,civil
+2472,KUCAT_2021_2476,prem poudel,659,ce
+2473,KUCAT_2021_2477,krishna sapkota,426,ce
+2474,KUCAT_2021_2478,anjali bhandari,758,design
+2475,KUCAT_2021_2479,arun bhandari,868,ce
+2476,KUCAT_2021_2480,simran adhikari,572,bsc in agriculture
+2477,KUCAT_2021_2481,alisha shah,766,arch
+2478,KUCAT_2021_2482,ankeet gadtaula,0,power
+2479,KUCAT_2021_2483,sumitra acharya,478,civil
+2480,KUCAT_2021_2484,prem kumar shrestha,449,ce
+2481,KUCAT_2021_2485,bikram gc,589,civil
+2482,KUCAT_2021_2486,aayan neupane,743,ce
+2483,KUCAT_2021_2487,nawal kishor ray amat,0,geo
+2484,KUCAT_2021_2488,arjun b.k.,860,power
+2485,KUCAT_2021_2489,sambhav baidhya,436,civil
+2486,KUCAT_2021_2490,anmol kafle,359,ce
+2487,KUCAT_2021_2491,samip nepal,431,ce
+2488,KUCAT_2021_2492,bishwa kandel,606,ce
+2489,KUCAT_2021_2493,binit shrestha,563,ce
+2490,KUCAT_2021_2494,arjun mahato,769,ce
+2491,KUCAT_2021_2495,aspa chaudhary,713,ce
+2492,KUCAT_2021_2496,udit duwadi,414,enve
+2493,KUCAT_2021_2497,prabhat kumar chaudhary,526,cs
+2494,KUCAT_2021_2498,abhisek shrestha putuwar,516,ce
+2495,KUCAT_2021_2499,subit bhattarai,454,ce
+2496,KUCAT_2021_2500,pusparaj pokharel,815,civil
+2497,KUCAT_2021_2501,kriti timalsina,357,civil
+2498,KUCAT_2021_2502,pragyan karki,371,arch
+2499,KUCAT_2021_2503,ajay sah,0,civil
+2500,KUCAT_2021_2504,suman kumar sah,342,ce
+2501,KUCAT_2021_2505,aakash karki,585,civil
+2502,KUCAT_2021_2506,shreejal mainali,0,civil
+2503,KUCAT_2021_2507,naman singh,510,geo
+2504,KUCAT_2021_2508,mohan tiwari,646,ce
+2505,KUCAT_2021_2509,bishesh bhattarai,728,auto
+2506,KUCAT_2021_2510,niraj kumar prajapati,0,civil
+2507,KUCAT_2021_2511,sadiksha yonjan tamang,715,bsc in agriculture
+2508,KUCAT_2021_2512,krijan shrestha,0,civil
+2509,KUCAT_2021_2513,anusha marahatta,0,bsc in agriculture
+2510,KUCAT_2021_2514,anusha shrestha,0,ce
+2511,KUCAT_2021_2515,alisha bhusal,0,ce
+2512,KUCAT_2021_2516,archana pandey,382,bsc in agriculture
+2513,KUCAT_2021_2517,bishal sah,693,ce
+2514,KUCAT_2021_2518,puspanjali thakur,419,ce
+2515,KUCAT_2021_2519,crystal gc,1111,design
+2516,KUCAT_2021_2520,prayash thapaliya,818,geo
+2517,KUCAT_2021_2521,rikesh poudel,1061,ce
+2518,KUCAT_2021_2522,nisha adhikari,550,ce
+2519,KUCAT_2021_2523,anurag sharma,582,ce
+2520,KUCAT_2021_2524,shreeya shrestha,415,civil
+2521,KUCAT_2021_2525,sumant kumar yadav,431,bsc in agriculture
+2522,KUCAT_2021_2526,tisa shrestha,650,civil
+2523,KUCAT_2021_2527,kismat roka,0,cs
+2524,KUCAT_2021_2528,kaustuv bhattarai,751,ce
+2525,KUCAT_2021_2529,aanand kumar shah,656,civil
+2526,KUCAT_2021_2530,prabin shahi,701,auto
+2527,KUCAT_2021_2531,swostika wosti,0,arch
+2528,KUCAT_2021_2532,alish upreti,691,ce
+2529,KUCAT_2021_2533,samragi acharya,0,arch
+2530,KUCAT_2021_2534,rojin puri,759,power
+2531,KUCAT_2021_2535,purnita mishra,365,chem
+2532,KUCAT_2021_2536,sanket karki,0,ce
+2533,KUCAT_2021_2537,ashika ghimire,623,ce
+2534,KUCAT_2021_2538,praneeb shrestha,500,arch
+2535,KUCAT_2021_2539,nishant sah,373,cs
+2536,KUCAT_2021_2540,binit karki,796,ce
+2537,KUCAT_2021_2541,bibek wagle,815,civil
+2538,KUCAT_2021_2542,pranjal karki,527,civil
+2539,KUCAT_2021_2543,anup lama,830,auto
+2540,KUCAT_2021_2544,kalzang dorje lama tamang,385,envs
+2541,KUCAT_2021_2545,sitara kumari jaiswal,750,communication
+2542,KUCAT_2021_2546,sandil katuwal kc,889,civil
+2543,KUCAT_2021_2547,pappu kumar yadav,467,geo
+2544,KUCAT_2021_2548,ashish sapkota,679,ce
+2545,KUCAT_2021_2549,shishir roka,599,bio
+2546,KUCAT_2021_2550,anurag sah,1004,ce
+2547,KUCAT_2021_2551,swochhanda jangam,632,civil
+2548,KUCAT_2021_2552,mukesh yadav,502,civil
+2549,KUCAT_2021_2553,sambhawi paudel,733,ce
+2550,KUCAT_2021_2554,ishneha bista,379,arch
+2551,KUCAT_2021_2555,asim yadav,677,cs
+2552,KUCAT_2021_2556,priti tamang,919,computational
+2553,KUCAT_2021_2557,ashreen dangol,427,arch
+2554,KUCAT_2021_2558,ashmita karki,480,arch
+2555,KUCAT_2021_2559,subash chaulagain,582,geo
+2556,KUCAT_2021_2560,prerana shrestha,478,civil
+2557,KUCAT_2021_2561,alka basnet,554,civil
+2558,KUCAT_2021_2562,manish adhikari,980,ce
+2559,KUCAT_2021_2563,yaman kc,558,ce
+2560,KUCAT_2021_2564,sandhya khadka,0,bsc in agriculture
+2561,KUCAT_2021_2565,aditya kushwaha,537,ce
+2562,KUCAT_2021_2566,purnima karki,493,arch
+2563,KUCAT_2021_2567,roshani shahi,515,ce
+2564,KUCAT_2021_2568,diya khanal,0,ce
+2565,KUCAT_2021_2569,indra thanet,0,ce
+2566,KUCAT_2021_2570,anush aryal,598,ce
+2567,KUCAT_2021_2571,aadarsh sharma,0,auto
+2568,KUCAT_2021_2572,supriya itani,331,bsc in agriculture
+2569,KUCAT_2021_2573,kabin katuwal,0,civil
+2570,KUCAT_2021_2574,swastika singh,0,envs
+2571,KUCAT_2021_2575,hritika manandhar,533,bio
+2572,KUCAT_2021_2576,sanskar bhattarai,719,ce
+2573,KUCAT_2021_2577,saloni pradhan,430,ce
+2574,KUCAT_2021_2578,avash pradhan,499,ce
+2575,KUCAT_2021_2579,dupsang lama,633,bio
+2576,KUCAT_2021_2580,mohammad shadik ansari,861,arch
+2577,KUCAT_2021_2581,suhem pandit,689,civil
+2578,KUCAT_2021_2582,trijit yadav,374,civil
+2579,KUCAT_2021_2583,sushant rai,380,auto
+2580,KUCAT_2021_2584,alisha sejawal,601,civil
+2581,KUCAT_2021_2585,shashinoor ghimire,901,ce
+2582,KUCAT_2021_2586,sulabh paudel,614,civil
+2583,KUCAT_2021_2587,sudip subedi,541,civil
+2584,KUCAT_2021_2588,diwash kumar chaudhary,639,civil
+2585,KUCAT_2021_2589,bishwas gautam,545,civil
+2586,KUCAT_2021_2590,prasiddha raj pokhrel,949,power
+2587,KUCAT_2021_2591,sabina humagain,519,geo
+2588,KUCAT_2021_2592,krishna subedi,683,civil
+2589,KUCAT_2021_2593,kaushal khadka,493,civil
+2590,KUCAT_2021_2594,samriddhi suwal,679,ce
+2591,KUCAT_2021_2595,milan shrestha,541,ce
+2592,KUCAT_2021_2596,aastha gupta,391,ce
+2593,KUCAT_2021_2597,karan somai,0,ce
+2594,KUCAT_2021_2598,devisha karki,432,arch
+2595,KUCAT_2021_2599,samikshya baral,454,bsc in agriculture
+2596,KUCAT_2021_2600,nishchal pandit,684,ce
+2597,KUCAT_2021_2601,barun rana,0,ce
+2598,KUCAT_2021_2602,prasun bindari,467,civil
+2599,KUCAT_2021_2603,jeebika ghimire,0,envs
+2600,KUCAT_2021_2604,ajay kumar mehta,413,civil
+2601,KUCAT_2021_2605,aayush kumar singh,891,ce
+2602,KUCAT_2021_2606,anurag shrestha,719,ce
+2603,KUCAT_2021_2607,aryan khanal,804,ce
+2604,KUCAT_2021_2608,nabina thapa,713,civil
+2605,KUCAT_2021_2609,simanta karki,441,ce
+2606,KUCAT_2021_2610,prabita tiwari,684,design
+2607,KUCAT_2021_2611,aabid ali mansoor,0,auto
+2608,KUCAT_2021_2612,nischal kumar yadav,746,civil
+2609,KUCAT_2021_2613,lalan kumar mahato,440,civil
+2610,KUCAT_2021_2614,bishrut jung thapa,614,design
+2611,KUCAT_2021_2615,subash tamang,718,civil
+2612,KUCAT_2021_2616,ashwika shrestha,414,arch
+2613,KUCAT_2021_2617,dhiraj thapa,1183,ce
+2614,KUCAT_2021_2618,simrika joshi,832,arch
+2615,KUCAT_2021_2619,monisha kumari yadav,455,bsc in agriculture
+2616,KUCAT_2021_2620,pragyan yogal shrestha,586,civil
+2617,KUCAT_2021_2621,md akram,674,ce
+2618,KUCAT_2021_2622,prasuna aryal,627,ce
+2619,KUCAT_2021_2623,bigyan ghimire,0,ce
+2620,KUCAT_2021_2624,anusha rajlawat,909,ce
+2621,KUCAT_2021_2625,bibek chand,0,ce
+2622,KUCAT_2021_2626,amit kumar yadav,642,geo
+2623,KUCAT_2021_2627,raman jha,427,civil
+2624,KUCAT_2021_2628,mohit adhikari,0,ce
+2625,KUCAT_2021_2629,shristi bhandary,345,civil
+2626,KUCAT_2021_2630,sananda satyal,585,ce
+2627,KUCAT_2021_2631,yunav dangaura chaudhary,522,ce
+2628,KUCAT_2021_2632,unnati rijal,736,ce
+2629,KUCAT_2021_2633,sagar paudel,558,civil
+2630,KUCAT_2021_2634,aanshumala bhattarai,0,civil
+2631,KUCAT_2021_2635,semana gurung,0,civil
+2632,KUCAT_2021_2636,prabin rajbhandari,685,ce
+2633,KUCAT_2021_2637,siddhant pant,568,ce
+2634,KUCAT_2021_2638,sunil thakur,591,civil
+2635,KUCAT_2021_2639,shishir ghimire,554,civil
+2636,KUCAT_2021_2640,trishna kc,0,civil
+2637,KUCAT_2021_2641,oshin panta,918,design
+2638,KUCAT_2021_2642,tej prasad poudel,441,civil
+2639,KUCAT_2021_2643,nirdesh bhattarai,666,auto
+2640,KUCAT_2021_2644,prashamsa acharya,512,civil
+2641,KUCAT_2021_2645,kamala gc,0,civil
+2642,KUCAT_2021_2646,sabita koju,385,arch
+2643,KUCAT_2021_2647,sandesh khati chhetri,0,civil
+2644,KUCAT_2021_2648,anuradha chaudhary,535,arch
+2645,KUCAT_2021_2649,puza sharma,721,ce
+2646,KUCAT_2021_2650,ankit lamichhane,514,civil
+2647,KUCAT_2021_2651,samjhana regmi,442,civil
+2648,KUCAT_2021_2652,princy jaiswal,350,ce
+2649,KUCAT_2021_2653,nitesh kumar mandal,776,civil
+2650,KUCAT_2021_2654,utsav neupane,637,civil
+2651,KUCAT_2021_2655,deependra bista,798,civil
+2652,KUCAT_2021_2656,sristi khanal,0,civil
+2653,KUCAT_2021_2657,diparshan neupane,665,civil
+2654,KUCAT_2021_2658,aayush thapa,810,power
+2655,KUCAT_2021_2659,kapil bastola,996,civil
+2656,KUCAT_2021_2660,nishant yadav,400,civil
+2657,KUCAT_2021_2661,dipak yadav,1008,ce
+2658,KUCAT_2021_2662,garima sapkota,482,arch
+2659,KUCAT_2021_2663,rijan karki,0,btech in artificial intelligence
+2660,KUCAT_2021_2664,subhash kumar yadav,415,civil
+2661,KUCAT_2021_2665,dipak kumar sah,583,geo
+2662,KUCAT_2021_2666,prisha thapa,556,ce
+2663,KUCAT_2021_2667,prashant nepal,770,arch
+2664,KUCAT_2021_2668,santoshi kumari sah,537,civil
+2665,KUCAT_2021_2669,shashi bhusal,435,civil
+2666,KUCAT_2021_2670,britika gadtoula,610,ce
+2667,KUCAT_2021_2671,suraj khadka,433,arch
+2668,KUCAT_2021_2672,raj kumar chaudhary,503,bsc in agriculture
+2669,KUCAT_2021_2673,sujal thapa,1111,civil
+2670,KUCAT_2021_2674,sovan subedi,654,ce
+2671,KUCAT_2021_2675,evanjali koirala,0,arch
+2672,KUCAT_2021_2676,anmol raj tuladhar,746,bio
+2673,KUCAT_2021_2677,simant bahadur singh,675,ce
+2674,KUCAT_2021_2678,shekhar kumar yadav,408,civil
+2675,KUCAT_2021_2679,aishra krish rai,0,civil
+2676,KUCAT_2021_2680,alisha maharjan,694,civil
+2677,KUCAT_2021_2681,rup jung malla,0,ce
+2678,KUCAT_2021_2682,shushma yogi,501,cs
+2679,KUCAT_2021_2683,darpan regmi,599,ce
+2680,KUCAT_2021_2684,abhay kumar sah,871,civil
+2681,KUCAT_2021_2685,shailesh mehta,286,civil
+2682,KUCAT_2021_2686,dikshya shrestha,413,arch
+2683,KUCAT_2021_2687,samir dhimal,398,civil
+2684,KUCAT_2021_2688,amit kumar yadav,646,civil
+2685,KUCAT_2021_2689,migma gurung,583,energy
+2686,KUCAT_2021_2690,uday kumar thakur,929,auto
+2687,KUCAT_2021_2691,nikesh dulal,368,civil
+2688,KUCAT_2021_2692,deepak thapa,0,ce
+2689,KUCAT_2021_2693,rashil khoju shrestha,0,civil
+2690,KUCAT_2021_2694,ayush dhakal,600,cs
+2691,KUCAT_2021_2695,shrijan acharya,469,civil
+2692,KUCAT_2021_2696,aasish thapa,999,civil
+2693,KUCAT_2021_2697,rojina thapa,0,bio
+2694,KUCAT_2021_2698,sulindra kumar thakur,654,ce
+2695,KUCAT_2021_2699,amit gupta,0,ce
+2696,KUCAT_2021_2700,deepika chauhan,479,arch
+2697,KUCAT_2021_2701,sohan shrestha,592,ce
+2698,KUCAT_2021_2702,yubraj kumar rauniyar,482,ce
+2699,KUCAT_2021_2703,sandesh chalise,503,ce
+2700,KUCAT_2021_2704,sambhav chalise,502,ce
+2701,KUCAT_2021_2705,roshan shah,0,ce
+2702,KUCAT_2021_2706,asmita subedi,836,civil
+2703,KUCAT_2021_2707,shubham bhatta,0,civil
+2704,KUCAT_2021_2708,sanju limbu,448,arch
+2705,KUCAT_2021_2709,prashanna lohani,475,ce
+2706,KUCAT_2021_2710,pratistha sapkota,0,ce
+2707,KUCAT_2021_2711,krishna poudel,646,civil
+2708,KUCAT_2021_2712,suprasanna parajuli,0,cs
+2709,KUCAT_2021_2713,sandeep poudel,897,civil
+2710,KUCAT_2021_2714,abhishek patrabansha shresth,365,ce
+2711,KUCAT_2021_2715,divya shrestha,377,bsc in agriculture
+2712,KUCAT_2021_2716,swornima shakya,0,ce
+2713,KUCAT_2021_2717,neelima pradhan,516,ce
+2714,KUCAT_2021_2718,samikshya acharya,571,geo
+2715,KUCAT_2021_2719,yubaraj acharya,352,geo
+2716,KUCAT_2021_2720,pranita sharma,558,envs
+2717,KUCAT_2021_2721,abhishek kumar yadav,442,civil
+2718,KUCAT_2021_2722,prasanna shah,700,civil
+2719,KUCAT_2021_2723,arbaj siddiqui,0,civil
+2720,KUCAT_2021_2724,bishal poudel,615,civil
+2721,KUCAT_2021_2725,purnima maharjan,598,civil
+2722,KUCAT_2021_2726,suyash nepal,821,cs
+2723,KUCAT_2021_2727,swapnil timsina,700,ce
+2724,KUCAT_2021_2728,siddhartha shrestha,588,civil
+2725,KUCAT_2021_2729,kuldeep singh,593,cs
+2726,KUCAT_2021_2730,prabin shrestha,455,ce
+2727,KUCAT_2021_2731,nikesh pyakurel,668,ce
+2728,KUCAT_2021_2732,samyam giri,0,ce
+2729,KUCAT_2021_2733,karan das,551,civil
+2730,KUCAT_2021_2734,biraj joshi,687,civil
+2731,KUCAT_2021_2735,paras gautam,0,ce
+2732,KUCAT_2021_2736,nripesh bikram shahi,851,civil
+2733,KUCAT_2021_2737,pratha shrestha,621,arch
+2734,KUCAT_2021_2738,piyush bhatt,435,communication
+2735,KUCAT_2021_2739,kalash rokaya,559,civil
+2736,KUCAT_2021_2740,nabin shrestha,581,civil
+2737,KUCAT_2021_2741,mahan shrestha,532,btech in artificial intelligence
+2738,KUCAT_2021_2742,bhuwan bohara,1041,ce
+2739,KUCAT_2021_2743,santoshi dahal,467,civil
+2740,KUCAT_2021_2744,adarsh joshi,530,power
+2741,KUCAT_2021_2745,yogesh dhami,753,ce
+2742,KUCAT_2021_2746,jenisha neupane,632,arch
+2743,KUCAT_2021_2747,kusum koirala,347,ce
+2744,KUCAT_2021_2748,asim chaudhary,382,ce
+2745,KUCAT_2021_2749,keshav shah,615,ce
+2746,KUCAT_2021_2750,erick karki,0,ce
+2747,KUCAT_2021_2751,bikesh sapkota,0,auto
+2748,KUCAT_2021_2752,ayush adhikari,776,civil
+2749,KUCAT_2021_2753,badal kumar sah,495,civil
+2750,KUCAT_2021_2754,umina dangol,523,ce
+2751,KUCAT_2021_2755,manashi shree priyadarsani a,716,arch
+2752,KUCAT_2021_2756,sarthak baral,830,ce
+2753,KUCAT_2021_2757,chiranjeevi joshi,997,chem
+2754,KUCAT_2021_2758,nischal shrestha,465,ce
+2755,KUCAT_2021_2759,krishma pathak,0,bsc in agriculture
+2756,KUCAT_2021_2760,shrijan dong,546,ce
+2757,KUCAT_2021_2761,bijayata hamal,562,ce
+2758,KUCAT_2021_2762,ayushi karna,538,arch
+2759,KUCAT_2021_2763,smriti basnet,681,enve
+2760,KUCAT_2021_2764,roshani chhetri sapkota,0,ce
+2761,KUCAT_2021_2765,prashant thapa chettri,478,hydro
+2762,KUCAT_2021_2766,darpan sapkota,604,ce
+2763,KUCAT_2021_2767,sparsha sharma,550,civil
+2764,KUCAT_2021_2768,kavinesh bhagat,457,civil
+2765,KUCAT_2021_2769,manish neupane,472,civil
+2766,KUCAT_2021_2770,bikash thakur lohar,451,geo
+2767,KUCAT_2021_2771,bikash neupane,374,ce
+2768,KUCAT_2021_2772,dhiraj kumar kushwaha,0,civil
+2769,KUCAT_2021_2773,shristi poudel,838,civil
+2770,KUCAT_2021_2774,kunal thapa,551,civil
+2771,KUCAT_2021_2775,sudha chhimal,526,arch
+2772,KUCAT_2021_2776,trishanna bajracharya,522,ce
+2773,KUCAT_2021_2777,dipeeka shrestha,862,civil
+2774,KUCAT_2021_2778,kushal singh sijapati,704,ce
+2775,KUCAT_2021_2779,safal man singh maharjan,644,arch
+2776,KUCAT_2021_2780,biraj manandhar,720,bio
+2777,KUCAT_2021_2781,smarika bhattarai,814,ce
+2778,KUCAT_2021_2782,himal budha magar,765,geo
+2779,KUCAT_2021_2783,bishal kumar gupta,572,geo
+2780,KUCAT_2021_2784,pravin mishra,754,design
+2781,KUCAT_2021_2785,prabhat kumar yadav,518,civil
+2782,KUCAT_2021_2786,denisha timalsina,367,bsc in agriculture
+2783,KUCAT_2021_2787,bhima syangtan,515,bio
+2784,KUCAT_2021_2788,jibesh shrestha,0,cs
+2785,KUCAT_2021_2789,subash chandra yadav,484,civil
+2786,KUCAT_2021_2790,bipana ranabhat,587,ce
+2787,KUCAT_2021_2791,saksham bhusal,513,ce
+2788,KUCAT_2021_2792,aashish thapaliya,345,ce
+2789,KUCAT_2021_2793,anish giri,439,civil
+2790,KUCAT_2021_2794,rudra narayan mandal,0,civil
+2791,KUCAT_2021_2795,rubisha pachhai,482,auto
+2792,KUCAT_2021_2796,nishan karki,378,civil
+2793,KUCAT_2021_2797,prasanna dhungana,0,btech in artificial intelligence
+2794,KUCAT_2021_2798,smriti timilsina,429,civil
+2795,KUCAT_2021_2799,vishal giri,333,ce
+2796,KUCAT_2021_2800,manit bhattarai,564,ce
+2797,KUCAT_2021_2801,anup rijal,509,civil
+2798,KUCAT_2021_2802,nitisha bhatta,0,cs
+2799,KUCAT_2021_2803,aayusha bastola,456,civil
+2800,KUCAT_2021_2804,aarya mull,566,civil
+2801,KUCAT_2021_2805,prabhat gautam,589,civil
+2802,KUCAT_2021_2806,adarsha acharya,1004,ce
+2803,KUCAT_2021_2807,akash adhikari,357,bsc in agriculture
+2804,KUCAT_2021_2808,sumit sah,1184,communication
+2805,KUCAT_2021_2809,anurag thapa,452,ce
+2806,KUCAT_2021_2810,sneha bhandari,780,ce
+2807,KUCAT_2021_2811,kamal kumar sharma,553,geo
+2808,KUCAT_2021_2812,sahil singh,792,ce
+2809,KUCAT_2021_2813,darpan pantha,602,civil
+2810,KUCAT_2021_2814,krishna kumar gupta,352,civil
+2811,KUCAT_2021_2815,rahul shrestha,0,ce
+2812,KUCAT_2021_2816,bishal sah,506,geo
+2813,KUCAT_2021_2817,dan bahadur thapa,598,civil
+2814,KUCAT_2021_2818,uttkrista poudel,551,arch
+2815,KUCAT_2021_2819,sushma shrestha,0,ce
+2816,KUCAT_2021_2820,kritika aryal,582,ce
+2817,KUCAT_2021_2821,utkrista jung niroula,644,ce
+2818,KUCAT_2021_2822,aayush khulal basnet,517,ce
+2819,KUCAT_2021_2823,sita shrestha,530,ce
+2820,KUCAT_2021_2824,anjali nayak,580,arch
+2821,KUCAT_2021_2825,smriti karna,429,arch
+2822,KUCAT_2021_2826,khushi shrestha,460,envs
+2823,KUCAT_2021_2827,nirmala thapa magar,0,bsc in agriculture
+2824,KUCAT_2021_2828,arpan poudel,539,civil
+2825,KUCAT_2021_2829,samyak paudel,0,btech in artificial intelligence
+2826,KUCAT_2021_2830,avilasha ray,609,bsc in agriculture
+2827,KUCAT_2021_2831,swostika thapa,0,bsc in agriculture
+2828,KUCAT_2021_2832,bishnu bahadur karki,504,ce
+2829,KUCAT_2021_2833,ruja dahal,608,geo
+2830,KUCAT_2021_2834,aakash lamsal,723,geo
+2831,KUCAT_2021_2835,dandi raj dahal,694,civil
+2832,KUCAT_2021_2836,shashwot ghimire,520,ce
+2833,KUCAT_2021_2837,bigyan karki,0,civil
+2834,KUCAT_2021_2838,aashish rawal,739,communication
+2835,KUCAT_2021_2839,subid shrestha,499,arch
+2836,KUCAT_2021_2840,luna sharma,626,arch
+2837,KUCAT_2021_2841,nirajan singh,0,civil
+2838,KUCAT_2021_2842,gyanendra shah,520,civil
+2839,KUCAT_2021_2843,sumit thokar,623,ce
+2840,KUCAT_2021_2844,sadiksha dahal,388,bsc in agriculture
+2841,KUCAT_2021_2845,swostika dahal,330,bsc in agriculture
+2842,KUCAT_2021_2846,rohit kumar dhakal,494,civil
+2843,KUCAT_2021_2847,deepak budha,633,ce
+2844,KUCAT_2021_2848,riddhi dhungel,545,bio
+2845,KUCAT_2021_2849,sunil basnet,862,civil
+2846,KUCAT_2021_2850,akash chaudhary,0,bsc in agriculture
+2847,KUCAT_2021_2851,pravin jha,421,civil
+2848,KUCAT_2021_2852,bimarsha singh pariyar,361,cs
+2849,KUCAT_2021_2853,alisha shrestha,565,ce
+2850,KUCAT_2021_2854,raskin dangol,508,arch
+2851,KUCAT_2021_2855,prajna sapkota,688,civil
+2852,KUCAT_2021_2856,chandan prasad chaudhary,309,geo
+2853,KUCAT_2021_2857,smriti timalsina,665,bio
+2854,KUCAT_2021_2858,shuveksha aryal,0,arch
+2855,KUCAT_2021_2859,subha maharjan,679,ce
+2856,KUCAT_2021_2860,utshaha subedi,420,civil
+2857,KUCAT_2021_2861,alija tolange,575,geo
+2858,KUCAT_2021_2862,bhagawoti ghimire,0,bsc in agriculture
+2859,KUCAT_2021_2863,rashila ghimire,391,bsc in agriculture
+2860,KUCAT_2021_2864,sumira khatiwoda,0,ce
+2861,KUCAT_2021_2865,tausif ansari,451,civil
+2862,KUCAT_2021_2866,raju chaudhary,709,civil
+2863,KUCAT_2021_2867,krisha bhattarai,813,arch
+2864,KUCAT_2021_2868,aagaman sharma,373,ce
+2865,KUCAT_2021_2869,kalyan krishna ranjit,0,bio
+2866,KUCAT_2021_2870,rabina shrestha,827,civil
+2867,KUCAT_2021_2871,samheet shrestha,651,ce
+2868,KUCAT_2021_2872,subham kumar pandey,0,civil
+2869,KUCAT_2021_2873,shreya karmacharya,458,bio
+2870,KUCAT_2021_2874,aakash rai,787,ce
+2871,KUCAT_2021_2875,nirjal kumar pandit,0,geo
+2872,KUCAT_2021_2876,prayab maharjan,718,ce
+2873,KUCAT_2021_2877,avinash kumar singh,0,arch
+2874,KUCAT_2021_2878,prisma pokharel,0,arch
+2875,KUCAT_2021_2879,dipam man bajracharya,0,civil
+2876,KUCAT_2021_2880,sanjib baniya,0,auto
+2877,KUCAT_2021_2881,justina dangol,0,civil
+2878,KUCAT_2021_2882,amisha hamal,488,bsc in agriculture
+2879,KUCAT_2021_2883,sudhan oli,682,civil
+2880,KUCAT_2021_2884,bipana pandey,416,ce
+2881,KUCAT_2021_2885,nisha khanal,584,ce
+2882,KUCAT_2021_2886,satej regmi,646,ce
+2883,KUCAT_2021_2887,sworup bhandari,883,communication
+2884,KUCAT_2021_2888,bishranta regmi,794,ce
+2885,KUCAT_2021_2889,suvechhya dhital,531,bsc in agriculture
+2886,KUCAT_2021_2890,bidhan shrestha,518,civil
+2887,KUCAT_2021_2891,srison maharjan,422,civil
+2888,KUCAT_2021_2892,saubhagya dhungana,980,arch
+2889,KUCAT_2021_2893,samriddhi shakya,629,arch
+2890,KUCAT_2021_2894,aayush gautam,950,btech in artificial intelligence
+2891,KUCAT_2021_2895,prasuna thapa magar,687,cs
+2892,KUCAT_2021_2896,baibhav jora,482,arch
+2893,KUCAT_2021_2897,bigyapti chapagai,650,ce
+2894,KUCAT_2021_2898,santosh poudel,0,civil
+2895,KUCAT_2021_2899,jenin sitaula,910,ce
+2896,KUCAT_2021_2900,aslin karmacharya,389,civil
+2897,KUCAT_2021_2901,tulsa neupane,591,civil
+2898,KUCAT_2021_2902,mahima pariyar,513,arch
+2899,KUCAT_2021_2903,anshu subedi,575,arch
+2900,KUCAT_2021_2904,sushil paudel,537,civil
+2901,KUCAT_2021_2905,samikshya shrestha,607,civil
+2902,KUCAT_2021_2906,yashaswi shrestha,400,ce
+2903,KUCAT_2021_2907,pranita shrestha,585,civil
+2904,KUCAT_2021_2908,ankit singh dhami,948,civil
+2905,KUCAT_2021_2909,dipesh shrestha,0,civil
+2906,KUCAT_2021_2910,saugat khanal,478,civil
+2907,KUCAT_2021_2911,astitwa batajoo,757,civil
+2908,KUCAT_2021_2912,pushkar jha,551,civil
+2909,KUCAT_2021_2913,deepasha shrestha,480,arch
+2910,KUCAT_2021_2914,manish poudel,828,auto
+2911,KUCAT_2021_2915,shlesha shrestha,0,ce
+2912,KUCAT_2021_2916,bhawana chhetri,435,civil
+2913,KUCAT_2021_2917,shem ramudan,0,ce
+2914,KUCAT_2021_2918,gautam sarraf,0,cs
+2915,KUCAT_2021_2919,aman karmacharya,623,civil
+2916,KUCAT_2021_2920,garima kumari bam,0,bsc in agriculture
+2917,KUCAT_2021_2921,lalita mahotra,474,geo
+2918,KUCAT_2021_2922,aadit bhattarai,490,civil
+2919,KUCAT_2021_2923,yam prasad khadka,424,power
+2920,KUCAT_2021_2924,ritesh kumar sah,481,civil
+2921,KUCAT_2021_2925,nishan lamichhane,437,ce
+2922,KUCAT_2021_2926,aabish khanal,489,civil
+2923,KUCAT_2021_2927,binita ghimire,461,arch
+2924,KUCAT_2021_2928,shristi upreti,446,civil
+2925,KUCAT_2021_2929,ramesh prasad baral,0,bsc in agriculture
+2926,KUCAT_2021_2930,bibek kumar chaudhary,0,civil
+2927,KUCAT_2021_2931,md nurullah,483,civil
+2928,KUCAT_2021_2932,riya gautam,671,arch
+2929,KUCAT_2021_2933,manish pandit,538,ce
+2930,KUCAT_2021_2934,sujan subedi,0,auto
+2931,KUCAT_2021_2935,sakul shrestha,621,ce
+2932,KUCAT_2021_2936,rabin sodari,619,civil
+2933,KUCAT_2021_2937,bijaya prasain,439,bio
+2934,KUCAT_2021_2938,aman yadav,831,civil
+2935,KUCAT_2021_2939,bibek thapa,869,civil
+2936,KUCAT_2021_2940,palden nhoru tamang,396,ce
+2937,KUCAT_2021_2941,rishav gautam,528,ce
+2938,KUCAT_2021_2942,sushant niraula,647,ce
+2939,KUCAT_2021_2943,arabin shrestha,665,cs
+2940,KUCAT_2021_2944,akshita shrestha,906,bio
+2941,KUCAT_2021_2945,deepak joshi,593,civil
+2942,KUCAT_2021_2946,sanam kumar chaudhary,0,ce
+2943,KUCAT_2021_2947,navnit singh,616,geo
+2944,KUCAT_2021_2948,nawadit sharma,0,ce
+2945,KUCAT_2021_2949,sachin bhusal,630,ce
+2946,KUCAT_2021_2950,arpan khadka,467,cs
+2947,KUCAT_2021_2951,refika shrestha,459,arch
+2948,KUCAT_2021_2952,riti shakya,501,arch
+2949,KUCAT_2021_2953,chiranjibi rokaya,679,ce
+2950,KUCAT_2021_2954,abhishek kumar shah,610,ce
+2951,KUCAT_2021_2955,mahir manandhar,896,ce
+2952,KUCAT_2021_2956,sarthak bikram panta,509,ce
+2953,KUCAT_2021_2957,pranati shrestha,591,bsc in agriculture
+2954,KUCAT_2021_2958,swayam sapkota chhetri,548,ce
+2955,KUCAT_2021_2959,roshan kumar yadav,435,geo
+2956,KUCAT_2021_2960,yubraj kc,736,ce
+2957,KUCAT_2021_2961,manish kumar das,0,ce
+2958,KUCAT_2021_2962,tsuldrim gyaltsen lama,865,arch
+2959,KUCAT_2021_2963,thaneswor upadhyay,311,ce
+2960,KUCAT_2021_2964,sujan shrestha,544,ce
+2961,KUCAT_2021_2965,pratik karki,440,ce
+2962,KUCAT_2021_2966,sabin timalsina,432,ce
+2963,KUCAT_2021_2967,samina rana,611,bio
+2964,KUCAT_2021_2968,md samim reza,592,ce
+2965,KUCAT_2021_2969,puskar paudel,859,geo
+2966,KUCAT_2021_2970,binit regmi,764,civil
+2967,KUCAT_2021_2971,bhumika sharma,914,civil
+2968,KUCAT_2021_2972,shrisha bhatta,0,ce
+2969,KUCAT_2021_2973,arbin adhikari danuwar,371,design
+2970,KUCAT_2021_2974,ajib dong tamang,427,civil
+2971,KUCAT_2021_2975,ajay lama,383,civil
+2972,KUCAT_2021_2976,trigya thapa,563,cs
+2973,KUCAT_2021_2977,aashutosh pandey,861,power
+2974,KUCAT_2021_2978,roshni basel,668,bsc in agriculture
+2975,KUCAT_2021_2979,anamol basnet,0,ce
+2976,KUCAT_2021_2980,angel gurung,629,auto
+2977,KUCAT_2021_2981,bachaspati mishra,553,ce
+2978,KUCAT_2021_2982,kiman adhikari,870,ce
+2979,KUCAT_2021_2983,ayush gautam,0,btech in artificial intelligence
+2980,KUCAT_2021_2984,jhalak bahadur wagle,752,civil
+2981,KUCAT_2021_2985,abhinandan bhatt,608,civil
+2982,KUCAT_2021_2986,ayush thapa,348,cs
+2983,KUCAT_2021_2987,nabin pun magar,694,arch
+2984,KUCAT_2021_2988,binisha shrestha,570,ce
+2985,KUCAT_2021_2989,nirmala joshi,0,bsc in agriculture
+2986,KUCAT_2021_2990,ishu sitikhu,604,cs
+2987,KUCAT_2021_2991,nabin chaudhary,530,geo
+2988,KUCAT_2021_2992,khushi das,325,arch
+2989,KUCAT_2021_2993,nikesh khadka,495,civil
+2990,KUCAT_2021_2994,pratik basnet,738,ce
+2991,KUCAT_2021_2995,dipak kumar sah,411,ce
+2992,KUCAT_2021_2996,samarpan piya,0,ce
+2993,KUCAT_2021_2997,prakriti maharjan,775,civil
+2994,KUCAT_2021_2998,raj manandhar,581,ce
+2995,KUCAT_2021_2999,nischal shrestha,726,cs
+2996,KUCAT_2021_3000,kritika adhikari,0,ce
+2997,KUCAT_2021_3001,krishal manandhar,620,ce
+2998,KUCAT_2021_3002,chanda sah,563,ce
+2999,KUCAT_2021_3003,apsara bohara,0,bsc in agriculture
+3000,KUCAT_2021_3004,bibek ghimire,387,ce
+3001,KUCAT_2021_3005,bishesh basnet,678,auto
+3002,KUCAT_2021_3006,janak raj sapkota,0,ce
+3003,KUCAT_2021_3007,krishita pandey,972,ce
+3004,KUCAT_2021_3008,aastin paudel,716,arch
+3005,KUCAT_2021_3009,aayush bhujel,380,ce
+3006,KUCAT_2021_3010,anup chimouriya,546,civil
+3007,KUCAT_2021_3011,aayush koirala,575,ce
+3008,KUCAT_2021_3012,prasant regmi,735,bsc in agriculture
+3009,KUCAT_2021_3013,amrita shahi,489,arch
+3010,KUCAT_2021_3014,dipal kumar shrestha,0,ce
+3011,KUCAT_2021_3015,yayok hang rai,875,ce
+3012,KUCAT_2021_3016,aarti kumari sah,0,ce
+3013,KUCAT_2021_3017,dharmendra malla,0,civil
+3014,KUCAT_2021_3018,binayak dahal,351,ce
+3015,KUCAT_2021_3019,grishma poudel,674,civil
+3016,KUCAT_2021_3020,nishan sah,434,ce
+3017,KUCAT_2021_3021,sajin maharjan,761,auto
+3018,KUCAT_2021_3022,nirjala upadhyay,713,civil
+3019,KUCAT_2021_3023,prashant yadav,813,civil
+3020,KUCAT_2021_3024,anshu pandey,511,ce
+3021,KUCAT_2021_3025,shreeja shrestha,0,arch
+3022,KUCAT_2021_3026,roshan karki,1062,ce
+3023,KUCAT_2021_3027,subodh koirala,593,ce
+3024,KUCAT_2021_3028,nitendra k c,625,cs
+3025,KUCAT_2021_3029,dilashma dahal,437,ce
+3026,KUCAT_2021_3030,binayak dhodary,884,civil
+3027,KUCAT_2021_3031,aakash rana,531,ce
+3028,KUCAT_2021_3032,sanam shrestha,738,ce
+3029,KUCAT_2021_3033,shekhar bhandari,0,ce
+3030,KUCAT_2021_3034,riwaj bastakoti,654,ce
+3031,KUCAT_2021_3035,sujal adhikari,482,civil
+3032,KUCAT_2021_3036,sabin neupane,407,civil
+3033,KUCAT_2021_3037,bishal adhikari,847,civil
+3034,KUCAT_2021_3038,darpan neupane,499,geo
+3035,KUCAT_2021_3039,maheshwor timalsina,623,bsc in agriculture
+3036,KUCAT_2021_3040,swoichhya maharjan,544,arch
+3037,KUCAT_2021_3041,suhana shrestha,493,arch
+3038,KUCAT_2021_3042,siddhartha amatya,722,arch
+3039,KUCAT_2021_3043,unisha khadka,313,civil
+3040,KUCAT_2021_3044,kritik poudel,622,ce
+3041,KUCAT_2021_3045,kedar prasad bhandari,575,civil
+3042,KUCAT_2021_3046,nabina lamichhane,0,bsc in agriculture
+3043,KUCAT_2021_3047,durgesh nandan yadav,0,civil
+3044,KUCAT_2021_3048,shristi dahal,666,ce
+3045,KUCAT_2021_3049,manisha ghimire,456,bsc in agriculture
+3046,KUCAT_2021_3050,suraj gautam,574,ce
+3047,KUCAT_2021_3051,dipesh bhatta,0,civil
+3048,KUCAT_2021_3052,pappu sah,477,ce
+3049,KUCAT_2021_3053,rojina limbu,568,civil
+3050,KUCAT_2021_3054,rahul kumar purbey,516,geo
+3051,KUCAT_2021_3055,harish chandra joshi,759,geo
+3052,KUCAT_2021_3056,nikita paudel,0,bio
+3053,KUCAT_2021_3057,karthik yadav,771,civil
+3054,KUCAT_2021_3058,arun chhetri,610,ce
+3055,KUCAT_2021_3059,samir rayamajhi,576,civil
+3056,KUCAT_2021_3060,abhishek ghimire,513,civil
+3057,KUCAT_2021_3061,rahul shrestha,861,ce
+3058,KUCAT_2021_3062,prabas parajuli,0,civil
+3059,KUCAT_2021_3063,saksham luintel,726,civil
+3060,KUCAT_2021_3064,yashodeep basnet,0,ce
+3061,KUCAT_2021_3065,mausam rai,846,civil
+3062,KUCAT_2021_3066,narmada chaudhary,711,civil
+3063,KUCAT_2021_3067,milan paudel,592,cs
+3064,KUCAT_2021_3068,saurav shah,0,ce
+3065,KUCAT_2021_3069,sameer bikram rana,611,hydro
+3066,KUCAT_2021_3070,ritisha ban,535,arch
+3067,KUCAT_2021_3071,ankit das,681,btech in artificial intelligence
+3068,KUCAT_2021_3072,siddhartha adhikari,503,civil
+3069,KUCAT_2021_3073,shubham kc,741,ce
+3070,KUCAT_2021_3074,ojaswi pyakurel,213,arch
+3071,KUCAT_2021_3075,sonu chaudhary,610,ce
+3072,KUCAT_2021_3076,aayush paudel,516,ce
+3073,KUCAT_2021_3077,dipesh adhikari,864,civil
+3074,KUCAT_2021_3078,sambriddhi thapa,582,civil
+3075,KUCAT_2021_3079,sijan thapa,580,ce
+3076,KUCAT_2021_3080,paridhi ghimire,386,ce
+3077,KUCAT_2021_3081,amogh bhattarai,790,civil
+3078,KUCAT_2021_3082,aman kumar sah,645,ce
+3079,KUCAT_2021_3083,sugam dahal,0,geo
+3080,KUCAT_2021_3084,sakshama lamichhane,357,cs
+3081,KUCAT_2021_3085,dorje bomjan lama,450,ce
+3082,KUCAT_2021_3086,rakesh chand,0,ce
+3083,KUCAT_2021_3087,rabindra kumar mandal,657,communication
+3084,KUCAT_2021_3088,anish sapkota,705,ce
+3085,KUCAT_2021_3089,avash aryal,608,design
+3086,KUCAT_2021_3090,bishwanath prasad rajak,506,civil
+3087,KUCAT_2021_3091,shivam chaudhari,420,civil
+3088,KUCAT_2021_3092,osin khatiwada,0,auto
+3089,KUCAT_2021_3093,rakshya mahat,547,arch
+3090,KUCAT_2021_3094,ujjwal puri,814,civil
+3091,KUCAT_2021_3095,anamol budhathoki,618,geo
+3092,KUCAT_2021_3096,nishan pathak,439,ce
+3093,KUCAT_2021_3097,niraja adhikari,513,geo
+3094,KUCAT_2021_3098,saraswoti gurung,587,envs
+3095,KUCAT_2021_3099,ram sagar yadav,683,geo
+3096,KUCAT_2021_3100,sneha kc,510,enve
+3097,KUCAT_2021_3101,ashmita dangal,590,arch
+3098,KUCAT_2021_3102,sanjit mijar,599,ce
+3099,KUCAT_2021_3103,ajit gurung,670,civil
+3100,KUCAT_2021_3104,sabnam deula,410,cs
+3101,KUCAT_2021_3105,sunil nepali,706,civil
+3102,KUCAT_2021_3106,himanshu gurung,626,ce
+3103,KUCAT_2021_3107,sunim baniya,560,ce
+3104,KUCAT_2021_3108,sinja ghimire,438,ce
+3105,KUCAT_2021_3109,pratistha laxmi poudel,815,geo
+3106,KUCAT_2021_3110,bishakha bhattarai,999,civil
+3107,KUCAT_2021_3111,vivek thapa,889,civil
+3108,KUCAT_2021_3112,prabin paudel,604,civil
+3109,KUCAT_2021_3113,ashish aryal,549,cs
+3110,KUCAT_2021_3114,ritesh yadav,0,civil
+3111,KUCAT_2021_3115,kajal roka,733,arch
+3112,KUCAT_2021_3116,ankit shah,542,ce
+3113,KUCAT_2021_3117,bhuwan pandey,649,civil
+3114,KUCAT_2021_3118,jamuna koirala,576,civil
+3115,KUCAT_2021_3119,yogen shrestha,624,ce
+3116,KUCAT_2021_3120,human dahal,863,geo
+3117,KUCAT_2021_3121,anup koirala,851,civil
+3118,KUCAT_2021_3122,enzela neupane,746,ce
+3119,KUCAT_2021_3123,afzal hussain,0,civil
+3120,KUCAT_2021_3124,sinja pokhrel,0,arch
+3121,KUCAT_2021_3125,neel kamal tharu,649,geo
+3122,KUCAT_2021_3126,manoj bhattarai,507,geo
+3123,KUCAT_2021_3127,sagar shrestha,563,civil
+3124,KUCAT_2021_3128,neha khatri,646,ce
+3125,KUCAT_2021_3129,neetish raut,699,civil
+3126,KUCAT_2021_3130,namrata poudel,518,arch
+3127,KUCAT_2021_3131,anantahari koirala,600,civil
+3128,KUCAT_2021_3132,rajendra prasad yadav,371,civil
+3129,KUCAT_2021_3133,sandip gyanwali,977,ce
+3130,KUCAT_2021_3134,dipesh bhandari,652,ce
+3131,KUCAT_2021_3135,aayush paudel kshetri,403,btech in artificial intelligence
+3132,KUCAT_2021_3136,salina bishwokarma,540,ce
+3133,KUCAT_2021_3137,nawadi rana,463,arch
+3134,KUCAT_2021_3138,bibash dahal,433,ce
+3135,KUCAT_2021_3139,jit bahadur adhikari,828,geo
+3136,KUCAT_2021_3140,rajababu thapa magar,541,btech in artificial intelligence
+3137,KUCAT_2021_3141,asmee shrestha,520,civil
+3138,KUCAT_2021_3142,amit kumar gupta,514,ce
+3139,KUCAT_2021_3143,sashina baidhya,695,communication
+3140,KUCAT_2021_3144,sukriti bashyal,0,bio
+3141,KUCAT_2021_3145,nayana bhatta,583,geo
+3142,KUCAT_2021_3146,subash pandeya,0,civil
+3143,KUCAT_2021_3147,kripsan shrestha,813,ce
+3144,KUCAT_2021_3148,kabita lamichhane,352,ce
+3145,KUCAT_2021_3149,manima acharya,592,bio
+3146,KUCAT_2021_3150,diwisha ghimire,591,arch
+3147,KUCAT_2021_3151,aditya dhital,469,civil
+3148,KUCAT_2021_3152,bishow devkota,528,ce
+3149,KUCAT_2021_3153,yojana ghimire,772,ce
+3150,KUCAT_2021_3154,aaditya bhandari,594,ce
+3151,KUCAT_2021_3155,manisha shrestha,635,arch
+3152,KUCAT_2021_3156,kailash pantha,480,arch
+3153,KUCAT_2021_3157,siddhartha rai,536,civil
+3154,KUCAT_2021_3158,abhishek koirala,0,civil
+3155,KUCAT_2021_3159,sadikshya shrestha,743,arch
+3156,KUCAT_2021_3160,alison dahal,401,civil
+3157,KUCAT_2021_3161,isha shah,570,civil
+3158,KUCAT_2021_3162,kiran karki,717,bio
+3159,KUCAT_2021_3163,prince chaudhary,0,btech in artificial intelligence
+3160,KUCAT_2021_3164,usha kiran acharya,562,btech in artificial intelligence
+3161,KUCAT_2021_3165,melina chauhan,0,civil
+3162,KUCAT_2021_3166,hritik shah,593,ce
+3163,KUCAT_2021_3167,mukesh kumar sah,585,civil
+3164,KUCAT_2021_3168,srijana sah,817,communication
+3165,KUCAT_2021_3169,smriti maharjan,728,arch
+3166,KUCAT_2021_3170,kramik kafle,612,ce
+3167,KUCAT_2021_3171,paras gyawali,395,ce
+3168,KUCAT_2021_3172,md aadil ahmad,676,civil
+3169,KUCAT_2021_3173,diya lakhe,707,arch
+3170,KUCAT_2021_3174,princep adhikari,705,arch
+3171,KUCAT_2021_3175,swosti tuladhar,673,arch
+3172,KUCAT_2021_3176,kabita joshi,523,geo
+3173,KUCAT_2021_3177,sushma gurung,376,geo
+3174,KUCAT_2021_3178,prakriti rai,0,design
+3175,KUCAT_2021_3179,suyam subedi,298,geo
+3176,KUCAT_2021_3180,nibida ghimire,0,arch
+3177,KUCAT_2021_3181,gaurav kumar panjiyar,630,civil
+3178,KUCAT_2021_3182,kailash bhandari,424,civil
+3179,KUCAT_2021_3183,smriti kumari shah,466,civil
+3180,KUCAT_2021_3184,manogya subedi,728,chem
+3181,KUCAT_2021_3185,mohan parajuli,753,civil
+3182,KUCAT_2021_3186,manseez bahadur pradhan,0,ce
+3183,KUCAT_2021_3187,pranjal regmi,931,communication
+3184,KUCAT_2021_3188,rohan gupta,571,civil
+3185,KUCAT_2021_3189,anmol khatiwada,517,ce
+3186,KUCAT_2021_3190,puspa bhandari,717,civil
+3187,KUCAT_2021_3191,binish karki,581,arch
+3188,KUCAT_2021_3192,sajen pokharel,1229,civil
+3189,KUCAT_2021_3193,isha thapa,541,ce
+3190,KUCAT_2021_3194,sudyumna mishra,836,ce
+3191,KUCAT_2021_3195,bhargav bahadur basnet,405,ce
+3192,KUCAT_2021_3196,nabin regmi,708,communication
+3193,KUCAT_2021_3197,aayush kandel,600,ce
+3194,KUCAT_2021_3198,jiniyas shah,755,ce
+3195,KUCAT_2021_3199,batsal bhusal,992,ce
+3196,KUCAT_2021_3200,satish khanal,755,ce
+3197,KUCAT_2021_3201,sushank dhakal,759,auto
+3198,KUCAT_2021_3202,asbin dahal,363,civil
+3199,KUCAT_2021_3203,rabina shrestha,590,civil
+3200,KUCAT_2021_3204,santosh bohara,875,power
+3201,KUCAT_2021_3205,devraj sah,0,civil
+3202,KUCAT_2021_3206,sneha chand,490,civil
+3203,KUCAT_2021_3207,sadikshya pandey,577,ce
+3204,KUCAT_2021_3208,ashraya jung sijapati,746,ce
+3205,KUCAT_2021_3209,prashant rai,809,civil
+3206,KUCAT_2021_3210,jay shivnandan mandal,454,civil
+3207,KUCAT_2021_3211,siddhant khanal,702,civil
+3208,KUCAT_2021_3212,shuvam koirala,452,civil
+3209,KUCAT_2021_3213,samvid neupane,978,civil
+3210,KUCAT_2021_3214,sankalpa adhikari,647,ce
+3211,KUCAT_2021_3215,janak kumar bohara,535,civil
+3212,KUCAT_2021_3216,sandesh kunwar,502,civil
+3213,KUCAT_2021_3217,yanu bam,552,bio
+3214,KUCAT_2021_3218,swastika sapkota,569,arch
+3215,KUCAT_2021_3219,smarika baral,0,civil
+3216,KUCAT_2021_3220,gris chandra sah,501,communication
+3217,KUCAT_2021_3221,aditya rijal,933,civil
+3218,KUCAT_2021_3222,abhinav acharya,529,ce
+3219,KUCAT_2021_3223,uday kumar ray,749,ce
+3220,KUCAT_2021_3224,rohit shrestha,612,civil
+3221,KUCAT_2021_3225,agrim thapa,595,design
+3222,KUCAT_2021_3226,prashraya krishna pradhan,383,btech in artificial intelligence
+3223,KUCAT_2021_3227,janak khadka,687,ce
+3224,KUCAT_2021_3228,yugeshwor ranjit,0,civil
+3225,KUCAT_2021_3229,nishan kanung magar,663,btech in artificial intelligence
+3226,KUCAT_2021_3230,bibek chand,724,arch
+3227,KUCAT_2021_3231,aaditya shah,603,ce
+3228,KUCAT_2021_3232,bijaya babu nayaju,418,auto
+3229,KUCAT_2021_3233,aayush manandhar,420,cs
+3230,KUCAT_2021_3234,ramanand goit,782,civil
+3231,KUCAT_2021_3235,keshar kc,746,cs
+3232,KUCAT_2021_3236,andis paudel,1216,ce
+3233,KUCAT_2021_3237,ritika sharma,392,arch
+3234,KUCAT_2021_3238,gaurab bhandari,499,civil
+3235,KUCAT_2021_3239,kamlesh kumar yadav,424,civil
+3236,KUCAT_2021_3240,surakshya sapkota,570,ce
+3237,KUCAT_2021_3241,krishna acharya,926,power
+3238,KUCAT_2021_3242,umesh kumar rajbanshi,790,ce
+3239,KUCAT_2021_3243,shekhar bhandari,578,ce
+3240,KUCAT_2021_3244,suvash yadav,426,civil
+3241,KUCAT_2021_3245,ankita thapa,416,bsc in agriculture
+3242,KUCAT_2021_3246,pratikshya bhattarai,673,cs
+3243,KUCAT_2021_3247,barsha devkota,780,civil
+3244,KUCAT_2021_3248,sangam ranabhat,877,power
+3245,KUCAT_2021_3249,prava khanal,330,arch
+3246,KUCAT_2021_3250,bhuwan bhandari,672,auto
+3247,KUCAT_2021_3251,kushal khanal,572,civil
+3248,KUCAT_2021_3252,saumya adhikari,409,arch
+3249,KUCAT_2021_3253,miraj thapa,0,auto
+3250,KUCAT_2021_3254,sanam khanal,403,civil
+3251,KUCAT_2021_3255,tarun regmi,426,arch
+3252,KUCAT_2021_3256,monika sapkota,724,ce
+3253,KUCAT_2021_3257,subham gautam,448,chem
+3254,KUCAT_2021_3258,chandra shekhar sah,566,civil
+3255,KUCAT_2021_3259,arbin gautam,395,ce
+3256,KUCAT_2021_3260,chiranjeebi oli,600,btech in artificial intelligence
+3257,KUCAT_2021_3261,sagar neupane,400,ce
+3258,KUCAT_2021_3262,anshu silwal,0,bio
+3259,KUCAT_2021_3263,nirajan singh,484,btech in artificial intelligence
+3260,KUCAT_2021_3264,bishula khanal,449,ce
+3261,KUCAT_2021_3265,ariska khadka,464,ce
+3262,KUCAT_2021_3266,gaurav kumar yadav,471,ce
+3263,KUCAT_2021_3267,pratik lama,530,design
+3264,KUCAT_2021_3268,bristi maharjan,739,envs
+3265,KUCAT_2021_3269,nishan paudel,719,civil
+3266,KUCAT_2021_3270,anusuya nepal,511,geo
+3267,KUCAT_2021_3271,bikram shahi,872,civil
+3268,KUCAT_2021_3272,rabin lama,440,auto
+3269,KUCAT_2021_3273,rabin shrestha,0,computational
+3270,KUCAT_2021_3274,nabin parajuli,496,ce
+3271,KUCAT_2021_3275,ajay yadav,439,ce
+3272,KUCAT_2021_3276,prabesh bashyal,1081,ce
+3273,KUCAT_2021_3277,sarthak pradhanang,0,envs
+3274,KUCAT_2021_3278,saugat dahal,555,cs
+3275,KUCAT_2021_3279,sugam dahal,971,ce
+3276,KUCAT_2021_3280,aayush lamsal,521,ce
+3277,KUCAT_2021_3281,pranjali karki,499,civil
+3278,KUCAT_2021_3282,bishal poudel,1109,civil
+3279,KUCAT_2021_3283,anisha rijal,595,ce
+3280,KUCAT_2021_3284,prishab manandhar,368,ce
+3281,KUCAT_2021_3285,asmita bista,429,btech in artificial intelligence
+3282,KUCAT_2021_3286,matina tuladhar,734,ce
+3283,KUCAT_2021_3287,arina giri,0,arch
+3284,KUCAT_2021_3288,sabita sukubhattu,507,civil
+3285,KUCAT_2021_3289,pratik shrestha,590,civil
+3286,KUCAT_2021_3290,abhishek shrestha,577,ce
+3287,KUCAT_2021_3291,anita yadav,543,civil
+3288,KUCAT_2021_3292,sanket thapa,859,bsc in agriculture
+3289,KUCAT_2021_3293,shobha chaudhary,0,arch
+3290,KUCAT_2021_3294,hemanta chapagain,675,civil
+3291,KUCAT_2021_3295,sanip syangtan,0,civil
+3292,KUCAT_2021_3296,bibash lamichhane,565,geo
+3293,KUCAT_2021_3297,aabishkar shrestha,411,ce
+3294,KUCAT_2021_3298,sailesh karki,554,ce
+3295,KUCAT_2021_3299,krishal rawat,560,ce
+3296,KUCAT_2021_3300,subrat acharya,445,civil
+3297,KUCAT_2021_3301,anish koirala,842,ce
+3298,KUCAT_2021_3302,deepak shrestha,498,auto
+3299,KUCAT_2021_3303,sanjaya tamang,713,civil
+3300,KUCAT_2021_3304,sanam shrestha,814,civil
+3301,KUCAT_2021_3305,manju bade,823,arch
+3302,KUCAT_2021_3306,sabita tiwari,598,civil
+3303,KUCAT_2021_3307,nishesh dhuju shrestha,667,communication
+3304,KUCAT_2021_3308,sabud timsina,827,civil
+3305,KUCAT_2021_3309,tanisha shrestha,524,arch
+3306,KUCAT_2021_3310,raksha deo,0,ce
+3307,KUCAT_2021_3311,swostik paneru,735,ce
+3308,KUCAT_2021_3312,ajita kharel,486,civil
+3309,KUCAT_2021_3313,supriya phuyal,488,civil
+3310,KUCAT_2021_3314,nirajan shahi,0,power
+3311,KUCAT_2021_3315,sanskriti adhikari,719,arch
+3312,KUCAT_2021_3316,prayash bhattarai,461,ce
+3313,KUCAT_2021_3317,subham tiwari,779,civil
+3314,KUCAT_2021_3318,sulav maskey,409,civil
+3315,KUCAT_2021_3319,grishma ranabhat,574,ce
+3316,KUCAT_2021_3320,nishan lamsal,0,cs
+3317,KUCAT_2021_3321,prajwal babu wagle,680,communication
+3318,KUCAT_2021_3322,ajay nepal,0,btech in artificial intelligence
+3319,KUCAT_2021_3323,sarugya koirala,563,arch
+3320,KUCAT_2021_3324,shaishab paudel,622,ce
+3321,KUCAT_2021_3325,bikrant budhathoki,0,ce
+3322,KUCAT_2021_3326,prasun shrestha,534,civil
+3323,KUCAT_2021_3327,reeha poudyal,626,btech in artificial intelligence
+3324,KUCAT_2021_3328,nirupam aryal,377,ce
+3325,KUCAT_2021_3329,nikita rajbanshi,654,civil
+3326,KUCAT_2021_3330,nabin shrestha,416,geo
+3327,KUCAT_2021_3331,aawishkar niraula,497,ce
+3328,KUCAT_2021_3332,ayushma khadka,0,arch
+3329,KUCAT_2021_3333,sushma gurung,563,arch
+3330,KUCAT_2021_3334,ritisha ghimire,443,cs
+3331,KUCAT_2021_3335,bijesh neupane,559,ce
+3332,KUCAT_2021_3336,sushant sharma,541,ce
+3333,KUCAT_2021_3337,shrenika sherchan,697,arch
+3334,KUCAT_2021_3338,bigyan pradhan,778,ce
+3335,KUCAT_2021_3339,mohit budhathoki,631,ce
+3336,KUCAT_2021_3340,prajina bhandari,477,geo
+3337,KUCAT_2021_3341,samyam pokharel,658,ce
+3338,KUCAT_2021_3342,barshat khakurel,982,ce
+3339,KUCAT_2021_3343,neeti singh,705,ce
+3340,KUCAT_2021_3344,abhiyan kc,0,ce
+3341,KUCAT_2021_3345,rachan khadka,563,civil
+3342,KUCAT_2021_3346,pratik budhathoki,789,civil
+3343,KUCAT_2021_3347,prashant kumar sah,451,ce
+3344,KUCAT_2021_3348,shiwani bam,0,civil
+3345,KUCAT_2021_3349,inusha mainali,591,arch
+3346,KUCAT_2021_3350,arjun kunwar,897,civil
+3347,KUCAT_2021_3351,swastika poudel,756,civil
+3348,KUCAT_2021_3352,prajwal neupane,429,civil
+3349,KUCAT_2021_3353,mohan rimal,893,civil
+3350,KUCAT_2021_3354,grishma shrestha,577,ce
+3351,KUCAT_2021_3355,amrit bista,605,ce
+3352,KUCAT_2021_3356,jigyasu ghimire,545,geo
+3353,KUCAT_2021_3357,hemant jaishi,0,ce
+3354,KUCAT_2021_3358,romas shrestha,444,auto
+3355,KUCAT_2021_3359,prasanna man shrestha,642,civil
+3356,KUCAT_2021_3360,sumi gupta,525,arch
+3357,KUCAT_2021_3361,ramendra kumar saphi tiwari,375,geo
+3358,KUCAT_2021_3362,supriya bhusal,692,geo
+3359,KUCAT_2021_3363,rohit sapkota,532,auto
+3360,KUCAT_2021_3364,aashutosh bhattarai,692,ce
+3361,KUCAT_2021_3365,ashim sapkota,906,ce
+3362,KUCAT_2021_3366,ayush basnet,0,ce
+3363,KUCAT_2021_3367,dhiraj kumar shah,446,ce
+3364,KUCAT_2021_3368,arjun dahal,450,ce
+3365,KUCAT_2021_3369,milind budhathoki,712,civil
+3366,KUCAT_2021_3370,prashanta poudel,664,design
+3367,KUCAT_2021_3371,alish thapa,879,hydro
+3368,KUCAT_2021_3372,deepika gautam,452,ce
+3369,KUCAT_2021_3373,shreeram chaudhary,763,civil
+3370,KUCAT_2021_3374,sohan budha,268,civil
+3371,KUCAT_2021_3375,yunika bhandari,510,arch
+3372,KUCAT_2021_3376,pratham khatri,456,civil
+3373,KUCAT_2021_3377,elisha bista,585,civil
+3374,KUCAT_2021_3378,antima kumari,454,ce
+3375,KUCAT_2021_3379,rozit lopchan,650,ce
+3376,KUCAT_2021_3380,arun paudel,374,civil
+3377,KUCAT_2021_3381,ashmita pandey,595,civil
+3378,KUCAT_2021_3382,nimesh timalsina,543,btech in artificial intelligence
+3379,KUCAT_2021_3383,aalok basnet,640,civil
+3380,KUCAT_2021_3384,reshab thapa,400,civil
+3381,KUCAT_2021_3385,sugam paudyal,440,ce
+3382,KUCAT_2021_3386,bhawana aryal,839,arch
+3383,KUCAT_2021_3387,prasidhi shrestha,819,ce
+3384,KUCAT_2021_3388,meena taramu,903,arch
+3385,KUCAT_2021_3389,sneha patel,712,arch
+3386,KUCAT_2021_3390,roshan kumar shah,497,civil
+3387,KUCAT_2021_3391,sushant prasad shah,902,civil
+3388,KUCAT_2021_3392,subesh ghimire,788,ce
+3389,KUCAT_2021_3393,sagar sharma,461,ce
+3390,KUCAT_2021_3394,swornim bajracharya,614,civil
+3391,KUCAT_2021_3395,ishan ghimire,815,ce
+3392,KUCAT_2021_3396,numa limbu,0,ce
+3393,KUCAT_2021_3397,pradip dhakal,325,ce
+3394,KUCAT_2021_3398,raman shrestha,513,geo
+3395,KUCAT_2021_3399,kushal khadka,0,geo
+3396,KUCAT_2021_3400,nirmal karki,0,civil
+3397,KUCAT_2021_3401,nabin paudel,827,ce
+3398,KUCAT_2021_3402,aashutosh timilsina,642,ce
+3399,KUCAT_2021_3403,romiya thapa magar,631,civil
+3400,KUCAT_2021_3404,suvash kumar yadav,813,ce
+3401,KUCAT_2021_3405,rachana panthi,532,design
+3402,KUCAT_2021_3406,suyog bista,466,civil
+3403,KUCAT_2021_3407,saroj parajuli,710,civil
+3404,KUCAT_2021_3408,sachin lohani,752,ce
+3405,KUCAT_2021_3409,sumit shekhar deo,783,btech in artificial intelligence
+3406,KUCAT_2021_3410,sandesh acharya,470,civil
+3407,KUCAT_2021_3411,rohan shrestha,393,civil
+3408,KUCAT_2021_3412,bidhan shrestha,465,cs
+3409,KUCAT_2021_3413,shalin shakya,1013,ce
+3410,KUCAT_2021_3414,simran thapa,444,civil
+3411,KUCAT_2021_3415,nischal bhusal,823,ce
+3412,KUCAT_2021_3416,siddhartha gautam,590,arch
+3413,KUCAT_2021_3417,nijan khoju shrestha,484,ce
+3414,KUCAT_2021_3418,anubhav basnet,461,communication
+3415,KUCAT_2021_3419,sachita shrestha,714,arch
+3416,KUCAT_2021_3420,diwash giri,473,civil
+3417,KUCAT_2021_3421,manish adhikari kshetri,696,civil
+3418,KUCAT_2021_3422,nitesh neupane,709,design
+3419,KUCAT_2021_3423,nirusha shrestha,543,arch
+3420,KUCAT_2021_3424,arun panta,0,civil
+3421,KUCAT_2021_3425,hemant subedi,0,design
+3422,KUCAT_2021_3426,mukesh jirel,384,cs
+3423,KUCAT_2021_3427,nischal mainali,682,ce
+3424,KUCAT_2021_3428,ashish shrestha,0,auto
+3425,KUCAT_2021_3429,teljan gurung,0,civil
+3426,KUCAT_2021_3430,prakash rokaya,607,civil
+3427,KUCAT_2021_3431,parash pokharel,752,cs
+3428,KUCAT_2021_3432,sahil singh basnet,376,civil
+3429,KUCAT_2021_3433,deepshika poudel,432,arch
+3430,KUCAT_2021_3434,merish khanal,409,civil
+3431,KUCAT_2021_3435,rashmika basnet,0,auto
+3432,KUCAT_2021_3436,shikhar banjara,0,ce
+3433,KUCAT_2021_3437,anamika chaudhary,500,arch
+3434,KUCAT_2021_3438,subash bhandari,736,ce
+3435,KUCAT_2021_3439,arun gnawali,1046,power
+3436,KUCAT_2021_3440,loken limbu,997,civil
+3437,KUCAT_2021_3441,dipak raut,742,civil
+3438,KUCAT_2021_3442,bipana kafle,466,bio
+3439,KUCAT_2021_3443,samir acharya,501,ce
+3440,KUCAT_2021_3444,raj kumar sah,757,design
+3441,KUCAT_2021_3445,indra kunwar,657,ce
+3442,KUCAT_2021_3446,saugat gautam,0,arch
+3443,KUCAT_2021_3447,prasiddha man dangol,869,cs
+3444,KUCAT_2021_3448,prajwal prasain,884,civil
+3445,KUCAT_2021_3449,rajesh shahi,484,ce
+3446,KUCAT_2021_3450,dipta bist,676,ce
+3447,KUCAT_2021_3451,tishys dhakal,0,ce
+3448,KUCAT_2021_3452,ispandan baral,567,design
+3449,KUCAT_2021_3453,shoraj paul baidya,502,design
+3450,KUCAT_2021_3454,anish regmi,628,ce
+3451,KUCAT_2021_3455,ketan shahi,0,civil
+3452,KUCAT_2021_3456,rajat pradhan,781,ce
+3453,KUCAT_2021_3457,ashim upadhyaya,585,ce
+3454,KUCAT_2021_3458,prabhat pokharel,814,civil
+3455,KUCAT_2021_3459,khalid hasan ansari,591,ce
+3456,KUCAT_2021_3460,niraj shrestha,534,ce
+3457,KUCAT_2021_3461,manish mishra,453,design
+3458,KUCAT_2021_3462,sonal shrestha,438,bio
+3459,KUCAT_2021_3463,sunil sah kalwar,585,civil
+3460,KUCAT_2021_3464,chandan sah,0,communication
+3461,KUCAT_2021_3465,rishi raman manandhar,290,civil
+3462,KUCAT_2021_3466,dipesh kumar yadav,458,civil
+3463,KUCAT_2021_3467,thaneshwor adhikari,0,arch
+3464,KUCAT_2021_3468,chahana subedi,585,civil
+3465,KUCAT_2021_3469,ayushma pokhrel,674,civil
+3466,KUCAT_2021_3470,kausik paudel,1290,ce
+3467,KUCAT_2021_3471,kanchan jha,610,civil
+3468,KUCAT_2021_3472,prajwal dhakal,956,civil
+3469,KUCAT_2021_3473,nishan katwal,535,civil
+3470,KUCAT_2021_3474,jenish swar,733,ce
+3471,KUCAT_2021_3475,mona bhattarai,472,ce
+3472,KUCAT_2021_3476,aashish adhikari,640,ce
+3473,KUCAT_2021_3477,prashant dhakal,572,ce
+3474,KUCAT_2021_3478,abhiyan niraula,735,civil
+3475,KUCAT_2021_3479,sahil bagla,499,auto
+3476,KUCAT_2021_3480,arpan baniya,501,ce
+3477,KUCAT_2021_3481,ronisha shrestha,392,civil
+3478,KUCAT_2021_3482,siddhartha yadav,0,civil
+3479,KUCAT_2021_3483,bhagirath padhya aryal,988,ce
+3480,KUCAT_2021_3484,diwas khadka,443,auto
+3481,KUCAT_2021_3485,bandana kumari yadav,312,ce
+3482,KUCAT_2021_3486,rabina bhandari,676,civil
+3483,KUCAT_2021_3487,prabin adhikari,0,cs
+3484,KUCAT_2021_3488,priyanka subedi,0,ce
+3485,KUCAT_2021_3489,saransh mandal,713,civil
+3486,KUCAT_2021_3490,ashim tiwari,524,geo
+3487,KUCAT_2021_3491,samrat babu acharya,330,cs
+3488,KUCAT_2021_3492,krishnaa yagol,603,ce
+3489,KUCAT_2021_3493,prasanta upadhyaya,678,auto
+3490,KUCAT_2021_3494,rasna bhasima,566,cs
+3491,KUCAT_2021_3495,sandip bhattarai,0,ce
+3492,KUCAT_2021_3496,sharon kadariya,588,cs
+3493,KUCAT_2021_3497,bipin kumar sharma,398,civil
+3494,KUCAT_2021_3498,sagar kumar mehta,503,arch
+3495,KUCAT_2021_3499,bishakha gyawali,479,ce
+3496,KUCAT_2021_3500,riwas budhathoki,885,ce
+3497,KUCAT_2021_3501,samip aryal,778,communication
+3498,KUCAT_2021_3502,unnati dhakal,637,bio
+3499,KUCAT_2021_3503,aman sheikh,802,ce
+3500,KUCAT_2021_3504,bishwash deoju,555,ce
+3501,KUCAT_2021_3505,akshata pandey,0,ce
+3502,KUCAT_2021_3506,bibek dhakal,346,civil
+3503,KUCAT_2021_3507,shila pandey,965,civil
+3504,KUCAT_2021_3508,pawan bista,315,btech in artificial intelligence
+3505,KUCAT_2021_3509,sagar adhikari,583,civil
+3506,KUCAT_2021_3510,rajesh bhandari,1082,civil
+3507,KUCAT_2021_3511,sneha thapa magar,0,cs
+3508,KUCAT_2021_3512,anish bhandari,828,communication
+3509,KUCAT_2021_3513,prabesh man singh basnet,489,ce
+3510,KUCAT_2021_3514,gandib paudel,822,ce
+3511,KUCAT_2021_3515,sambhav kapoor,0,ce
+3512,KUCAT_2021_3516,saurav timsina,638,civil
+3513,KUCAT_2021_3517,suyogya raj poudel,780,civil
+3514,KUCAT_2021_3518,roshan jaiswal,387,ce
+3515,KUCAT_2021_3519,sunita bashyal,508,ce
+3516,KUCAT_2021_3520,rohan kalu,0,ce
+3517,KUCAT_2021_3521,sristi agrawal,0,ce
+3518,KUCAT_2021_3522,ajaya lama,487,civil
+3519,KUCAT_2021_3523,shmriti katwal,335,arch
+3520,KUCAT_2021_3524,dhurba neupane,0,geo
+3521,KUCAT_2021_3525,hritik ranjan,452,auto
+3522,KUCAT_2021_3526,purnika shrestha,448,civil
+3523,KUCAT_2021_3527,krishant rumba,567,civil
+3524,KUCAT_2021_3528,devendra panta,811,ce
+3525,KUCAT_2021_3529,prakash joshi,882,civil
+3526,KUCAT_2021_3530,knowledge neupane,767,cs
+3527,KUCAT_2021_3531,eva karki,568,bio
+3528,KUCAT_2021_3532,safal shrestha,559,cs
+3529,KUCAT_2021_3533,prasen yonjan,474,ce
+3530,KUCAT_2021_3534,nabin shrestha,516,power
+3531,KUCAT_2021_3535,nikhil jaiswal,845,ce
+3532,KUCAT_2021_3536,aakriti poudel,930,ce
+3533,KUCAT_2021_3537,prerana mainali,485,bsc in agriculture
+3534,KUCAT_2021_3538,sagar neupane,556,ce
+3535,KUCAT_2021_3539,bishnu thakur,653,ce
+3536,KUCAT_2021_3540,pawan dhami,448,btech in artificial intelligence
+3537,KUCAT_2021_3541,prayash niraula,439,ce
+3538,KUCAT_2021_3542,dipesh luitel,963,civil
+3539,KUCAT_2021_3543,richal nidhi,454,ce
+3540,KUCAT_2021_3544,dipson shrestha,612,ce
+3541,KUCAT_2021_3545,iman luitel,820,ce
+3542,KUCAT_2021_3546,sudip ghimire,681,ce
+3543,KUCAT_2021_3547,manish kumar jaiswal,408,civil
+3544,KUCAT_2021_3548,bibek prasad paneru,753,ce
+3545,KUCAT_2021_3549,suresh tamang,640,ce
+3546,KUCAT_2021_3550,sushma devkota,850,ce
+3547,KUCAT_2021_3551,pratik gurung,0,ce
+3548,KUCAT_2021_3552,prabhat kumar yadav,442,civil
+3549,KUCAT_2021_3553,dipti poudel,451,civil
+3550,KUCAT_2021_3554,amrit deuba,759,civil
+3551,KUCAT_2021_3555,sagar marasini,694,civil
+3552,KUCAT_2021_3556,saugat khadka,780,communication
+3553,KUCAT_2021_3557,samyak sigdel,508,ce
+3554,KUCAT_2021_3558,subash hitang,754,arch
+3555,KUCAT_2021_3559,girdhari yadav,246,civil
+3556,KUCAT_2021_3560,megh prasad phuyal,600,design
+3557,KUCAT_2021_3561,manjil dahal,612,ce
+3558,KUCAT_2021_3562,subhav devkota,421,ce
+3559,KUCAT_2021_3563,abhishek prasad sah,0,btech in artificial intelligence
+3560,KUCAT_2021_3564,nischal maharjan,501,btech in artificial intelligence
+3561,KUCAT_2021_3565,bishal jyu thakuri,322,geo
+3562,KUCAT_2021_3566,bheshraj budha,675,civil
+3563,KUCAT_2021_3567,prashant thapa,754,civil
+3564,KUCAT_2021_3568,biplab poudel,492,ce
+3565,KUCAT_2021_3569,gopal sunrait,525,communication
+3566,KUCAT_2021_3570,bibhushit shrestha,0,ce
+3567,KUCAT_2021_3571,sharad pokharel,1017,ce
+3568,KUCAT_2021_3572,aashish dangal,418,civil
+3569,KUCAT_2021_3573,abhishek kumar mahato,424,ce
+3570,KUCAT_2021_3574,madhavi aryal,668,civil
+3571,KUCAT_2021_3575,raagini upadhyay,979,ce
+3572,KUCAT_2021_3576,arbind kumar singh,399,power
+3573,KUCAT_2021_3577,aarju koirala,557,arch
+3574,KUCAT_2021_3578,nitish kumar yadav,526,civil
+3575,KUCAT_2021_3579,birat thapa,742,ce
+3576,KUCAT_2021_3580,yugesh subedi chhetri,821,arch
+3577,KUCAT_2021_3581,nitesh sharma,564,ce
+3578,KUCAT_2021_3582,sameer acharya,777,civil
+3579,KUCAT_2021_3583,milan joshi,771,arch
+3580,KUCAT_2021_3584,dittiya sharma,884,civil
+3581,KUCAT_2021_3585,lujan dass manandhar,522,bio
+3582,KUCAT_2021_3586,aayushma gautam,0,hydro
+3583,KUCAT_2021_3587,kamal karki,428,civil
+3584,KUCAT_2021_3588,prem tajpuriya,376,civil
+3585,KUCAT_2021_3589,sanket chalise,727,design
+3586,KUCAT_2021_3590,md janib rijbi,491,ce
+3587,KUCAT_2021_3591,bijendra yadav,599,btech in artificial intelligence
+3588,KUCAT_2021_3592,prashant nepal,531,ce
+3589,KUCAT_2021_3593,aahana kanth,328,civil
+3590,KUCAT_2021_3594,anamika pokharel,407,ce
+3591,KUCAT_2021_3595,kohinoor dallakoti,794,ce
+3592,KUCAT_2021_3596,swoyesh shrestha,0,cs
+3593,KUCAT_2021_3597,deepika neupane,0,arch
+3594,KUCAT_2021_3598,swapnil kafle,474,bsc in agriculture
+3595,KUCAT_2021_3599,prasna basnet,595,arch
+3596,KUCAT_2021_3600,hardip shrestha,416,arch
+3597,KUCAT_2021_3601,deepesh neupane,482,civil
+3598,KUCAT_2021_3602,darshan raj panta,568,design
+3599,KUCAT_2021_3603,aayush katuwal,0,hydro
+3600,KUCAT_2021_3604,anil dangaura,544,ce
+3601,KUCAT_2021_3605,bindu chalise,881,arch
+3602,KUCAT_2021_3606,riya shrestha,514,arch
+3603,KUCAT_2021_3607,shristi poudel,724,civil
+3604,KUCAT_2021_3608,aruna thapa,480,ce
+3605,KUCAT_2021_3609,anukul karki,582,cs
+3606,KUCAT_2021_3610,nikesh giri,1072,ce
+3607,KUCAT_2021_3611,ajit manandhar,591,bio
+3608,KUCAT_2021_3612,raj k.c,0,ce
+3609,KUCAT_2021_3613,abhinav neupane,484,btech in artificial intelligence
+3610,KUCAT_2021_3614,kriti kiran karmacharya,477,arch
+3611,KUCAT_2021_3615,deepanjali shrestha,489,arch
+3612,KUCAT_2021_3616,sakshi shrestha,703,civil
+3613,KUCAT_2021_3617,urgen palmo tamang,733,auto
+3614,KUCAT_2021_3618,amrita adhikari,0,civil
+3615,KUCAT_2021_3619,richard jung khatri,629,hydro
+3616,KUCAT_2021_3620,supragya basnet,0,ce
+3617,KUCAT_2021_3621,rakshya maharjan,700,arch
+3618,KUCAT_2021_3622,subash pathak,549,ce
+3619,KUCAT_2021_3623,jitendra sah,929,ce
+3620,KUCAT_2021_3624,bidhya komal thapa,616,civil
+3621,KUCAT_2021_3625,sunima dangol,530,ce
+3622,KUCAT_2021_3626,supriya aryal,512,civil
+3623,KUCAT_2021_3627,asim rimal,681,civil
+3624,KUCAT_2021_3628,pravesh karki,0,ce
+3625,KUCAT_2021_3629,shaswot poudyal,677,ce
+3626,KUCAT_2021_3630,sumeru gyawali,1009,civil
+3627,KUCAT_2021_3631,swikriti udas,944,arch
+3628,KUCAT_2021_3632,kristina thapa magar,0,civil
+3629,KUCAT_2021_3633,aakriti thapaliya,370,civil
+3630,KUCAT_2021_3634,roman jeet yonjan,421,civil
+3631,KUCAT_2021_3635,bikash chaudhary,439,ce
+3632,KUCAT_2021_3636,utsav bhandari,716,civil
+3633,KUCAT_2021_3637,suyansh raj shakya,378,civil
+3634,KUCAT_2021_3638,ruksha khadka,493,communication
+3635,KUCAT_2021_3639,anusuya piya,512,arch
+3636,KUCAT_2021_3640,jiya basnet,438,ce
+3637,KUCAT_2021_3641,sushant bikram kunwar,546,design
+3638,KUCAT_2021_3642,priyanka karki,437,ce
+3639,KUCAT_2021_3643,omprakash bhatt,0,geo
+3640,KUCAT_2021_3644,bhanu prasad chaudhary,728,ce
+3641,KUCAT_2021_3645,unique acharya,636,design
+3642,KUCAT_2021_3646,indrajit yadav,495,civil
+3643,KUCAT_2021_3647,sajan rokaya,933,ce
+3644,KUCAT_2021_3648,gaurav bhujel,0,auto
+3645,KUCAT_2021_3649,pradipti shrestha,806,arch
+3646,KUCAT_2021_3650,aaditya yadav,670,civil
+3647,KUCAT_2021_3651,shristi rimal,771,ce
+3648,KUCAT_2021_3652,himani khadayat,494,auto
+3649,KUCAT_2021_3653,nagendra bahadur budathoki,650,arch
+3650,KUCAT_2021_3654,shreejan sagar baral,697,arch
+3651,KUCAT_2021_3655,nikita paudyal,588,geo
+3652,KUCAT_2021_3656,aayushman singh bhujel,446,civil
+3653,KUCAT_2021_3657,dibya dhamala,583,civil
+3654,KUCAT_2021_3658,rocky kumar yadav,601,ce
+3655,KUCAT_2021_3659,isu sharma,575,civil
+3656,KUCAT_2021_3660,aadarsh karna,485,ce
+3657,KUCAT_2021_3661,pabitra neupane,483,civil
+3658,KUCAT_2021_3662,jesika shrestha,515,civil
+3659,KUCAT_2021_3663,shaswat paudel,428,civil
+3660,KUCAT_2021_3664,sakar bhattarai,475,design
+3661,KUCAT_2021_3665,samrat pandey,553,power
+3662,KUCAT_2021_3666,jeevan shrestha,680,civil
+3663,KUCAT_2021_3667,pragati ghimire,705,arch
+3664,KUCAT_2021_3668,nandika rana,721,cs
+3665,KUCAT_2021_3669,shreya acharya,703,arch
+3666,KUCAT_2021_3670,shashwot raj gyawali,0,geo
+3667,KUCAT_2021_3671,chandani sah,693,ce
+3668,KUCAT_2021_3672,pratibha mishra,753,cs
+3669,KUCAT_2021_3673,manish raut,1085,civil
+3670,KUCAT_2021_3674,saugat basnet,443,ce
+3671,KUCAT_2021_3675,sabita gharti chhetri,525,arch
+3672,KUCAT_2021_3676,ashutosh bhattarai,1075,ce
+3673,KUCAT_2021_3677,sujal parajuli,524,civil
+3674,KUCAT_2021_3678,prasiddha koirala,649,btech in artificial intelligence
+3675,KUCAT_2021_3679,neha gupta,0,bsc in agriculture
+3676,KUCAT_2021_3680,roshani kumari chaudhary,475,civil
+3677,KUCAT_2021_3681,bibhu mainali,327,arch
+3678,KUCAT_2021_3682,samyam subedi,630,ce
+3679,KUCAT_2021_3683,erik katwal,516,civil
+3680,KUCAT_2021_3684,ritesh kumar ray,436,communication
+3681,KUCAT_2021_3685,dikshya aryal,553,ce
+3682,KUCAT_2021_3686,rushal ghimire,536,civil
+3683,KUCAT_2021_3687,sujata kushwaha,414,ce
+3684,KUCAT_2021_3688,prashant shrestha,0,civil
+3685,KUCAT_2021_3689,pratikshya rayamajhi,543,arch
+3686,KUCAT_2021_3690,renu mali,0,ce
+3687,KUCAT_2021_3691,diganta tripathi,523,ce
+3688,KUCAT_2021_3692,santosh shrestha,585,civil
+3689,KUCAT_2021_3693,sabina ghimire,740,ce
+3690,KUCAT_2021_3694,priyams ratna bajracharya,842,ce
+3691,KUCAT_2021_3695,kashish nepal,434,btech in artificial intelligence
+3692,KUCAT_2021_3696,sajana pandey,337,arch
+3693,KUCAT_2021_3697,simran dhital,627,design
+3694,KUCAT_2021_3698,upendra tripathi,424,ce
+3695,KUCAT_2021_3699,lalit bhatta,451,civil
+3696,KUCAT_2021_3700,manohar chaulagain,420,ce
+3697,KUCAT_2021_3701,bimal neupane,691,ce
+3698,KUCAT_2021_3702,pravin kunwar chhetri,402,civil

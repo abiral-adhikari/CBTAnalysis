@@ -1,0 +1,2400 @@
+,ID,Name,Score,Program
+0,KUCAT_2018_1,pratik chaudhary,705,pharma
+1,KUCAT_2018_2,kundan mishra,1069,civil
+2,KUCAT_2018_3,abhishek kandel,733,auto
+3,KUCAT_2018_4,bimal gautam,589,ce
+4,KUCAT_2018_5,prajwal acharya,614,design
+5,KUCAT_2018_7,prasoon jha,904,civil
+6,KUCAT_2018_8,dipendra bhatta,528,ce
+7,KUCAT_2018_9,abishek yadav,906,civil
+8,KUCAT_2018_10,aakash mali,1047,auto
+9,KUCAT_2018_12,subhanga dhungel,983,ce
+10,KUCAT_2018_13,pradeep thapa,619,design
+11,KUCAT_2018_14,anish adhikari,570,auto
+12,KUCAT_2018_15,rohan kumar jha,724,ce
+13,KUCAT_2018_16,aayush dip giri,657,ce
+14,KUCAT_2018_17,harsh nandan singh,919,energy
+15,KUCAT_2018_18,saraswati kumari chaudhary,529,pharma
+16,KUCAT_2018_19,piyush kuwar,620,energy
+17,KUCAT_2018_21,nischal subedi,832,civil
+18,KUCAT_2018_22,arun devkota,721,civil
+19,KUCAT_2018_24,kundan mandal,663,civil
+20,KUCAT_2018_25,shubham niraula,743,power
+21,KUCAT_2018_26,hemanta sunuwar,599,ce
+22,KUCAT_2018_27,ambika upadhyay,550,pharma
+23,KUCAT_2018_28,bimisha upadhyaya,639,envs
+24,KUCAT_2018_29,iraj babu karki,594,ce
+25,KUCAT_2018_31,adarsh mandal,584,ce
+26,KUCAT_2018_32,bikash kumar mandal,562,civil
+27,KUCAT_2018_33,sudarshan kumar mandal,640,civil
+28,KUCAT_2018_35,arbind mehta,674,civil
+29,KUCAT_2018_36,nitish lekhak,734,bio
+30,KUCAT_2018_40,yuthica adhikari,764,civil
+31,KUCAT_2018_41,amit kumar karn,529,civil
+32,KUCAT_2018_43,isha adhikary,648,ce
+33,KUCAT_2018_45,roshish parajuli,643,ce
+34,KUCAT_2018_48,prachi dahal,590,arch
+35,KUCAT_2018_49,puspa das,717,pharma
+36,KUCAT_2018_50,sushil kumar kushwaha,668,civil
+37,KUCAT_2018_52,rahul shah,792,civil
+38,KUCAT_2018_53,paribesh panta,719,ce
+39,KUCAT_2018_54,ankit lamsal,846,cs
+40,KUCAT_2018_55,abhishek manandhar,628,ce
+41,KUCAT_2018_56,janak lal sah,700,pharma
+42,KUCAT_2018_57,dipesh shah,533,civil
+43,KUCAT_2018_58,nilesh shrestha,727,ce
+44,KUCAT_2018_59,samesh man bajracharya,911,ce
+45,KUCAT_2018_60,sujan pokharel,815,computational
+46,KUCAT_2018_62,sohan joshi,834,ce
+47,KUCAT_2018_63,bigya krishna shrestha,842,design
+48,KUCAT_2018_64,aarushi khanal,598,ce
+49,KUCAT_2018_65,suman timsina,784,design
+50,KUCAT_2018_66,puspa bhattarai,563,civil
+51,KUCAT_2018_67,pranish tiwari,902,bio
+52,KUCAT_2018_68,humeshor karki,749,ce
+53,KUCAT_2018_69,ronisa shah,641,civil
+54,KUCAT_2018_70,kriti thapa,584,geo
+55,KUCAT_2018_71,reeshav acharya,741,ce
+56,KUCAT_2018_72,aashraya pokhrel,558,cs
+57,KUCAT_2018_73,rhit manandhar,714,ce
+58,KUCAT_2018_74,srishti ghising,590,envs
+59,KUCAT_2018_76,abhishek kumar karn,554,civil
+60,KUCAT_2018_78,upama pant,833,design
+61,KUCAT_2018_79,samrakshan karki,964,ce
+62,KUCAT_2018_80,amulya bhandari,730,ce
+63,KUCAT_2018_82,pawan sapkota,887,design
+64,KUCAT_2018_83,ankit kayastha,689,civil
+65,KUCAT_2018_84,biraj bikram pathak,930,ce
+66,KUCAT_2018_85,nishant nepal2(see endnotes),696,ce
+67,KUCAT_2018_86,shreeya pradhan,759,arch
+68,KUCAT_2018_87,sandesh ghorasainee,870,civil
+69,KUCAT_2018_88,amrit neupane,838,pharma
+70,KUCAT_2018_89,bibek palanchoke,620,ce
+71,KUCAT_2018_92,abhishek ghimire,835,ce
+72,KUCAT_2018_94,manisha karki,834,ce
+73,KUCAT_2018_95,ankitam khanal,887,civil
+74,KUCAT_2018_96,lekh raj sharma,649,civil
+75,KUCAT_2018_97,roshan bhandari,586,power
+76,KUCAT_2018_98,nishant bhandari,878,civil
+77,KUCAT_2018_99,nripesh karmacharya,892,ce
+78,KUCAT_2018_100,prabin kumar chaudhary,707,civil
+79,KUCAT_2018_101,bibatshu thapa chhetri,1101,ce
+80,KUCAT_2018_102,nishant sah,574,chem
+81,KUCAT_2018_103,anisha jha,562,arch
+82,KUCAT_2018_104,anubhav singh karki,735,civil
+83,KUCAT_2018_105,rujwal shrestha,652,civil
+84,KUCAT_2018_106,sagar kumar budhathoki,849,civil
+85,KUCAT_2018_107,sanish khadgi,649,civil
+86,KUCAT_2018_109,adarsha pandey,820,ce
+87,KUCAT_2018_110,sujan mahat,673,civil
+88,KUCAT_2018_111,sidhant kumar sah,632,communication
+89,KUCAT_2018_112,sijan adhikari,892,civil
+90,KUCAT_2018_113,aadarsh b.k.,584,ce
+91,KUCAT_2018_114,sujit man shrestha,664,design
+92,KUCAT_2018_115,sahil k.c.,952,civil
+93,KUCAT_2018_116,bipul mainali,750,civil
+94,KUCAT_2018_117,shrayad chapagain,736,communication
+95,KUCAT_2018_118,sajen sainju,710,ce
+96,KUCAT_2018_119,nirmal kumar byanju shrestha,968,civil
+97,KUCAT_2018_121,prabin kumar yadav,1063,civil
+98,KUCAT_2018_122,binay pachhai,677,auto
+99,KUCAT_2018_123,aarjan ghimire,866,ce
+100,KUCAT_2018_124,abhishek yadav,665,civil
+101,KUCAT_2018_125,shree ranjan labh,542,ce
+102,KUCAT_2018_126,raj kushwaha,921,ce
+103,KUCAT_2018_128,rahul kumar shah,738,bio
+104,KUCAT_2018_129,yaju shrestha,639,ce
+105,KUCAT_2018_130,ritesh pandey,660,ce
+106,KUCAT_2018_131,smarika kafle,966,pharma
+107,KUCAT_2018_132,sandip tiwari,795,civil
+108,KUCAT_2018_134,anmol acharya,900,auto
+109,KUCAT_2018_135,abhinandan shrestha,812,ce
+110,KUCAT_2018_136,aayusha basnet,660,civil
+111,KUCAT_2018_137,nisha kumari ray,611,civil
+112,KUCAT_2018_138,amrendra kumar yadav,994,ce
+113,KUCAT_2018_139,prakash jung osti,661,ce
+114,KUCAT_2018_141,niruta kc,827,civil
+115,KUCAT_2018_142,smriti shah,604,civil
+116,KUCAT_2018_143,laxmi shrestha,862,ce
+117,KUCAT_2018_144,anwit pokharel,839,energy
+118,KUCAT_2018_145,shila pokharel,533,bio
+119,KUCAT_2018_146,ayush barsingh pradhan,632,geo
+120,KUCAT_2018_149,kyush maskey,733,ce
+121,KUCAT_2018_150,bibek khanal,758,ce
+122,KUCAT_2018_151,anish chaudhary,789,civil
+123,KUCAT_2018_152,nishant adhikari,816,ce
+124,KUCAT_2018_153,sushil giri,615,civil
+125,KUCAT_2018_154,shristi sharma dahal,689,bio
+126,KUCAT_2018_155,sulabh ghimire,929,ce
+127,KUCAT_2018_156,sakar koirala,756,civil
+128,KUCAT_2018_157,pratima basyal,725,arch
+129,KUCAT_2018_158,peshal regmi,937,bio
+130,KUCAT_2018_159,simon g.c.,1013,power
+131,KUCAT_2018_160,avinash kumar singh,616,civil
+132,KUCAT_2018_161,abhishek raj shrestha,888,civil
+133,KUCAT_2018_162,prasanna ghimire,866,civil
+134,KUCAT_2018_163,nabin prakash jung pokhrel,995,civil
+135,KUCAT_2018_164,kripa manandhar,855,arch
+136,KUCAT_2018_165,abhas adhikari,1182,arch
+137,KUCAT_2018_166,nischal joshi,1093,civil
+138,KUCAT_2018_167,aayush shrestha,582,bio
+139,KUCAT_2018_168,rasik dhakal,774,bio
+140,KUCAT_2018_169,anand kumar rajak,528,communication
+141,KUCAT_2018_170,mandip shrestha,645,cs
+142,KUCAT_2018_172,manashi shrestha,845,ce
+143,KUCAT_2018_173,nancy medhavi,983,civil
+144,KUCAT_2018_174,larisha lamsal,669,civil
+145,KUCAT_2018_175,shivam gupta,603,civil
+146,KUCAT_2018_176,aman karki,1040,civil
+147,KUCAT_2018_177,niruta baiju,619,civil
+148,KUCAT_2018_179,sumana karki,589,pharma
+149,KUCAT_2018_181,shankar yadav.,745,communication
+150,KUCAT_2018_182,om prakash yadav,675,civil
+151,KUCAT_2018_183,binod lamichhane,608,civil
+152,KUCAT_2018_184,arpan pokharel,530,civil
+153,KUCAT_2018_185,saurav bhusal,574,ce
+154,KUCAT_2018_186,prabesh bhandari,776,civil
+155,KUCAT_2018_187,sanjeev kumar khatri,707,ce
+156,KUCAT_2018_188,prabin lamichhane,1148,ce
+157,KUCAT_2018_189,ankit rumdali rai,975,civil
+158,KUCAT_2018_190,ashutosh singh khadka,873,ce
+159,KUCAT_2018_191,aavash bhattarai,639,ce
+160,KUCAT_2018_192,tapendra bista,716,ce
+161,KUCAT_2018_193,abishek bashyal,1083,ce
+162,KUCAT_2018_194,ranjana chaudhary,681,pharma
+163,KUCAT_2018_195,pratima rana,531,pharma
+164,KUCAT_2018_196,rohit joshi,995,design
+165,KUCAT_2018_197,puskar joshi,710,bio
+166,KUCAT_2018_198,sarwagya wasti,740,ce
+167,KUCAT_2018_199,ayush bajgai,578,ce
+168,KUCAT_2018_201,anzel acharya,600,ce
+169,KUCAT_2018_203,prajina pradhan,731,ce
+170,KUCAT_2018_206,prabin bhandari,628,ce
+171,KUCAT_2018_208,praveen dangoria tharu,586,ce
+172,KUCAT_2018_209,ashutosh devkota,915,ce
+173,KUCAT_2018_210,aanchal gupta,658,arch
+174,KUCAT_2018_211,sumi shrestha,529,arch
+175,KUCAT_2018_212,yukta singh,549,civil
+176,KUCAT_2018_213,sapan sunwar,531,auto
+177,KUCAT_2018_214,kiran jung shah,826,ce
+178,KUCAT_2018_216,anubhav ghimire,1142,civil
+179,KUCAT_2018_217,anup chhetri,922,civil
+180,KUCAT_2018_218,siddhant bhagat,783,ce
+181,KUCAT_2018_219,saurav gupta,562,civil
+182,KUCAT_2018_220,aavash shrestha,820,civil
+183,KUCAT_2018_222,md maslehuddin raeen,706,civil
+184,KUCAT_2018_223,amit budhathoki,647,ce
+185,KUCAT_2018_224,ramekwal mahato,747,civil
+186,KUCAT_2018_225,yuvraj thapa,815,hydro
+187,KUCAT_2018_226,nomish dev,671,power
+188,KUCAT_2018_227,aayush niraula,843,ce
+189,KUCAT_2018_228,bikash shah,909,ce
+190,KUCAT_2018_229,bibek subedi,682,auto
+191,KUCAT_2018_230,navaraj poudel,611,auto
+192,KUCAT_2018_231,anish paudyal,802,cs
+193,KUCAT_2018_234,ashish thapa,997,auto
+194,KUCAT_2018_235,prasanna bajracharya,528,arch
+195,KUCAT_2018_237,gopal ojha,888,civil
+196,KUCAT_2018_239,roshan poudel,752,civil
+197,KUCAT_2018_241,niraj shrestha,849,ce
+198,KUCAT_2018_243,kriti manandhar,578,pharma
+199,KUCAT_2018_245,kabish bhattarai,597,arch
+200,KUCAT_2018_247,manika shrestha,734,pharma
+201,KUCAT_2018_248,pradeep chauhan,787,civil
+202,KUCAT_2018_249,anup katuwal,944,civil
+203,KUCAT_2018_250,karan kumar shah,718,civil
+204,KUCAT_2018_251,nabin mishra,836,design
+205,KUCAT_2018_254,ashutosh regmi,564,ce
+206,KUCAT_2018_255,bishal aryal,651,ce
+207,KUCAT_2018_256,basanta singh,734,civil
+208,KUCAT_2018_257,adeet tuladhar,568,communication
+209,KUCAT_2018_258,amit kumar gupta,957,ce
+210,KUCAT_2018_259,anish karna,745,civil
+211,KUCAT_2018_260,sushant chaudhary,621,ce
+212,KUCAT_2018_261,suyog babu tiwari,1066,civil
+213,KUCAT_2018_262,subha ojha,787,enve
+214,KUCAT_2018_263,bijay mahato,578,bio
+215,KUCAT_2018_264,sitaram karki,1050,power
+216,KUCAT_2018_265,rashu kunwar,665,design
+217,KUCAT_2018_266,kripan kc,822,ce
+218,KUCAT_2018_267,sanjay khanal,1033,ce
+219,KUCAT_2018_268,ashmita pandey,669,bio
+220,KUCAT_2018_269,purnima acharya,841,bio
+221,KUCAT_2018_270,kusum khadka,592,bio
+222,KUCAT_2018_271,ujjwal pageni,873,civil
+223,KUCAT_2018_272,albin joshi,869,pharma
+224,KUCAT_2018_273,ujjwal thapa magar,678,bio
+225,KUCAT_2018_274,ichchha babu bhattarai,907,ce
+226,KUCAT_2018_275,roshan lamichhane,869,hydro
+227,KUCAT_2018_276,kabir jung adhikari,874,chem
+228,KUCAT_2018_277,saugat gairhe,876,auto
+229,KUCAT_2018_279,bibek lamichhane,816,auto
+230,KUCAT_2018_280,prashant kandel,768,civil
+231,KUCAT_2018_281,aftab aalam ansari,591,power
+232,KUCAT_2018_282,raushan kumar sah,846,civil
+233,KUCAT_2018_284,swarup shakya,692,ce
+234,KUCAT_2018_285,sumiran shrestha,613,bio
+235,KUCAT_2018_287,saksham krishna manandhar,640,ce
+236,KUCAT_2018_288,santosh bastola,561,ce
+237,KUCAT_2018_289,yudeep poudel,814,auto
+238,KUCAT_2018_290,ranjan kumar shah,547,auto
+239,KUCAT_2018_291,ram binay sah,612,pharma
+240,KUCAT_2018_292,aditi khatiwada,857,ce
+241,KUCAT_2018_293,milan neupane2(see endnotes),752,energy
+242,KUCAT_2018_294,amar kumar mandal,857,ce
+243,KUCAT_2018_297,aagat pokhrel,1168,ce
+244,KUCAT_2018_298,manish sharma timilsina,1073,chem
+245,KUCAT_2018_299,aravya jha,1089,civil
+246,KUCAT_2018_300,pawana baral magar,763,civil
+247,KUCAT_2018_301,pranjal ghimire,572,cs
+248,KUCAT_2018_302,sumit khanal,693,ce
+249,KUCAT_2018_303,apurva shrestha,667,civil
+250,KUCAT_2018_305,ronish shrestha,715,auto
+251,KUCAT_2018_307,roshan raj karki,967,auto
+252,KUCAT_2018_308,ayush pokhrel,626,chem
+253,KUCAT_2018_309,sudeel kc,1134,auto
+254,KUCAT_2018_310,simon acharya,939,civil
+255,KUCAT_2018_311,dikesh shrestha,807,ce
+256,KUCAT_2018_312,dharmendra chaudhary,691,civil
+257,KUCAT_2018_316,sanjit kumar sah,729,civil
+258,KUCAT_2018_317,birendra kumar chanudhary,635,civil
+259,KUCAT_2018_318,sunil kumar mahato,819,power
+260,KUCAT_2018_319,rajay bajracharya,767,cs
+261,KUCAT_2018_320,anjit mandal,623,civil
+262,KUCAT_2018_321,dipsan regmi,653,ce
+263,KUCAT_2018_322,saideep ghimire,829,civil
+264,KUCAT_2018_323,sagar raj paudel,714,design
+265,KUCAT_2018_325,nibbana dhungana,540,computational
+266,KUCAT_2018_326,arbind kumar yadav,657,civil
+267,KUCAT_2018_327,sanil khadka,698,ce
+268,KUCAT_2018_328,arjit subedi,946,ce
+269,KUCAT_2018_329,ranjan raj pandey,933,ce
+270,KUCAT_2018_332,anish poudel,668,design
+271,KUCAT_2018_333,ashim joshi,791,auto
+272,KUCAT_2018_334,rupesh kumar rouniyar,574,civil
+273,KUCAT_2018_335,utkrist shrestha,647,ce
+274,KUCAT_2018_337,shraddha kadel,921,civil
+275,KUCAT_2018_338,rohit kumar kushwaha,545,energy
+276,KUCAT_2018_339,sadhana dahal,578,bio
+277,KUCAT_2018_340,aadarsha dhakal,767,geo
+278,KUCAT_2018_341,sanskar lohani,809,ce
+279,KUCAT_2018_342,bicky jaiswal,768,chem
+280,KUCAT_2018_343,suman adhikari,726,civil
+281,KUCAT_2018_344,mukesh kushwaha,787,ce
+282,KUCAT_2018_346,safal shahi,796,civil
+283,KUCAT_2018_347,shreyansh subedi,788,cs
+284,KUCAT_2018_348,utsav maskey,825,cs
+285,KUCAT_2018_349,pankaj kumar mahato,539,civil
+286,KUCAT_2018_350,shruti shah,950,civil
+287,KUCAT_2018_351,aarshiya khadka,800,ce
+288,KUCAT_2018_353,aman kumar shah,810,chem
+289,KUCAT_2018_355,saman tripathee,700,ce
+290,KUCAT_2018_357,devanand singh,693,civil
+291,KUCAT_2018_358,smriti chaulagain,1004,power
+292,KUCAT_2018_360,saru pokhrel,555,arch
+293,KUCAT_2018_361,subrat sharma,633,geo
+294,KUCAT_2018_362,sunil kumar yadav,655,pharma
+295,KUCAT_2018_363,sumit bhatta,970,design
+296,KUCAT_2018_364,polarj sapkota,657,power
+297,KUCAT_2018_365,sam sundar kurmi,562,ce
+298,KUCAT_2018_366,samip timalsena,1080,ce
+299,KUCAT_2018_367,karan shrestha,876,auto
+300,KUCAT_2018_369,laxman khanal,558,power
+301,KUCAT_2018_370,sailesh k.c.,605,civil
+302,KUCAT_2018_371,bikash kumar mahato,1048,pharma
+303,KUCAT_2018_372,anish paudel,597,ce
+304,KUCAT_2018_373,darshan shrestha,685,civil
+305,KUCAT_2018_375,sanjeep kumar yadav,773,pharma
+306,KUCAT_2018_377,luv uprety,560,ce
+307,KUCAT_2018_378,susil raj neupane,700,civil
+308,KUCAT_2018_379,nikesh thapa,790,energy
+309,KUCAT_2018_380,bibash poudel,695,ce
+310,KUCAT_2018_382,reetu gurung,550,arch
+311,KUCAT_2018_383,pemila limbu,633,ce
+312,KUCAT_2018_385,shaalin pokharel,638,arch
+313,KUCAT_2018_387,rima banjara,719,pharma
+314,KUCAT_2018_388,akash kumar pandey,661,civil
+315,KUCAT_2018_389,ishan subedi,692,bio
+316,KUCAT_2018_390,mandeep prasad shah,925,auto
+317,KUCAT_2018_391,reeya shrestha,741,envs
+318,KUCAT_2018_392,sasita sapkota,894,ce
+319,KUCAT_2018_393,nenjol koirala,756,civil
+320,KUCAT_2018_394,dasarath yadav,611,pharma
+321,KUCAT_2018_395,aaradhaya rautar tharu,533,arch
+322,KUCAT_2018_396,dipendra danuwar,845,auto
+323,KUCAT_2018_397,aachal kumari das,740,pharma
+324,KUCAT_2018_398,gaurav bhandari,613,design
+325,KUCAT_2018_399,jenish shrestha,579,communication
+326,KUCAT_2018_400,nitesh jha,641,ce
+327,KUCAT_2018_402,bikram pariyar,698,auto
+328,KUCAT_2018_403,saksham subedi,1047,ce
+329,KUCAT_2018_404,swastika dhaubhadel,803,ce
+330,KUCAT_2018_405,rojan uprety,997,ce
+331,KUCAT_2018_407,dipak acharya,736,ce
+332,KUCAT_2018_408,kishor humagain,792,ce
+333,KUCAT_2018_409,anjan sapkota,958,design
+334,KUCAT_2018_410,prashansa oli,735,civil
+335,KUCAT_2018_411,sima mandal,566,communication
+336,KUCAT_2018_413,aashish chapain,878,ce
+337,KUCAT_2018_414,ashim poudel,624,ce
+338,KUCAT_2018_415,lekhnath adhikari,656,civil
+339,KUCAT_2018_416,pramod kumar mahato,764,civil
+340,KUCAT_2018_418,pramod chaudhary,537,ce
+341,KUCAT_2018_420,sujan ghimire,822,civil
+342,KUCAT_2018_422,rozan rai,751,civil
+343,KUCAT_2018_423,nishan oli,713,civil
+344,KUCAT_2018_424,samrat singh,907,civil
+345,KUCAT_2018_425,rahul poudel,752,civil
+346,KUCAT_2018_426,suyog pandey,942,ce
+347,KUCAT_2018_427,sarpharaj alam,584,civil
+348,KUCAT_2018_428,nista shakya,529,ce
+349,KUCAT_2018_429,pravash gautam,744,civil
+350,KUCAT_2018_430,bisheshwor neupane,937,ce
+351,KUCAT_2018_431,kriti bashyal,862,arch
+352,KUCAT_2018_432,modita manandhar,585,arch
+353,KUCAT_2018_435,sneha poudel,656,pharma
+354,KUCAT_2018_436,gaurav jyakhwa,919,ce
+355,KUCAT_2018_437,manish baniya,762,arch
+356,KUCAT_2018_438,bijay basnet,678,auto
+357,KUCAT_2018_439,sangam ghimire,832,ce
+358,KUCAT_2018_440,sovit singh gupta,693,ce
+359,KUCAT_2018_441,sudiksha pradhan,745,pharma
+360,KUCAT_2018_443,yanjish gurung,732,ce
+361,KUCAT_2018_444,aayush chaulagain,934,civil
+362,KUCAT_2018_445,ganga aryal,593,chem
+363,KUCAT_2018_446,sisham shrestha,597,civil
+364,KUCAT_2018_447,bishal subedi,944,civil
+365,KUCAT_2018_449,rupesh chaudhary,792,civil
+366,KUCAT_2018_450,nitesh mandal,944,civil
+367,KUCAT_2018_451,swadesh kumar yadav,636,civil
+368,KUCAT_2018_453,krishna dev sah,721,civil
+369,KUCAT_2018_454,sulav guragain,578,civil
+370,KUCAT_2018_455,ashok shahi,685,civil
+371,KUCAT_2018_457,lokesh pandit,748,ce
+372,KUCAT_2018_458,archana gupta,731,geo
+373,KUCAT_2018_459,rahul kumar jha,899,civil
+374,KUCAT_2018_460,balram sah,1038,ce
+375,KUCAT_2018_461,bibash dulal,1078,civil
+376,KUCAT_2018_462,balram baral2(see endnotes),611,civil
+377,KUCAT_2018_463,ankit waiba,587,civil
+378,KUCAT_2018_464,sanjay timalsina,722,civil
+379,KUCAT_2018_465,atit pokharel,750,ce
+380,KUCAT_2018_468,bishow upadhaya,659,civil
+381,KUCAT_2018_469,aashish gautam,569,ce
+382,KUCAT_2018_470,siddhant chaudhary,760,civil
+383,KUCAT_2018_471,samundra chalise,698,civil
+384,KUCAT_2018_472,sujata kunwar,588,ce
+385,KUCAT_2018_473,chandan kumar prabhakar yadav,689,design
+386,KUCAT_2018_474,suraj khayamali,583,cs
+387,KUCAT_2018_476,avishesh dhakal,539,ce
+388,KUCAT_2018_477,amarnath gupta,556,civil
+389,KUCAT_2018_478,sarvesh pandey,739,ce
+390,KUCAT_2018_479,aakriti sharma,782,civil
+391,KUCAT_2018_480,aadityananda jha,1048,civil
+392,KUCAT_2018_481,anusha timilsina,868,arch
+393,KUCAT_2018_483,bishal paudel,660,civil
+394,KUCAT_2018_485,sujan gole,937,civil
+395,KUCAT_2018_486,basanta paudel,1113,ce
+396,KUCAT_2018_487,ashish karki,761,civil
+397,KUCAT_2018_488,roshan subedi,993,ce
+398,KUCAT_2018_489,aman shrestha,1140,ce
+399,KUCAT_2018_490,kiran kumar maharjan,925,civil
+400,KUCAT_2018_491,rojan dahal,806,ce
+401,KUCAT_2018_493,sheetal thapa,704,pharma
+402,KUCAT_2018_495,divya dhital,584,pharma
+403,KUCAT_2018_496,pankaj kushwaha,530,power
+404,KUCAT_2018_497,reeza maharjan,684,ce
+405,KUCAT_2018_498,subodh acharya,1259,civil
+406,KUCAT_2018_499,yuken shrestha,938,civil
+407,KUCAT_2018_502,samir chauhan,749,auto
+408,KUCAT_2018_505,rishav acharya,541,ce
+409,KUCAT_2018_507,suman raj adhikari,688,civil
+410,KUCAT_2018_508,suyog dhakal,943,ce
+411,KUCAT_2018_509,smika sharma,858,civil
+412,KUCAT_2018_510,anjila manandhar,601,ce
+413,KUCAT_2018_511,krisha shrestha,966,ce
+414,KUCAT_2018_512,sagar tamang,609,civil
+415,KUCAT_2018_513,anish shrestha,871,arch
+416,KUCAT_2018_515,aabhas dhaubanja,841,ce
+417,KUCAT_2018_516,anjali shahi,878,arch
+418,KUCAT_2018_517,umesh kc,1077,cs
+419,KUCAT_2018_519,prerana niraula,554,civil
+420,KUCAT_2018_520,arun shah,883,ce
+421,KUCAT_2018_521,saxam bhattarai,567,ce
+422,KUCAT_2018_522,amit giri,698,civil
+423,KUCAT_2018_523,prabin kumar shah,647,ce
+424,KUCAT_2018_524,neha yadav,777,civil
+425,KUCAT_2018_525,barsha maharjan,570,envs
+426,KUCAT_2018_526,aman kumar jha,606,civil
+427,KUCAT_2018_527,pratick gaire,771,civil
+428,KUCAT_2018_528,pragun budhathoki,531,ce
+429,KUCAT_2018_529,nitika paudyal,777,pharma
+430,KUCAT_2018_530,gaurav raj,718,geo
+431,KUCAT_2018_531,pappu prasad kushwaha,695,civil
+432,KUCAT_2018_532,ashant chaudhary2(see endnotes),576,pharma
+433,KUCAT_2018_533,achyut kayastha,827,ce
+434,KUCAT_2018_534,siddhant singh,807,design
+435,KUCAT_2018_535,sajan mahat,1020,ce
+436,KUCAT_2018_536,alish k.c,587,civil
+437,KUCAT_2018_537,aman mandal,932,civil
+438,KUCAT_2018_538,preksha adhikari,535,civil
+439,KUCAT_2018_539,nischal bhurtel,907,ce
+440,KUCAT_2018_540,kriti chapagain,768,ce
+441,KUCAT_2018_541,sabin pathak,728,power
+442,KUCAT_2018_542,shreedhar pandey,893,ce
+443,KUCAT_2018_543,ashwin dhougoda,540,ce
+444,KUCAT_2018_544,kusum thapa,648,pharma
+445,KUCAT_2018_545,asmita acharya,533,civil
+446,KUCAT_2018_546,anil basnet,830,civil
+447,KUCAT_2018_548,aashish lamichhane,727,civil
+448,KUCAT_2018_549,garima bhusal,815,geo
+449,KUCAT_2018_550,praveena aryal,590,geo
+450,KUCAT_2018_553,ramesh kumar yadav,603,auto
+451,KUCAT_2018_556,anurag kadel,844,auto
+452,KUCAT_2018_557,rupesh gelal,625,civil
+453,KUCAT_2018_560,ayush shrestha,988,civil
+454,KUCAT_2018_561,mukesh khachhe shrestha,789,civil
+455,KUCAT_2018_562,sneha yadav,859,civil
+456,KUCAT_2018_564,saugat lamichhane,802,civil
+457,KUCAT_2018_565,lalit prasad joshi,613,ce
+458,KUCAT_2018_566,niraj ayer,528,ce
+459,KUCAT_2018_568,nirala lamichhane,713,communication
+460,KUCAT_2018_569,ujjwal adhikari,831,civil
+461,KUCAT_2018_570,binamra acharya,684,ce
+462,KUCAT_2018_572,deepansha sitaula,802,arch
+463,KUCAT_2018_573,abinash acharya,730,ce
+464,KUCAT_2018_574,manoj sapkota,622,civil
+465,KUCAT_2018_575,prasanna nepal,868,civil
+466,KUCAT_2018_576,utsav regmi,1065,civil
+467,KUCAT_2018_577,santosh subedi,1019,ce
+468,KUCAT_2018_578,ritiiz shakya,609,civil
+469,KUCAT_2018_580,manoj shrestha,648,civil
+470,KUCAT_2018_581,utsav dahal,893,ce
+471,KUCAT_2018_582,manoj subedi,653,ce
+472,KUCAT_2018_583,udip bhattarai,814,civil
+473,KUCAT_2018_584,pukar kafle,946,civil
+474,KUCAT_2018_586,yashshri khatri,738,geo
+475,KUCAT_2018_587,aayush - joshi,672,geo
+476,KUCAT_2018_588,sushil subedi,763,civil
+477,KUCAT_2018_590,krischal om pote,558,cs
+478,KUCAT_2018_591,roshan ojha,929,auto
+479,KUCAT_2018_593,ayush pandeya,1110,civil
+480,KUCAT_2018_594,prakrit devkota,907,civil
+481,KUCAT_2018_596,nishanta aryal,680,civil
+482,KUCAT_2018_597,apekshya basukala,697,bio
+483,KUCAT_2018_598,biraj khadka,964,auto
+484,KUCAT_2018_600,aashutosh aryal,1067,ce
+485,KUCAT_2018_601,kshitiz gautam,903,civil
+486,KUCAT_2018_602,ayush adhikari,1066,arch
+487,KUCAT_2018_603,aashraya rajkarnikar,1048,arch
+488,KUCAT_2018_604,kamana gaha magar,640,pharma
+489,KUCAT_2018_607,ghanshyam singh,799,ce
+490,KUCAT_2018_609,samip upreti,538,pharma
+491,KUCAT_2018_610,neha kumari karna,627,arch
+492,KUCAT_2018_611,hom nath poudel,584,envs
+493,KUCAT_2018_612,ranjit kumar mehta,559,geo
+494,KUCAT_2018_613,anusha ojha,840,civil
+495,KUCAT_2018_614,binisha gautam,669,ce
+496,KUCAT_2018_615,aakriti khadka,811,civil
+497,KUCAT_2018_617,anweshu guvaju,720,civil
+498,KUCAT_2018_618,dipen thapa,875,civil
+499,KUCAT_2018_619,shrawan kumar chaulagain,626,geo
+500,KUCAT_2018_620,shambhu rijal,911,civil
+501,KUCAT_2018_621,ranjana keshari,600,ce
+502,KUCAT_2018_622,shreya dahal,641,ce
+503,KUCAT_2018_623,diya khanal,675,ce
+504,KUCAT_2018_624,dhiraj prajapati,581,geo
+505,KUCAT_2018_626,bigyan subedi,555,civil
+506,KUCAT_2018_627,phanindra khawash,889,ce
+507,KUCAT_2018_628,purna bahadur saud,751,civil
+508,KUCAT_2018_629,susma dura,735,ce
+509,KUCAT_2018_630,birbal thapa,664,civil
+510,KUCAT_2018_633,utsav dahal,922,civil
+511,KUCAT_2018_634,pukar pokharel,673,auto
+512,KUCAT_2018_635,saurav shrestha,992,ce
+513,KUCAT_2018_636,smriti shrestha,835,envs
+514,KUCAT_2018_637,kamal adhikari,568,ce
+515,KUCAT_2018_638,apar baral,684,ce
+516,KUCAT_2018_639,pradeep devkota,583,civil
+517,KUCAT_2018_640,aditya raj tiwari,851,ce
+518,KUCAT_2018_641,sameer adhikari,1049,ce
+519,KUCAT_2018_642,binod khatri,788,civil
+520,KUCAT_2018_643,bhawana karakheti,574,design
+521,KUCAT_2018_646,nirajan kapadi bhatt,839,civil
+522,KUCAT_2018_647,devashish singh,987,civil
+523,KUCAT_2018_648,sachin shrestha,1019,civil
+524,KUCAT_2018_649,samundra khanal,724,ce
+525,KUCAT_2018_651,krishna kumar mandal,548,civil
+526,KUCAT_2018_653,raju rayamajhi,706,civil
+527,KUCAT_2018_654,md sagir aalam,660,ce
+528,KUCAT_2018_656,jenish chauhan,1029,geo
+529,KUCAT_2018_657,phurba tshering sherpa,715,civil
+530,KUCAT_2018_658,nischal batas,599,ce
+531,KUCAT_2018_659,prabin gautam,843,ce
+532,KUCAT_2018_660,ashok thakulla,746,ce
+533,KUCAT_2018_662,nischal bhattarai,872,ce
+534,KUCAT_2018_663,biraj thapa,999,ce
+535,KUCAT_2018_664,shishir bastola,618,civil
+536,KUCAT_2018_665,ishwor prajapati,667,civil
+537,KUCAT_2018_666,malshree chauhan,658,pharma
+538,KUCAT_2018_667,ramkrishna mahato,1071,civil
+539,KUCAT_2018_668,dipankar giri,662,ce
+540,KUCAT_2018_669,manish baral,866,ce
+541,KUCAT_2018_672,srijan thapa,913,geo
+542,KUCAT_2018_674,arogya dahal,763,ce
+543,KUCAT_2018_675,bikesh bimali,960,ce
+544,KUCAT_2018_678,aashutosh subedi,718,civil
+545,KUCAT_2018_679,paran kafle,641,civil
+546,KUCAT_2018_680,sandesh kharel,946,civil
+547,KUCAT_2018_681,suman chaudhary,659,civil
+548,KUCAT_2018_682,aashis dahal,952,design
+549,KUCAT_2018_683,pratik ghimire,777,civil
+550,KUCAT_2018_684,bivek baral,1022,auto
+551,KUCAT_2018_685,trilochan kandel,642,cs
+552,KUCAT_2018_686,aakriti bhandari,560,ce
+553,KUCAT_2018_687,aaditya mehra,575,civil
+554,KUCAT_2018_688,kushal sedhai,843,design
+555,KUCAT_2018_689,abinash gupta,805,ce
+556,KUCAT_2018_690,karuna shrestha,631,ce
+557,KUCAT_2018_691,lirisa ghimire,583,arch
+558,KUCAT_2018_692,amar kumar yadav,688,civil
+559,KUCAT_2018_693,sabin tiwari,1089,civil
+560,KUCAT_2018_694,bhawesh mishra,547,civil
+561,KUCAT_2018_695,kabita ojha,578,civil
+562,KUCAT_2018_696,sworup shree thapa,923,auto
+563,KUCAT_2018_697,pragya mallick,750,communication
+564,KUCAT_2018_698,madhu jha,533,ce
+565,KUCAT_2018_699,sagar karki,590,civil
+566,KUCAT_2018_701,akriti ghimire,596,arch
+567,KUCAT_2018_702,gaurav neupane,883,hydro
+568,KUCAT_2018_703,raju yadav,682,civil
+569,KUCAT_2018_705,nabin raj singh dhuriya,968,civil
+570,KUCAT_2018_707,rasik bhandari,750,ce
+571,KUCAT_2018_708,jyoti shah,678,ce
+572,KUCAT_2018_710,pappu kumar rauniyar,558,civil
+573,KUCAT_2018_712,sulochana yadav,930,civil
+574,KUCAT_2018_713,mausam bhurtel,821,civil
+575,KUCAT_2018_714,anup kishor neupane,594,ce
+576,KUCAT_2018_715,rakshya lama moktan,688,envs
+577,KUCAT_2018_716,sujan adhikari,800,ce
+578,KUCAT_2018_717,sirapa chitrakar,840,enve
+579,KUCAT_2018_718,manisha kc,754,ce
+580,KUCAT_2018_719,sumit shrestha,827,ce
+581,KUCAT_2018_720,bhisma raj koirala,633,ce
+582,KUCAT_2018_721,hemant kumar yadav,693,civil
+583,KUCAT_2018_722,ashmita pahari,632,civil
+584,KUCAT_2018_723,dhiraj shah,627,ce
+585,KUCAT_2018_724,nitesh dhakal,886,auto
+586,KUCAT_2018_726,asharam adhikari,677,geo
+587,KUCAT_2018_727,aditi pokharel,684,arch
+588,KUCAT_2018_730,sandesh paudel,635,civil
+589,KUCAT_2018_731,bishwajeet singh,825,auto
+590,KUCAT_2018_738,biswas pandit,799,ce
+591,KUCAT_2018_739,devashish shrestha,659,civil
+592,KUCAT_2018_740,bikash kumar yadav,839,communication
+593,KUCAT_2018_741,anjani yadav,674,bio
+594,KUCAT_2018_742,ram kumar adhikari,645,civil
+595,KUCAT_2018_744,ujjwal karki,860,ce
+596,KUCAT_2018_745,gyan bahadur rana,838,civil
+597,KUCAT_2018_746,nirajan raj subedi,641,power
+598,KUCAT_2018_747,mukesh kumar sah,613,pharma
+599,KUCAT_2018_748,roshan thapa,684,civil
+600,KUCAT_2018_749,sanjaya adhikari,1083,civil
+601,KUCAT_2018_752,puja rouniyar,659,ce
+602,KUCAT_2018_753,bipin ghimire,776,ce
+603,KUCAT_2018_754,umesh shrestha,1113,ce
+604,KUCAT_2018_755,nitesh kumar yadav,694,civil
+605,KUCAT_2018_757,manoj kandel,728,ce
+606,KUCAT_2018_760,anil yadav,764,civil
+607,KUCAT_2018_761,raksha chaudhary,727,arch
+608,KUCAT_2018_762,dishna chhantyal,678,cs
+609,KUCAT_2018_764,pratigya dhakal,558,ce
+610,KUCAT_2018_765,sambhranta nidhi tiwari,815,hydro
+611,KUCAT_2018_766,adarsa acharya,863,ce
+612,KUCAT_2018_767,swastika lamichhane,613,arch
+613,KUCAT_2018_769,rajendra prasad joshi,1034,civil
+614,KUCAT_2018_770,alpana ray,625,pharma
+615,KUCAT_2018_771,ramraj chimouriya,1033,ce
+616,KUCAT_2018_773,abhinash kumar mandal,1136,power
+617,KUCAT_2018_775,kritika acharya,852,arch
+618,KUCAT_2018_776,pramanand sah,861,civil
+619,KUCAT_2018_778,siddhant thapa,535,ce
+620,KUCAT_2018_779,lekhnath sah,764,civil
+621,KUCAT_2018_780,rewan gautam,928,ce
+622,KUCAT_2018_781,deepak dangi,587,ce
+623,KUCAT_2018_782,gokul joshi,945,design
+624,KUCAT_2018_783,mohammad soyab rangrej,665,ce
+625,KUCAT_2018_784,bandhan dangi,939,design
+626,KUCAT_2018_785,hritik thapa,972,civil
+627,KUCAT_2018_787,aakash gharti magar,900,ce
+628,KUCAT_2018_788,balkrishna pokharel,652,civil
+629,KUCAT_2018_789,aavash dahal,580,ce
+630,KUCAT_2018_791,ravi mishra,620,civil
+631,KUCAT_2018_792,kapil poudel,549,ce
+632,KUCAT_2018_793,nishant karn,901,civil
+633,KUCAT_2018_795,gyanedra kumar tripathi,662,civil
+634,KUCAT_2018_798,mahendra nath yogi,577,civil
+635,KUCAT_2018_799,binita kumari joshi,851,civil
+636,KUCAT_2018_800,pradip kumar yadav,769,geo
+637,KUCAT_2018_801,ayush kumar karn,837,ce
+638,KUCAT_2018_803,samriddha singh,808,ce
+639,KUCAT_2018_804,sujan bhujel,693,civil
+640,KUCAT_2018_807,tej prasad phuyal,671,hydro
+641,KUCAT_2018_810,susma ojha,693,pharma
+642,KUCAT_2018_811,srijana k.c,635,civil
+643,KUCAT_2018_812,dipak bahadur khadka,631,civil
+644,KUCAT_2018_813,biraj kharel,940,ce
+645,KUCAT_2018_814,sudip shrestha,866,ce
+646,KUCAT_2018_815,swostika lamichhane,683,bio
+647,KUCAT_2018_816,avigya adhikari,747,civil
+648,KUCAT_2018_819,cecil ghimire,863,ce
+649,KUCAT_2018_822,shrawak bhattarai,1079,ce
+650,KUCAT_2018_823,arpit rajbhandari,762,ce
+651,KUCAT_2018_824,nikita pokharel,671,civil
+652,KUCAT_2018_825,anup dahal,564,arch
+653,KUCAT_2018_826,preksha sharma,609,civil
+654,KUCAT_2018_827,karan subedi,1053,ce
+655,KUCAT_2018_828,anupam siwakoti,592,auto
+656,KUCAT_2018_829,sanket koirala,784,geo
+657,KUCAT_2018_831,nirajan paudel,870,arch
+658,KUCAT_2018_832,bhoj raj joshi,639,civil
+659,KUCAT_2018_833,devendra ghimire,730,design
+660,KUCAT_2018_835,pranit shrestha,696,civil
+661,KUCAT_2018_836,pralad pangeni,674,civil
+662,KUCAT_2018_837,jagrit prashad devkota,564,civil
+663,KUCAT_2018_838,harendra singh dhami,772,civil
+664,KUCAT_2018_839,prakash kumar jha,746,civil
+665,KUCAT_2018_840,aaditya kumar sah,667,civil
+666,KUCAT_2018_841,dipak kumar mandal,595,civil
+667,KUCAT_2018_842,niki kayastha,642,pharma
+668,KUCAT_2018_843,nitesh pant,953,ce
+669,KUCAT_2018_844,sanjay sah,730,civil
+670,KUCAT_2018_846,arpan upadhyay pandit,645,ce
+671,KUCAT_2018_847,aashisha jha,973,civil
+672,KUCAT_2018_849,niraj kumar yadav,691,civil
+673,KUCAT_2018_850,monica parajuli,592,arch
+674,KUCAT_2018_851,sijal baral,971,ce
+675,KUCAT_2018_853,aadarsha poudel,580,hydro
+676,KUCAT_2018_854,reshav shrestha,863,chem
+677,KUCAT_2018_855,sushmita gautam,651,arch
+678,KUCAT_2018_857,shubham pathak,595,hydro
+679,KUCAT_2018_858,sharmila dhakal,537,bio
+680,KUCAT_2018_859,raghav sharma,878,auto
+681,KUCAT_2018_860,suman pudasaini,572,civil
+682,KUCAT_2018_861,sachin khadka,570,ce
+683,KUCAT_2018_863,ayusha aryal,590,civil
+684,KUCAT_2018_864,nischal pudasaini,538,civil
+685,KUCAT_2018_865,shreeya adhikari,759,civil
+686,KUCAT_2018_866,biplov upreti,695,civil
+687,KUCAT_2018_867,abhishek karki,529,civil
+688,KUCAT_2018_868,sekendra gurung,945,civil
+689,KUCAT_2018_870,uttam dahal,1012,civil
+690,KUCAT_2018_871,samit baral,730,ce
+691,KUCAT_2018_872,susmita aryal,802,arch
+692,KUCAT_2018_874,suman prasad bhattarai,902,civil
+693,KUCAT_2018_875,pranjal deep kanel,681,ce
+694,KUCAT_2018_876,sanat kumar kharga,696,auto
+695,KUCAT_2018_880,bikky kumar sah,721,ce
+696,KUCAT_2018_881,shiva pokhrel,852,civil
+697,KUCAT_2018_886,parameswar man karki,883,civil
+698,KUCAT_2018_887,abiraj thapa magar,826,civil
+699,KUCAT_2018_888,silu joshi,703,ce
+700,KUCAT_2018_889,ankit thapa,845,civil
+701,KUCAT_2018_891,aashish acharya,760,civil
+702,KUCAT_2018_893,ram sthapit,797,cs
+703,KUCAT_2018_894,aakash kumar yadav,546,civil
+704,KUCAT_2018_895,abshar baniya,685,civil
+705,KUCAT_2018_896,raju sah,710,auto
+706,KUCAT_2018_897,manish kumar mahato,675,power
+707,KUCAT_2018_898,aakriti shrestha,637,pharma
+708,KUCAT_2018_899,achyut thapa,555,civil
+709,KUCAT_2018_900,parbat budha,584,civil
+710,KUCAT_2018_903,jagadish prasad bhatt,553,civil
+711,KUCAT_2018_904,sumit patel,533,ce
+712,KUCAT_2018_905,suraj pant2(see endnotes),807,civil
+713,KUCAT_2018_906,nitesh kumar yadav,682,civil
+714,KUCAT_2018_907,arpana khanal,708,pharma
+715,KUCAT_2018_909,anuja banjara,728,arch
+716,KUCAT_2018_910,shweksha karna,530,bio
+717,KUCAT_2018_911,dhan raj pokharel,750,pharma
+718,KUCAT_2018_912,tabrej alam ansari,557,design
+719,KUCAT_2018_913,sohan sapkota,721,pharma
+720,KUCAT_2018_914,bipin shrestha,806,ce
+721,KUCAT_2018_915,ishan karki,767,ce
+722,KUCAT_2018_916,yuvraj chaudhary,725,chem
+723,KUCAT_2018_917,naim rain,705,civil
+724,KUCAT_2018_919,ishika karki,595,enve
+725,KUCAT_2018_920,shailendra kumar adhikari,623,civil
+726,KUCAT_2018_921,nabin chaudhary,688,civil
+727,KUCAT_2018_922,aayush khadka,749,civil
+728,KUCAT_2018_923,subina subedi,760,arch
+729,KUCAT_2018_924,rishabh pandey,727,civil
+730,KUCAT_2018_925,babin khatri,1028,ce
+731,KUCAT_2018_926,bauddhika khadka,544,enve
+732,KUCAT_2018_927,adarsh karki,542,ce
+733,KUCAT_2018_928,krishna kumar karki,717,arch
+734,KUCAT_2018_929,pramesh poudyal,713,civil
+735,KUCAT_2018_931,abhay nepal,958,civil
+736,KUCAT_2018_932,samman mani acharya,719,power
+737,KUCAT_2018_933,aashish adhikari,546,enve
+738,KUCAT_2018_934,bhupesh chaudhary,595,pharma
+739,KUCAT_2018_935,dipesh regmi,1099,civil
+740,KUCAT_2018_936,hemant khatiwada2(see endnotes),702,ce
+741,KUCAT_2018_937,chandan chaudhary2(see endnotes),1144,hydro
+742,KUCAT_2018_938,jeevan raj panta,780,ce
+743,KUCAT_2018_939,rajib regmi,913,civil
+744,KUCAT_2018_941,jayprakash kushwaha,604,ce
+745,KUCAT_2018_942,sangam chaulagain,1192,ce
+746,KUCAT_2018_943,abhishek mishra,949,auto
+747,KUCAT_2018_944,prakash prasad singh,642,auto
+748,KUCAT_2018_945,suraj kumar sah,602,civil
+749,KUCAT_2018_946,sikas batta,621,auto
+750,KUCAT_2018_947,ramprabesh sah,754,civil
+751,KUCAT_2018_948,prabin kumar pandit,825,civil
+752,KUCAT_2018_949,partha chalise,715,civil
+753,KUCAT_2018_950,udayamani neupane,774,auto
+754,KUCAT_2018_951,sangam paudel,788,ce
+755,KUCAT_2018_952,melina shakya,707,ce
+756,KUCAT_2018_953,deepak gharti,918,energy
+757,KUCAT_2018_955,bishal joshi,1125,ce
+758,KUCAT_2018_956,nawaraj kafle,848,hydro
+759,KUCAT_2018_958,neetish paudel,680,ce
+760,KUCAT_2018_959,tej bahadur gc,842,civil
+761,KUCAT_2018_960,abin thapa,870,auto
+762,KUCAT_2018_961,rojeena dhoju,546,geo
+763,KUCAT_2018_962,shrey pradhananga,583,ce
+764,KUCAT_2018_963,krishna kumar gupta,583,civil
+765,KUCAT_2018_964,prem nath sharma,720,civil
+766,KUCAT_2018_965,supriya khadka,1181,ce
+767,KUCAT_2018_966,shaishav acharya,934,civil
+768,KUCAT_2018_968,sahansha kc,783,civil
+769,KUCAT_2018_969,shila pandit,703,arch
+770,KUCAT_2018_970,shanti giri,631,arch
+771,KUCAT_2018_971,prabin chaudhary,730,civil
+772,KUCAT_2018_972,sushila pandey,677,civil
+773,KUCAT_2018_973,shashwat shrestha,787,civil
+774,KUCAT_2018_974,gunjan adhikari,632,envs
+775,KUCAT_2018_975,shreya shrestha,943,ce
+776,KUCAT_2018_977,sandesh thapa,664,ce
+777,KUCAT_2018_978,sandesh kumar upadhyay,857,power
+778,KUCAT_2018_979,sajina bhandari,610,enve
+779,KUCAT_2018_980,rohit jaiswal,569,pharma
+780,KUCAT_2018_981,sushmita midun,912,civil
+781,KUCAT_2018_982,sushan poudyal,541,ce
+782,KUCAT_2018_986,pritisa baral,597,pharma
+783,KUCAT_2018_987,anil chapagain,1048,civil
+784,KUCAT_2018_988,nikita sharma,845,civil
+785,KUCAT_2018_989,saurab kumar yadav,774,civil
+786,KUCAT_2018_990,sirju karki,531,civil
+787,KUCAT_2018_991,sulav lohani,846,ce
+788,KUCAT_2018_994,saurab gautam,606,arch
+789,KUCAT_2018_995,subin pandey,711,civil
+790,KUCAT_2018_996,subodh neupane,857,civil
+791,KUCAT_2018_997,sachin mandal,1194,civil
+792,KUCAT_2018_998,prashant pandey,745,communication
+793,KUCAT_2018_999,swasti karki,701,civil
+794,KUCAT_2018_1000,niraj thakur,870,civil
+795,KUCAT_2018_1002,prabhav neupane,711,civil
+796,KUCAT_2018_1003,suman pokharel,535,ce
+797,KUCAT_2018_1004,shishir bhusal,631,civil
+798,KUCAT_2018_1005,nischal jojiju,799,civil
+799,KUCAT_2018_1006,bibudh dwa,923,civil
+800,KUCAT_2018_1007,anukul gurung,592,civil
+801,KUCAT_2018_1009,krishna bahadur kc,552,civil
+802,KUCAT_2018_1011,aashish sapkota,852,ce
+803,KUCAT_2018_1012,kriti shrestha,661,arch
+804,KUCAT_2018_1014,rabi kumar sah,535,geo
+805,KUCAT_2018_1015,sirjan baral,667,geo
+806,KUCAT_2018_1016,amulya bagale,735,civil
+807,KUCAT_2018_1017,sumit pokharel,747,arch
+808,KUCAT_2018_1018,prabin raut,868,hydro
+809,KUCAT_2018_1019,abhishek pandey,630,civil
+810,KUCAT_2018_1020,anurag shukla,665,civil
+811,KUCAT_2018_1021,mandeep gurung,748,arch
+812,KUCAT_2018_1023,alisha kshetri,997,power
+813,KUCAT_2018_1025,diya manandhar,807,ce
+814,KUCAT_2018_1026,bishal bhatta,702,cs
+815,KUCAT_2018_1027,pratik shakya,685,ce
+816,KUCAT_2018_1029,adwait ghimire,852,civil
+817,KUCAT_2018_1030,anjali gupta,554,civil
+818,KUCAT_2018_1031,saugat ghimire,677,ce
+819,KUCAT_2018_1033,sudip sharma,708,ce
+820,KUCAT_2018_1034,utsav paudel,883,ce
+821,KUCAT_2018_1035,mandip yadav,866,ce
+822,KUCAT_2018_1036,suraj aryal,537,auto
+823,KUCAT_2018_1037,aayush pathak,821,civil
+824,KUCAT_2018_1038,saurav rajbhandari,554,civil
+825,KUCAT_2018_1039,anurag ghimire,566,ce
+826,KUCAT_2018_1040,yubaraj subedi,732,civil
+827,KUCAT_2018_1041,mahima laxmi shakya,639,arch
+828,KUCAT_2018_1042,gautam buddha shakya,866,ce
+829,KUCAT_2018_1043,amit dhakal,980,auto
+830,KUCAT_2018_1044,siza adhikari,805,ce
+831,KUCAT_2018_1045,ritesh raj sah,583,ce
+832,KUCAT_2018_1046,nitesh pokharel,817,ce
+833,KUCAT_2018_1047,mukesh chalise,653,ce
+834,KUCAT_2018_1048,shila panthee,717,ce
+835,KUCAT_2018_1049,anisha budhathoki,746,civil
+836,KUCAT_2018_1051,aarati shah,668,ce
+837,KUCAT_2018_1052,manoj basi,730,pharma
+838,KUCAT_2018_1053,rajesh chaudhary,798,pharma
+839,KUCAT_2018_1054,anshu bhattarai,969,communication
+840,KUCAT_2018_1055,gunjan kumari yadav,589,civil
+841,KUCAT_2018_1056,himal ghimire,595,auto
+842,KUCAT_2018_1059,bikash budha,615,civil
+843,KUCAT_2018_1060,pranish karn,706,pharma
+844,KUCAT_2018_1061,ajay ray,558,civil
+845,KUCAT_2018_1062,ashwini bhatt,904,civil
+846,KUCAT_2018_1063,prajna subedi,730,bio
+847,KUCAT_2018_1065,om prakash parajuli,798,ce
+848,KUCAT_2018_1067,sagar paudel,1109,ce
+849,KUCAT_2018_1068,ravi kumar sharma,690,ce
+850,KUCAT_2018_1069,rajan kumar mandal,887,ce
+851,KUCAT_2018_1070,sagar poudel,626,auto
+852,KUCAT_2018_1072,birat shankar shrestha,625,ce
+853,KUCAT_2018_1073,sushanta adhikari,919,civil
+854,KUCAT_2018_1074,yogesh bhandari,643,auto
+855,KUCAT_2018_1075,salon bikram thakuri,668,geo
+856,KUCAT_2018_1076,gautam kumar yadav,551,civil
+857,KUCAT_2018_1077,sanam kumar lamichhane,727,civil
+858,KUCAT_2018_1078,helina khanal,960,civil
+859,KUCAT_2018_1079,gopal adhikari,810,hydro
+860,KUCAT_2018_1080,priya basnet,584,civil
+861,KUCAT_2018_1081,sandesh ghimire,943,ce
+862,KUCAT_2018_1082,chandradev chaudhary,583,pharma
+863,KUCAT_2018_1083,bibek raj tripathee,679,ce
+864,KUCAT_2018_1084,pritesh kumar karn,544,civil
+865,KUCAT_2018_1085,sujit kumar thakur,715,power
+866,KUCAT_2018_1088,sachin khatri,688,civil
+867,KUCAT_2018_1089,krishna nand badu,707,ce
+868,KUCAT_2018_1090,sheetal gupta,888,arch
+869,KUCAT_2018_1091,sneha thapa,721,cs
+870,KUCAT_2018_1092,rasik bhandari2(see endnotes),701,civil
+871,KUCAT_2018_1093,hemanta neupane,969,geo
+872,KUCAT_2018_1094,nandita khatri,696,arch
+873,KUCAT_2018_1095,anita karki,733,arch
+874,KUCAT_2018_1097,manisha manandhar,654,ce
+875,KUCAT_2018_1098,prabesh khanal,745,ce
+876,KUCAT_2018_1099,rajan pal,781,power
+877,KUCAT_2018_1100,aakash yadav,720,civil
+878,KUCAT_2018_1101,mansih yadav,717,civil
+879,KUCAT_2018_1102,santosh shrestha,1037,ce
+880,KUCAT_2018_1104,anil kumar yadav,785,civil
+881,KUCAT_2018_1105,kabish jung thapa,900,auto
+882,KUCAT_2018_1106,aayush adhikari,874,ce
+883,KUCAT_2018_1107,sudeep kasichhwa,898,ce
+884,KUCAT_2018_1108,anil sayaju,817,civil
+885,KUCAT_2018_1109,subham dhungana,976,chem
+886,KUCAT_2018_1110,kritika pantha,528,ce
+887,KUCAT_2018_1111,shailendra bhatta,908,ce
+888,KUCAT_2018_1112,kabita pokhrel,856,civil
+889,KUCAT_2018_1113,ayush kumar jaysawal,1034,ce
+890,KUCAT_2018_1114,rahul kumar karn,764,ce
+891,KUCAT_2018_1115,sushant khatiwoda,587,civil
+892,KUCAT_2018_1116,lajah shrestha,727,civil
+893,KUCAT_2018_1117,utsav shrestha,889,civil
+894,KUCAT_2018_1118,sabin bhattarai,576,ce
+895,KUCAT_2018_1120,tejnarayan chauhan,650,ce
+896,KUCAT_2018_1121,manish yadav,988,civil
+897,KUCAT_2018_1122,milan shrestha,1132,ce
+898,KUCAT_2018_1123,dipesh adhikari,771,civil
+899,KUCAT_2018_1124,rishab rawal,920,ce
+900,KUCAT_2018_1125,ijaj ali,573,pharma
+901,KUCAT_2018_1126,pradeepti aryal,792,ce
+902,KUCAT_2018_1127,ujjwal singh brajesh shivam,931,ce
+903,KUCAT_2018_1129,avash palikhe,738,ce
+904,KUCAT_2018_1130,alish lakhaju,650,civil
+905,KUCAT_2018_1131,nirajan lage,642,geo
+906,KUCAT_2018_1132,pravin kumar sah,734,civil
+907,KUCAT_2018_1133,sharad timilsina,860,geo
+908,KUCAT_2018_1134,amisa karki,531,pharma
+909,KUCAT_2018_1135,kanchan bhandari,1118,pharma
+910,KUCAT_2018_1136,aashish giri,778,ce
+911,KUCAT_2018_1137,saugat adhikari,860,ce
+912,KUCAT_2018_1138,aman pathak,1082,civil
+913,KUCAT_2018_1139,ajay chaudhary,713,ce
+914,KUCAT_2018_1140,sanjeev khatiwada,582,civil
+915,KUCAT_2018_1141,aayush adhikari,786,ce
+916,KUCAT_2018_1142,rajesh dahal,820,design
+917,KUCAT_2018_1144,samjhana bhandari,640,civil
+918,KUCAT_2018_1145,bibhusha ojha,712,envs
+919,KUCAT_2018_1146,bibhor bista,971,civil
+920,KUCAT_2018_1147,avash lohani,847,civil
+921,KUCAT_2018_1148,ajaya kumar mandal,560,auto
+922,KUCAT_2018_1149,ankit khatiwada,1028,ce
+923,KUCAT_2018_1150,sankalpa acharya,660,bio
+924,KUCAT_2018_1151,ayush shakya,916,ce
+925,KUCAT_2018_1152,anil k.c,673,ce
+926,KUCAT_2018_1153,sneh dahal,555,ce
+927,KUCAT_2018_1155,neha dumaru,536,arch
+928,KUCAT_2018_1156,nitesh kumar das,593,civil
+929,KUCAT_2018_1157,devesh kumar yadav,636,ce
+930,KUCAT_2018_1158,abhinav shrestha,1182,civil
+931,KUCAT_2018_1159,ratna kaji maharjan,975,civil
+932,KUCAT_2018_1160,shusan khatiwada,856,ce
+933,KUCAT_2018_1161,dhiraj kumar mandal,855,civil
+934,KUCAT_2018_1162,aarjan rajbhandari,570,ce
+935,KUCAT_2018_1163,yaman subedi,970,ce
+936,KUCAT_2018_1165,bipul subedi,771,auto
+937,KUCAT_2018_1166,sandesh gairhe,826,ce
+938,KUCAT_2018_1167,prabhav regmi,990,auto
+939,KUCAT_2018_1168,abhishek shrestha,639,civil
+940,KUCAT_2018_1169,kabiraj khatri,886,civil
+941,KUCAT_2018_1170,dipesh shrestha,749,cs
+942,KUCAT_2018_1171,nabin bhandari,643,cs
+943,KUCAT_2018_1172,kshitij timalsina,947,geo
+944,KUCAT_2018_1174,dinesh osti,604,communication
+945,KUCAT_2018_1175,aadesh kumar kalwar,586,civil
+946,KUCAT_2018_1176,merina thapa,608,civil
+947,KUCAT_2018_1177,rikesh lawoju,1061,geo
+948,KUCAT_2018_1178,sneha subedi,579,civil
+949,KUCAT_2018_1179,ujjwal baral,860,civil
+950,KUCAT_2018_1180,riya sharma,612,civil
+951,KUCAT_2018_1181,bibek pandeya,812,ce
+952,KUCAT_2018_1182,nirwan dhungana,577,civil
+953,KUCAT_2018_1183,shreesha bhattarai,544,civil
+954,KUCAT_2018_1184,saurab chapagain,1056,civil
+955,KUCAT_2018_1185,bijaya shrestha,825,ce
+956,KUCAT_2018_1186,medha subedi,652,ce
+957,KUCAT_2018_1187,awantika dhital,698,ce
+958,KUCAT_2018_1188,prayag raj koirala,634,ce
+959,KUCAT_2018_1189,suwaj aryal,1027,civil
+960,KUCAT_2018_1190,prajjwal uprety,802,hydro
+961,KUCAT_2018_1191,rabin ghimire,819,civil
+962,KUCAT_2018_1192,smaran dhungana,1038,ce
+963,KUCAT_2018_1193,sandip gotame2(see endnotes),831,ce
+964,KUCAT_2018_1194,dishna dangol,781,ce
+965,KUCAT_2018_1195,prijam shahi,848,civil
+966,KUCAT_2018_1197,nripa jung kc,638,civil
+967,KUCAT_2018_1198,isha dongol,727,arch
+968,KUCAT_2018_1199,anish pudasaini,646,civil
+969,KUCAT_2018_1200,vivek pokharel,989,civil
+970,KUCAT_2018_1201,subesh poudel,576,ce
+971,KUCAT_2018_1202,avash gurung,680,civil
+972,KUCAT_2018_1204,paras pandit,669,civil
+973,KUCAT_2018_1205,nabin ghimire,981,ce
+974,KUCAT_2018_1206,phobe barahi,609,arch
+975,KUCAT_2018_1207,sabi kurmi,582,ce
+976,KUCAT_2018_1208,ajay krishna shrestha,664,design
+977,KUCAT_2018_1209,achyut bhusal,735,civil
+978,KUCAT_2018_1210,ajay ranabhat,563,ce
+979,KUCAT_2018_1211,riya shrestha,565,cs
+980,KUCAT_2018_1212,sandip khadka,708,civil
+981,KUCAT_2018_1213,sudin adhikari,855,ce
+982,KUCAT_2018_1214,prajwal shrestha,711,ce
+983,KUCAT_2018_1215,suraj shrestha,671,civil
+984,KUCAT_2018_1217,sushanta bhandari,853,auto
+985,KUCAT_2018_1218,ras bahadur lama,627,civil
+986,KUCAT_2018_1219,sheetal basnet,611,civil
+987,KUCAT_2018_1220,chiranjibi koirala,637,civil
+988,KUCAT_2018_1221,gaurav dhital,640,ce
+989,KUCAT_2018_1222,rabin chaulagain2(see endnotes),589,ce
+990,KUCAT_2018_1223,bibek chalise,910,ce
+991,KUCAT_2018_1224,tenzing dorjee sherpa,579,auto
+992,KUCAT_2018_1226,prabhat karna,894,ce
+993,KUCAT_2018_1228,rohit kumar yadav,829,geo
+994,KUCAT_2018_1230,aakash shrestha,619,civil
+995,KUCAT_2018_1231,saishav aryal,935,civil
+996,KUCAT_2018_1233,lincoln bhattachan,708,civil
+997,KUCAT_2018_1234,nischal neupane,669,power
+998,KUCAT_2018_1235,salina pokhrel,738,civil
+999,KUCAT_2018_1236,adarsha paudel,972,civil
+1000,KUCAT_2018_1238,ashok g.c.,702,chem
+1001,KUCAT_2018_1239,anuj gupta,734,ce
+1002,KUCAT_2018_1241,ayush bajracharya,790,ce
+1003,KUCAT_2018_1242,bhesh raj joshi,937,civil
+1004,KUCAT_2018_1244,atit thakali,541,arch
+1005,KUCAT_2018_1245,samir pokharel,590,civil
+1006,KUCAT_2018_1247,niroj sedhai,996,ce
+1007,KUCAT_2018_1249,sushan shrestha,613,arch
+1008,KUCAT_2018_1250,pinky gupta,922,pharma
+1009,KUCAT_2018_1251,bishal lamichhane,679,design
+1010,KUCAT_2018_1252,sudip kumar yadav,805,civil
+1011,KUCAT_2018_1253,sujen shrestha,795,ce
+1012,KUCAT_2018_1254,himanshu giri,751,design
+1013,KUCAT_2018_1255,abinav ghimire,570,ce
+1014,KUCAT_2018_1258,rajesh gautam,641,power
+1015,KUCAT_2018_1259,asim malakar,627,ce
+1016,KUCAT_2018_1261,aarush timalsina,889,ce
+1017,KUCAT_2018_1262,binay raj parajuli,709,civil
+1018,KUCAT_2018_1264,nirdesh pradhan,657,ce
+1019,KUCAT_2018_1265,hemank kc,563,pharma
+1020,KUCAT_2018_1266,suvechha dhakal,614,civil
+1021,KUCAT_2018_1267,nidhi jaiswal,733,civil
+1022,KUCAT_2018_1268,sneha adhikari,810,ce
+1023,KUCAT_2018_1269,rupa tamang,747,arch
+1024,KUCAT_2018_1270,kajal pokharel,967,civil
+1025,KUCAT_2018_1272,monika manandhar,774,arch
+1026,KUCAT_2018_1273,sophiya shrestha,1091,civil
+1027,KUCAT_2018_1274,dipesh sedhai,688,ce
+1028,KUCAT_2018_1275,kunal dutt,536,civil
+1029,KUCAT_2018_1276,bharat kumar oli,535,geo
+1030,KUCAT_2018_1278,rashmi jha,693,power
+1031,KUCAT_2018_1279,santosh kumar yadav,668,civil
+1032,KUCAT_2018_1280,sweta shahi,815,civil
+1033,KUCAT_2018_1281,aashish chapagain,544,pharma
+1034,KUCAT_2018_1282,shiva bahadur basnet,790,ce
+1035,KUCAT_2018_1283,sujan adhikari,797,civil
+1036,KUCAT_2018_1284,rakshya sharma,958,ce
+1037,KUCAT_2018_1285,nishma bhattarai,685,auto
+1038,KUCAT_2018_1286,sandeep kashyap,550,civil
+1039,KUCAT_2018_1287,sujan khadka,668,communication
+1040,KUCAT_2018_1289,sadichhya maharjan,822,ce
+1041,KUCAT_2018_1290,alish prajapati,956,ce
+1042,KUCAT_2018_1291,ipsha ghimire,614,ce
+1043,KUCAT_2018_1293,avinna malla,1032,civil
+1044,KUCAT_2018_1294,sujan subedi,888,civil
+1045,KUCAT_2018_1295,sanjay kumar sah,833,civil
+1046,KUCAT_2018_1296,ramesh yadav,837,civil
+1047,KUCAT_2018_1297,vivekanand yadav,533,civil
+1048,KUCAT_2018_1300,sagar subedi,715,bio
+1049,KUCAT_2018_1302,mina bist,752,civil
+1050,KUCAT_2018_1303,aayush ojha,822,civil
+1051,KUCAT_2018_1304,prapti chalise,840,civil
+1052,KUCAT_2018_1306,arpan karki,674,civil
+1053,KUCAT_2018_1307,aayush rimal,548,design
+1054,KUCAT_2018_1308,bandana sharma,1005,arch
+1055,KUCAT_2018_1310,subodh baral,1108,ce
+1056,KUCAT_2018_1311,ishwor bhattarai,1115,design
+1057,KUCAT_2018_1313,neha mahato,774,arch
+1058,KUCAT_2018_1314,aseem priyadarshan chemjong limbu,1019,ce
+1059,KUCAT_2018_1315,sagar nath pathak,904,civil
+1060,KUCAT_2018_1318,bhakti lekhak,1028,civil
+1061,KUCAT_2018_1319,manisha pant,710,civil
+1062,KUCAT_2018_1321,ashwinee kharel,762,power
+1063,KUCAT_2018_1323,mukul bhatta,800,power
+1064,KUCAT_2018_1324,aayush niroula,618,ce
+1065,KUCAT_2018_1325,keshab pokhrel,767,pharma
+1066,KUCAT_2018_1327,sujan oli,683,civil
+1067,KUCAT_2018_1330,smriti bhujel,738,arch
+1068,KUCAT_2018_1332,shreehang bantawa rai,958,power
+1069,KUCAT_2018_1333,rojan tamrakar,648,civil
+1070,KUCAT_2018_1334,birak thapa,646,ce
+1071,KUCAT_2018_1335,sudeshma dikshen lama2(see endnotes),651,civil
+1072,KUCAT_2018_1336,madhu sudan bhusal,800,power
+1073,KUCAT_2018_1337,sidddhant sedai,602,ce
+1074,KUCAT_2018_1338,govinda yadav,779,civil
+1075,KUCAT_2018_1339,binaya thakur,606,auto
+1076,KUCAT_2018_1340,shreekant mahato,665,pharma
+1077,KUCAT_2018_1341,ashok bist,880,civil
+1078,KUCAT_2018_1342,sameer poudel,1027,civil
+1079,KUCAT_2018_1343,dipesh kumar yadav,657,civil
+1080,KUCAT_2018_1344,mohan yadav,684,ce
+1081,KUCAT_2018_1345,utsav mandal,540,ce
+1082,KUCAT_2018_1348,bikram bista,631,civil
+1083,KUCAT_2018_1350,samvid parajuli,1100,ce
+1084,KUCAT_2018_1352,pinpa lama tamang,878,civil
+1085,KUCAT_2018_1353,amit yadav,573,civil
+1086,KUCAT_2018_1354,subarna pudasaini,971,ce
+1087,KUCAT_2018_1355,sujan poudel,858,ce
+1088,KUCAT_2018_1356,samrat thapa,1296,ce
+1089,KUCAT_2018_1357,bibek baral,698,civil
+1090,KUCAT_2018_1358,aron shrestha,932,ce
+1091,KUCAT_2018_1359,mahesh upreti,876,ce
+1092,KUCAT_2018_1363,aman poddar,915,power
+1093,KUCAT_2018_1364,urgen tamang,708,ce
+1094,KUCAT_2018_1365,rambabu poddar,1075,ce
+1095,KUCAT_2018_1366,ishan shrestha,665,communication
+1096,KUCAT_2018_1369,daman raj neupane,763,ce
+1097,KUCAT_2018_1370,sarishna shakya,721,arch
+1098,KUCAT_2018_1371,sabhya belbase,797,civil
+1099,KUCAT_2018_1373,idan prajapati2(see endnotes),560,ce
+1100,KUCAT_2018_1374,ramesh bahadur gurudhami,918,civil
+1101,KUCAT_2018_1375,aaditya karna,809,energy
+1102,KUCAT_2018_1376,aagya kc,824,ce
+1103,KUCAT_2018_1377,sabin thapa,1007,ce
+1104,KUCAT_2018_1378,jenisha khadka,712,pharma
+1105,KUCAT_2018_1381,subhechhya manandhar,596,civil
+1106,KUCAT_2018_1382,darshan poudel,704,communication
+1107,KUCAT_2018_1385,aashish kumar jha,788,civil
+1108,KUCAT_2018_1386,rashik dallakoti,747,auto
+1109,KUCAT_2018_1387,anshu prajapati,679,arch
+1110,KUCAT_2018_1388,shrabada gurung,783,envs
+1111,KUCAT_2018_1389,aditi baral,1109,ce
+1112,KUCAT_2018_1390,niranjan jaiswal,697,arch
+1113,KUCAT_2018_1391,pushpa thapa,571,geo
+1114,KUCAT_2018_1392,rajesh kumar yadav,719,civil
+1115,KUCAT_2018_1393,amit kharel,770,ce
+1116,KUCAT_2018_1394,abish bhusal,983,ce
+1117,KUCAT_2018_1395,aadarsha thapa,816,ce
+1118,KUCAT_2018_1396,bhagawati prasad yadav,988,civil
+1119,KUCAT_2018_1397,abhishek poudel,958,ce
+1120,KUCAT_2018_1398,manish pathak,663,civil
+1121,KUCAT_2018_1399,amaresh kumar shah,973,ce
+1122,KUCAT_2018_1400,abhishek kumar chaudhary,593,ce
+1123,KUCAT_2018_1401,nabin kumar yadav,915,civil
+1124,KUCAT_2018_1402,bipin khanal,1083,ce
+1125,KUCAT_2018_1403,ram kripal ray,834,civil
+1126,KUCAT_2018_1404,rakesh kumar yadav,872,civil
+1127,KUCAT_2018_1405,aashish chaudhary,680,ce
+1128,KUCAT_2018_1406,bijay khadka,736,arch
+1129,KUCAT_2018_1407,binay banjaday,688,hydro
+1130,KUCAT_2018_1410,gagan shakya,669,pharma
+1131,KUCAT_2018_1411,safal katwal,1224,civil
+1132,KUCAT_2018_1412,sakar ranjan baral,881,civil
+1133,KUCAT_2018_1413,umang shakhakarmi,683,pharma
+1134,KUCAT_2018_1414,kritim rijal,633,civil
+1135,KUCAT_2018_1415,aaryan khatiwada,585,cs
+1136,KUCAT_2018_1417,aryan karki,846,ce
+1137,KUCAT_2018_1418,anjan bhujel nepal,674,civil
+1138,KUCAT_2018_1419,abiskar timsina,696,ce
+1139,KUCAT_2018_1420,aayush thapa,534,civil
+1140,KUCAT_2018_1421,anish pokharel,819,civil
+1141,KUCAT_2018_1423,akash tamang,730,civil
+1142,KUCAT_2018_1425,anup basnet,751,ce
+1143,KUCAT_2018_1426,bipan neupane,704,ce
+1144,KUCAT_2018_1427,abhishek ghimire,708,civil
+1145,KUCAT_2018_1428,yuken karki,803,ce
+1146,KUCAT_2018_1430,ankit paudel,1156,ce
+1147,KUCAT_2018_1431,shankes karki,649,arch
+1148,KUCAT_2018_1435,yaman karki,1240,arch
+1149,KUCAT_2018_1436,nabin kumar mahato,601,civil
+1150,KUCAT_2018_1437,sajjan neupane,800,civil
+1151,KUCAT_2018_1438,preetika karmacharya,602,bio
+1152,KUCAT_2018_1439,sajal manandhar,622,bio
+1153,KUCAT_2018_1440,bijay tamang,686,power
+1154,KUCAT_2018_1441,ashish lawati,768,design
+1155,KUCAT_2018_1442,monika sah,658,ce
+1156,KUCAT_2018_1443,aakritee pathak,611,arch
+1157,KUCAT_2018_1445,pranish bijukchhe,752,communication
+1158,KUCAT_2018_1446,nakul sapkota,1019,hydro
+1159,KUCAT_2018_1447,minesh panth,696,hydro
+1160,KUCAT_2018_1448,jamuna prasad sah,814,pharma
+1161,KUCAT_2018_1450,suman pathak,654,design
+1162,KUCAT_2018_1451,sushil bist,836,civil
+1163,KUCAT_2018_1452,lekhnath gyawali,928,design
+1164,KUCAT_2018_1453,aashika adhikari,672,ce
+1165,KUCAT_2018_1454,prarthana sapkota,870,ce
+1166,KUCAT_2018_1455,ravi pokhrel,532,civil
+1167,KUCAT_2018_1456,prakash phuyal,917,civil
+1168,KUCAT_2018_1457,nikita k.c.,818,civil
+1169,KUCAT_2018_1458,som raj sharma,716,ce
+1170,KUCAT_2018_1459,alish khatiwada,1157,design
+1171,KUCAT_2018_1460,karun shrestha,744,civil
+1172,KUCAT_2018_1461,ramesh paswan,988,civil
+1173,KUCAT_2018_1462,abhishek subedi,811,auto
+1174,KUCAT_2018_1464,abhishek singh,595,civil
+1175,KUCAT_2018_1465,prekshya joshi,557,communication
+1176,KUCAT_2018_1466,kailash kumar mandal,811,pharma
+1177,KUCAT_2018_1467,srijan pokharel,712,civil
+1178,KUCAT_2018_1468,aayush khatri,733,civil
+1179,KUCAT_2018_1469,sachin thapa,620,civil
+1180,KUCAT_2018_1470,sahitya dahal,600,civil
+1181,KUCAT_2018_1472,saloni karmacharya,755,pharma
+1182,KUCAT_2018_1473,sahabul rayeen,671,pharma
+1183,KUCAT_2018_1474,rabin kumar chaudhary,683,civil
+1184,KUCAT_2018_1475,dipesh tripathi,901,energy
+1185,KUCAT_2018_1476,sushil banstola,622,auto
+1186,KUCAT_2018_1477,shashwat sharma,776,ce
+1187,KUCAT_2018_1478,dipesh kunwar,1268,ce
+1188,KUCAT_2018_1479,shreya thapa,539,arch
+1189,KUCAT_2018_1481,prashant bhattarai,641,ce
+1190,KUCAT_2018_1482,pratikshya prasai,540,bio
+1191,KUCAT_2018_1484,rohit khanal,636,ce
+1192,KUCAT_2018_1485,manish bhatta,774,ce
+1193,KUCAT_2018_1487,damodar sanjel,619,civil
+1194,KUCAT_2018_1488,diwas pandey,655,civil
+1195,KUCAT_2018_1489,binod shrestha,583,civil
+1196,KUCAT_2018_1493,puskar chhetri,949,auto
+1197,KUCAT_2018_1495,anush poudel,730,cs
+1198,KUCAT_2018_1498,sarika shrestha,796,civil
+1199,KUCAT_2018_1499,aarati bhandari,876,pharma
+1200,KUCAT_2018_1500,pratik subedi,1094,civil
+1201,KUCAT_2018_1502,bishal bishwamani2(see endnotes),655,civil
+1202,KUCAT_2018_1503,balram kapar,608,civil
+1203,KUCAT_2018_1504,nitish sah,601,civil
+1204,KUCAT_2018_1507,dikshant upadhyay,688,civil
+1205,KUCAT_2018_1508,uttam mahata,861,design
+1206,KUCAT_2018_1512,ushan shrestha,674,arch
+1207,KUCAT_2018_1513,bikash bhandari,884,auto
+1208,KUCAT_2018_1514,darmendra paswan,684,civil
+1209,KUCAT_2018_1515,samridhi sharma,569,arch
+1210,KUCAT_2018_1517,bijaya khadka,549,bio
+1211,KUCAT_2018_1518,pooja tiwari,674,civil
+1212,KUCAT_2018_1519,nirajan gyawali,770,power
+1213,KUCAT_2018_1520,rashmi dhungana,790,design
+1214,KUCAT_2018_1521,siddhant raj khand,882,auto
+1215,KUCAT_2018_1523,nirjala tandukar,702,arch
+1216,KUCAT_2018_1524,sushant banjade,577,communication
+1217,KUCAT_2018_1525,amrit gaire,787,civil
+1218,KUCAT_2018_1526,roshan kumar yadav,853,ce
+1219,KUCAT_2018_1528,sandip jaiswal,946,civil
+1220,KUCAT_2018_1529,sandip kunwar,545,ce
+1221,KUCAT_2018_1530,pappu jaiswal,750,geo
+1222,KUCAT_2018_1531,binayak gaire,671,auto
+1223,KUCAT_2018_1532,unesh kushwaha,579,ce
+1224,KUCAT_2018_1533,karishma awasthi,565,geo
+1225,KUCAT_2018_1534,bipin karki,786,auto
+1226,KUCAT_2018_1536,md muntazir aalam,912,ce
+1227,KUCAT_2018_1537,sumin kumar chaudhary,628,ce
+1228,KUCAT_2018_1538,biswash sapkota,712,civil
+1229,KUCAT_2018_1540,sunil ranabhat,690,bio
+1230,KUCAT_2018_1541,alisha dhakal,606,auto
+1231,KUCAT_2018_1542,anurag timilsina,693,ce
+1232,KUCAT_2018_1543,sisham luitel,615,pharma
+1233,KUCAT_2018_1544,bicky sah2(see endnotes),677,ce
+1234,KUCAT_2018_1545,nischal kayastha,676,bio
+1235,KUCAT_2018_1546,dinesh tamang,822,civil
+1236,KUCAT_2018_1547,aaswan tamang,893,civil
+1237,KUCAT_2018_1548,grishan pradhan,707,ce
+1238,KUCAT_2018_1549,reshmi raj khadka,758,civil
+1239,KUCAT_2018_1550,sulav adhikari,568,ce
+1240,KUCAT_2018_1551,prashant neupane,894,ce
+1241,KUCAT_2018_1552,isha valandyo,713,ce
+1242,KUCAT_2018_1553,neha shrestha,587,ce
+1243,KUCAT_2018_1555,sandesh regmi,570,civil
+1244,KUCAT_2018_1556,prabeshika khanal,688,geo
+1245,KUCAT_2018_1557,gaurav rizal,821,civil
+1246,KUCAT_2018_1558,surya narayan yadav,690,auto
+1247,KUCAT_2018_1561,jagrit prasad bhattarai,595,pharma
+1248,KUCAT_2018_1562,manish purbey,692,civil
+1249,KUCAT_2018_1563,sumit kumar sah,785,ce
+1250,KUCAT_2018_1564,prajwal gautam,838,design
+1251,KUCAT_2018_1565,sudip pathak,967,civil
+1252,KUCAT_2018_1566,sagar uprety,881,cs
+1253,KUCAT_2018_1567,shistata subedi,711,ce
+1254,KUCAT_2018_1568,kushal shrestha,1030,ce
+1255,KUCAT_2018_1569,bigyan niroula,944,civil
+1256,KUCAT_2018_1570,kritika bhattarai,568,arch
+1257,KUCAT_2018_1571,kritisha aryal,633,civil
+1258,KUCAT_2018_1574,rupak khadka,1031,civil
+1259,KUCAT_2018_1576,rohit tiwari,996,civil
+1260,KUCAT_2018_1577,jeewan chaudhary,698,civil
+1261,KUCAT_2018_1578,niranjan yadav,742,civil
+1262,KUCAT_2018_1579,pradesh nepal,797,civil
+1263,KUCAT_2018_1580,pratiksha khadka,737,civil
+1264,KUCAT_2018_1581,sameep yogi,666,ce
+1265,KUCAT_2018_1582,keshab dhami,983,civil
+1266,KUCAT_2018_1583,bimal sharma adhikari,656,civil
+1267,KUCAT_2018_1587,shital pun magar,808,arch
+1268,KUCAT_2018_1588,archana pal,627,pharma
+1269,KUCAT_2018_1589,nisha adhikari,597,ce
+1270,KUCAT_2018_1590,dibyata khatiwada,579,pharma
+1271,KUCAT_2018_1591,shuvechchha thing,532,pharma
+1272,KUCAT_2018_1592,shubhechchha bashyal2(see endnotes),668,geo
+1273,KUCAT_2018_1593,ritu roshan chaudhary,709,civil
+1274,KUCAT_2018_1594,kabita malmul,691,pharma
+1275,KUCAT_2018_1595,yash pandey,921,ce
+1276,KUCAT_2018_1596,nischal dahal,575,civil
+1277,KUCAT_2018_1597,sibani kumari sah,958,pharma
+1278,KUCAT_2018_1599,pravin shah,672,pharma
+1279,KUCAT_2018_1600,manish sapkota,854,auto
+1280,KUCAT_2018_1602,bigyan bhatta,784,civil
+1281,KUCAT_2018_1603,sujan paudyal,801,hydro
+1282,KUCAT_2018_1604,indra bahadur godar,963,civil
+1283,KUCAT_2018_1605,image kafle,599,ce
+1284,KUCAT_2018_1606,myaksh bc,686,auto
+1285,KUCAT_2018_1607,rahul kumar das,767,civil
+1286,KUCAT_2018_1608,bivek chaudhary,578,power
+1287,KUCAT_2018_1609,bipin sharma pangeni,883,bio
+1288,KUCAT_2018_1610,monika upadhayaya,780,ce
+1289,KUCAT_2018_1611,saroj paudyal,881,ce
+1290,KUCAT_2018_1612,aman chhetri,774,civil
+1291,KUCAT_2018_1615,sushan raut,874,civil
+1292,KUCAT_2018_1616,shubham neupane,656,ce
+1293,KUCAT_2018_1618,pratik roshan sah,836,ce
+1294,KUCAT_2018_1620,kendrit poudel,830,civil
+1295,KUCAT_2018_1622,madhukar das,661,civil
+1296,KUCAT_2018_1623,sital nagarkoti,1157,ce
+1297,KUCAT_2018_1624,sandip shrestha,539,pharma
+1298,KUCAT_2018_1625,swostika dhakal,768,civil
+1299,KUCAT_2018_1626,anish bhetuwal,881,ce
+1300,KUCAT_2018_1629,arjun prasad pandit,975,civil
+1301,KUCAT_2018_1630,ananda thakur,1029,ce
+1302,KUCAT_2018_1634,biraj adhikari,968,ce
+1303,KUCAT_2018_1636,shikshya shiwakoti,880,ce
+1304,KUCAT_2018_1637,sangam gautam,630,ce
+1305,KUCAT_2018_1638,krishna prasad khanal,964,civil
+1306,KUCAT_2018_1639,abindra thapa,656,civil
+1307,KUCAT_2018_1640,pradeep banjade,589,cs
+1308,KUCAT_2018_1641,anuska sapkota,919,arch
+1309,KUCAT_2018_1642,arbind kumar mehta,949,cs
+1310,KUCAT_2018_1645,sulav prasad neupane,722,civil
+1311,KUCAT_2018_1646,raman lamichhane,588,cs
+1312,KUCAT_2018_1649,prasid bhattarai,802,auto
+1313,KUCAT_2018_1650,manjil sitoula,781,auto
+1314,KUCAT_2018_1651,samiksha adhikari,719,pharma
+1315,KUCAT_2018_1652,aayusha koirala,761,arch
+1316,KUCAT_2018_1654,yukta bansal,658,ce
+1317,KUCAT_2018_1656,agrim poudel,743,civil
+1318,KUCAT_2018_1658,rajin maharjan,793,ce
+1319,KUCAT_2018_1659,bishab dahal,849,design
+1320,KUCAT_2018_1660,gagan maharjan,551,civil
+1321,KUCAT_2018_1661,milan maharjan,727,ce
+1322,KUCAT_2018_1663,abhishek thapa,543,ce
+1323,KUCAT_2018_1664,bivek raskoti,762,computational
+1324,KUCAT_2018_1665,uddeshya wagle,564,geo
+1325,KUCAT_2018_1666,ankita paudel,690,arch
+1326,KUCAT_2018_1667,adarsh bimali,608,civil
+1327,KUCAT_2018_1669,sahanshil paudel,539,civil
+1328,KUCAT_2018_1672,yubraj giri,674,civil
+1329,KUCAT_2018_1673,srinka malla,676,pharma
+1330,KUCAT_2018_1674,gaurab shrestha,618,civil
+1331,KUCAT_2018_1675,rohit bhusal,841,ce
+1332,KUCAT_2018_1676,aman dong tamang,647,civil
+1333,KUCAT_2018_1677,sishir gaire,542,ce
+1334,KUCAT_2018_1678,avisesh bhandari,768,communication
+1335,KUCAT_2018_1679,kushal manandhar,1079,ce
+1336,KUCAT_2018_1681,anuj acharya,605,ce
+1337,KUCAT_2018_1682,prayash thapa2(see endnotes),902,ce
+1338,KUCAT_2018_1683,sudan baral,940,design
+1339,KUCAT_2018_1684,samiksha dhakal,659,ce
+1340,KUCAT_2018_1685,bishal dhungana,724,civil
+1341,KUCAT_2018_1686,aarya nepal,664,ce
+1342,KUCAT_2018_1687,supriya adhikari,729,ce
+1343,KUCAT_2018_1688,jeevan khatri,749,civil
+1344,KUCAT_2018_1689,ranjit shrestha,821,pharma
+1345,KUCAT_2018_1690,deepa prajapati,617,bio
+1346,KUCAT_2018_1691,subham subedi,549,ce
+1347,KUCAT_2018_1692,prashant bhandari,554,design
+1348,KUCAT_2018_1693,dharma chandra poudel,787,civil
+1349,KUCAT_2018_1694,apratim prajapati,579,bio
+1350,KUCAT_2018_1695,sundar khadka,692,civil
+1351,KUCAT_2018_1696,sanju kumar shrestha,734,ce
+1352,KUCAT_2018_1697,sonika acharya,777,ce
+1353,KUCAT_2018_1698,sankalpa adhikari,704,civil
+1354,KUCAT_2018_1700,bishwo raj thapa,672,ce
+1355,KUCAT_2018_1701,sujan bhattarai,744,auto
+1356,KUCAT_2018_1702,salina koirala,1029,ce
+1357,KUCAT_2018_1703,pawan kc2(see endnotes),757,civil
+1358,KUCAT_2018_1704,ambika dangal,635,enve
+1359,KUCAT_2018_1705,himal neupane,723,civil
+1360,KUCAT_2018_1707,amod mandal,698,ce
+1361,KUCAT_2018_1708,afroj alam,623,design
+1362,KUCAT_2018_1709,nimee tiwari,972,civil
+1363,KUCAT_2018_1710,prakriti baral,621,civil
+1364,KUCAT_2018_1711,sudeep aryal,818,civil
+1365,KUCAT_2018_1712,samir neupane,785,power
+1366,KUCAT_2018_1714,abhishek uprety,1017,energy
+1367,KUCAT_2018_1715,sunny kumar yadav,658,civil
+1368,KUCAT_2018_1716,dipesh shrestha,661,ce
+1369,KUCAT_2018_1717,nitesh pokharel2(see endnotes),614,civil
+1370,KUCAT_2018_1719,nischal lamichhane,786,civil
+1371,KUCAT_2018_1720,nabin parajuli,644,cs
+1372,KUCAT_2018_1721,monsoon sharma,770,ce
+1373,KUCAT_2018_1723,roman shilpakar,726,ce
+1374,KUCAT_2018_1724,abinash pachhai,839,civil
+1375,KUCAT_2018_1725,silsila - poudel,560,civil
+1376,KUCAT_2018_1727,sujan sharma,690,power
+1377,KUCAT_2018_1728,sandeep marasini,964,ce
+1378,KUCAT_2018_1730,sakar paudel,915,ce
+1379,KUCAT_2018_1731,bishnu paudel,817,civil
+1380,KUCAT_2018_1732,aarati jayaswal,766,communication
+1381,KUCAT_2018_1733,bibek khanal,1133,civil
+1382,KUCAT_2018_1734,samir alam,830,communication
+1383,KUCAT_2018_1735,sushant aryal,868,civil
+1384,KUCAT_2018_1736,sony acharya,614,pharma
+1385,KUCAT_2018_1738,shubhakar jha,611,ce
+1386,KUCAT_2018_1741,nishat chaudhary,683,communication
+1387,KUCAT_2018_1742,sunil kumar sah,618,pharma
+1388,KUCAT_2018_1743,om prakash tharu,891,ce
+1389,KUCAT_2018_1744,ranish devkota,910,communication
+1390,KUCAT_2018_1745,pooja raya,650,pharma
+1391,KUCAT_2018_1746,hritik chapagain,719,design
+1392,KUCAT_2018_1747,nagendra chaudhary,696,ce
+1393,KUCAT_2018_1748,sagar kandel,731,auto
+1394,KUCAT_2018_1750,diwakar khadka,834,power
+1395,KUCAT_2018_1753,deepak rana magar,796,power
+1396,KUCAT_2018_1754,durga bahadur karki,614,civil
+1397,KUCAT_2018_1756,preety neupane,553,arch
+1398,KUCAT_2018_1757,amrit kumar yadav,644,civil
+1399,KUCAT_2018_1758,saharsha ojha2(see endnotes),581,ce
+1400,KUCAT_2018_1759,kehsab shahi,697,civil
+1401,KUCAT_2018_1760,roman shrestha,813,communication
+1402,KUCAT_2018_1761,neelam bohara,715,civil
+1403,KUCAT_2018_1762,pawan kumar thapa,896,civil
+1404,KUCAT_2018_1763,suman tamang,729,civil
+1405,KUCAT_2018_1764,shraddha khattri,661,ce
+1406,KUCAT_2018_1765,prashant duwadee2(see endnotes),604,civil
+1407,KUCAT_2018_1766,neha dahal,1006,civil
+1408,KUCAT_2018_1767,nabin kumar mukhiya,615,power
+1409,KUCAT_2018_1768,asim gyawali,747,ce
+1410,KUCAT_2018_1769,archana subedi,688,civil
+1411,KUCAT_2018_1770,ashim kharel,673,civil
+1412,KUCAT_2018_1771,sanket dhungel,652,ce
+1413,KUCAT_2018_1772,prem bahadur khadka,624,ce
+1414,KUCAT_2018_1773,kshitij luitel,750,civil
+1415,KUCAT_2018_1775,anish upreti,948,chem
+1416,KUCAT_2018_1776,niraj shrestha,873,civil
+1417,KUCAT_2018_1777,suman dahal,938,civil
+1418,KUCAT_2018_1778,sanjeev kumar yadav,545,civil
+1419,KUCAT_2018_1779,sanket khatiwada,1093,ce
+1420,KUCAT_2018_1782,manohar dahal,1042,ce
+1421,KUCAT_2018_1783,shridhwoj gyawali,869,civil
+1422,KUCAT_2018_1784,sharad ghmimre,850,auto
+1423,KUCAT_2018_1786,sujata rai,629,civil
+1424,KUCAT_2018_1787,sandesh pun,743,civil
+1425,KUCAT_2018_1788,pragun shrestha,921,civil
+1426,KUCAT_2018_1790,subodh pokhrel,652,communication
+1427,KUCAT_2018_1791,smriti bhattarai,699,arch
+1428,KUCAT_2018_1792,niranjan adhikari,953,ce
+1429,KUCAT_2018_1793,priyanka shrestha,885,arch
+1430,KUCAT_2018_1794,ramdular thakur,817,civil
+1431,KUCAT_2018_1795,bhawana basnet,640,civil
+1432,KUCAT_2018_1796,amit sedhain,987,civil
+1433,KUCAT_2018_1799,gaurav aryal,1015,civil
+1434,KUCAT_2018_1800,pukar singh basnet,961,civil
+1435,KUCAT_2018_1801,deepa poudel,661,civil
+1436,KUCAT_2018_1802,sujan ghimire,1007,civil
+1437,KUCAT_2018_1804,sandesh karki,702,ce
+1438,KUCAT_2018_1805,sairush tamang,813,ce
+1439,KUCAT_2018_1806,kanchan neupane,761,ce
+1440,KUCAT_2018_1807,satyam khatiwada,924,ce
+1441,KUCAT_2018_1809,shulav thapa,596,civil
+1442,KUCAT_2018_1810,mukesh shah teli,536,pharma
+1443,KUCAT_2018_1811,ronak singh karki,669,ce
+1444,KUCAT_2018_1812,unish timsina,682,civil
+1445,KUCAT_2018_1813,sanjeewani poudel,915,civil
+1446,KUCAT_2018_1814,ramesh rana,533,pharma
+1447,KUCAT_2018_1815,siddhartha kandel,933,ce
+1448,KUCAT_2018_1817,bhijan nyaupane,712,geo
+1449,KUCAT_2018_1818,manish chaudhary,555,geo
+1450,KUCAT_2018_1819,susmita shrestha,822,ce
+1451,KUCAT_2018_1820,nischal pandey,554,civil
+1452,KUCAT_2018_1821,sulav neupane,926,communication
+1453,KUCAT_2018_1823,ashma devkota,892,ce
+1454,KUCAT_2018_1824,subarna subedi,1072,ce
+1455,KUCAT_2018_1825,manish kumar yadav,676,ce
+1456,KUCAT_2018_1826,rustam pradhananga,898,civil
+1457,KUCAT_2018_1827,sinam adhikari,848,civil
+1458,KUCAT_2018_1828,prayash dahal,825,energy
+1459,KUCAT_2018_1829,sabin lamichhane,589,ce
+1460,KUCAT_2018_1830,richa kafle,818,arch
+1461,KUCAT_2018_1831,archit manandhar,567,ce
+1462,KUCAT_2018_1832,suman bishwokarma,787,energy
+1463,KUCAT_2018_1833,bickey kumar das,784,civil
+1464,KUCAT_2018_1836,bibek raj adhikari,639,civil
+1465,KUCAT_2018_1837,roshan kandel,861,design
+1466,KUCAT_2018_1838,nikil gautam,1092,auto
+1467,KUCAT_2018_1839,taufiq khan,799,pharma
+1468,KUCAT_2018_1840,arjun shrestha,1001,civil
+1469,KUCAT_2018_1842,suven pandey,1029,ce
+1470,KUCAT_2018_1843,sudip adhikari,851,ce
+1471,KUCAT_2018_1844,bipin puri,956,ce
+1472,KUCAT_2018_1845,ankit shrestha,615,civil
+1473,KUCAT_2018_1846,nitesh prasad bhatta,599,arch
+1474,KUCAT_2018_1847,anup chaudhary,612,ce
+1475,KUCAT_2018_1848,jenish raj regmi,560,civil
+1476,KUCAT_2018_1849,anil kumar yadav,937,communication
+1477,KUCAT_2018_1850,sakar k.c.,752,ce
+1478,KUCAT_2018_1851,shreeya khanal,652,civil
+1479,KUCAT_2018_1852,binaya bhusal,724,civil
+1480,KUCAT_2018_1853,roshan karki,819,ce
+1481,KUCAT_2018_1855,aman chandra jha,906,civil
+1482,KUCAT_2018_1856,anil kumar mahato,741,civil
+1483,KUCAT_2018_1857,jitendra yadav2(see endnotes),654,civil
+1484,KUCAT_2018_1858,avishek kumar singh,553,civil
+1485,KUCAT_2018_1861,ganesh gahatraj,784,civil
+1486,KUCAT_2018_1862,sarthak gautam,1045,civil
+1487,KUCAT_2018_1864,roshan thapa,880,ce
+1488,KUCAT_2018_1865,kapil neupane,778,arch
+1489,KUCAT_2018_1866,sujan nepal,955,auto
+1490,KUCAT_2018_1867,shreeya khanal,923,ce
+1491,KUCAT_2018_1869,suruchi lamsal,581,ce
+1492,KUCAT_2018_1870,ina niroula,719,bio
+1493,KUCAT_2018_1871,rojin sedhai,787,civil
+1494,KUCAT_2018_1874,shuvam shah,573,ce
+1495,KUCAT_2018_1875,santosh upreti,827,ce
+1496,KUCAT_2018_1876,heaven shrestha,529,ce
+1497,KUCAT_2018_1877,nitish karn,1002,bio
+1498,KUCAT_2018_1879,beruit ban,833,ce
+1499,KUCAT_2018_1881,soumya bhatta,857,communication
+1500,KUCAT_2018_1882,thaneshowar joshi2(see endnotes),628,geo
+1501,KUCAT_2018_1883,alisha shah,639,civil
+1502,KUCAT_2018_1884,gitika jaiswal,551,pharma
+1503,KUCAT_2018_1885,ichha poudel,822,arch
+1504,KUCAT_2018_1886,jenny tamang waiba,742,ce
+1505,KUCAT_2018_1887,shreeja rajbahak,1085,civil
+1506,KUCAT_2018_1888,bishwash gurung,1134,ce
+1507,KUCAT_2018_1892,sushovan khanal,579,cs
+1508,KUCAT_2018_1893,sajag silwal,973,ce
+1509,KUCAT_2018_1895,yamraj oli,749,design
+1510,KUCAT_2018_1896,ganesh pandey,693,civil
+1511,KUCAT_2018_1898,deepesh kayastha,714,ce
+1512,KUCAT_2018_1899,drishya nepal,655,ce
+1513,KUCAT_2018_1901,shital upadhea,1311,civil
+1514,KUCAT_2018_1902,tanbir ahmad,638,civil
+1515,KUCAT_2018_1906,sanish shrestha,681,ce
+1516,KUCAT_2018_1907,bapis k.c.,611,civil
+1517,KUCAT_2018_1908,amit pokharel,635,ce
+1518,KUCAT_2018_1909,mohit tinkari2(see endnotes),605,civil
+1519,KUCAT_2018_1910,ashok ghimire,769,ce
+1520,KUCAT_2018_1911,niraj thapa,672,civil
+1521,KUCAT_2018_1912,bivisha khadka,753,bio
+1522,KUCAT_2018_1913,pranav shrestha,792,civil
+1523,KUCAT_2018_1914,aaditya kumar singh,690,pharma
+1524,KUCAT_2018_1915,kiran shrestha,649,civil
+1525,KUCAT_2018_1916,shishir acharya,932,auto
+1526,KUCAT_2018_1917,deependra kumar gupta,1054,ce
+1527,KUCAT_2018_1918,naresh bhatta,1095,civil
+1528,KUCAT_2018_1919,manish karak,578,civil
+1529,KUCAT_2018_1920,sandip subedi,809,civil
+1530,KUCAT_2018_1921,aradhya pratap adhikari,669,arch
+1531,KUCAT_2018_1922,narayan prasad aryal,588,civil
+1532,KUCAT_2018_1923,ayush devkota,952,civil
+1533,KUCAT_2018_1924,sadikshya poudel,785,ce
+1534,KUCAT_2018_1925,sajan baryat,833,civil
+1535,KUCAT_2018_1926,sadhana chhetri,635,pharma
+1536,KUCAT_2018_1927,anand jha,633,ce
+1537,KUCAT_2018_1928,bhaskar mishra,926,power
+1538,KUCAT_2018_1929,nischal bhusal,937,design
+1539,KUCAT_2018_1931,sujan aryal,847,civil
+1540,KUCAT_2018_1933,mridul bhattarai,849,civil
+1541,KUCAT_2018_1935,anjali kumari gupta,736,pharma
+1542,KUCAT_2018_1936,rakesh kumar sah,880,civil
+1543,KUCAT_2018_1937,aayush majgainya,677,auto
+1544,KUCAT_2018_1938,buddhi raj mishra,1017,civil
+1545,KUCAT_2018_1939,prabin bhandari,592,civil
+1546,KUCAT_2018_1940,roshit raj paudel,861,ce
+1547,KUCAT_2018_1941,ritik rimal,609,hydro
+1548,KUCAT_2018_1942,shreeyub ghimire,665,ce
+1549,KUCAT_2018_1944,sneha kayastha,552,envs
+1550,KUCAT_2018_1947,bibek dhakal,675,civil
+1551,KUCAT_2018_1948,season shakya,754,arch
+1552,KUCAT_2018_1949,sandip rizal,584,ce
+1553,KUCAT_2018_1950,pawan paudel,611,auto
+1554,KUCAT_2018_1951,aavash bhatta,540,ce
+1555,KUCAT_2018_1952,yubik bartaula,596,ce
+1556,KUCAT_2018_1954,chandrakant yadav,872,civil
+1557,KUCAT_2018_1957,roshan raj shah,662,power
+1558,KUCAT_2018_1958,anil kumar mahato,633,ce
+1559,KUCAT_2018_1959,sujita shakya,753,civil
+1560,KUCAT_2018_1960,sachidanand sah,975,power
+1561,KUCAT_2018_1962,sunita dahal,826,ce
+1562,KUCAT_2018_1963,rishav rauniyar,802,civil
+1563,KUCAT_2018_1965,kushal lal shrestha,628,ce
+1564,KUCAT_2018_1966,aakash paneru,724,chem
+1565,KUCAT_2018_1967,ujjwal shah,664,civil
+1566,KUCAT_2018_1969,prabesh pokhrel,672,cs
+1567,KUCAT_2018_1970,abhishek thapa,685,ce
+1568,KUCAT_2018_1971,aakash sapkota,873,ce
+1569,KUCAT_2018_1974,janaki kumari paudel,660,ce
+1570,KUCAT_2018_1975,bijon chand,539,civil
+1571,KUCAT_2018_1976,sangam limbu,903,civil
+1572,KUCAT_2018_1978,niketan paudel,760,civil
+1573,KUCAT_2018_1979,nischal baidhya,612,civil
+1574,KUCAT_2018_1980,pritisha shrestha,692,arch
+1575,KUCAT_2018_1981,angel prasai,584,civil
+1576,KUCAT_2018_1982,deepak bhattarai,721,civil
+1577,KUCAT_2018_1984,nisha sharma,1191,civil
+1578,KUCAT_2018_1985,ashwin kharel,733,civil
+1579,KUCAT_2018_1987,gopal subedi,639,civil
+1580,KUCAT_2018_1989,nesan dahal2(see endnotes),567,ce
+1581,KUCAT_2018_1993,sachin shrestha,548,ce
+1582,KUCAT_2018_1994,mehul poudyal,599,ce
+1583,KUCAT_2018_1996,subham subedi,824,geo
+1584,KUCAT_2018_1997,anusha dhakal,959,civil
+1585,KUCAT_2018_1998,priya shrestha,795,civil
+1586,KUCAT_2018_2000,dipesh kumar sah,545,communication
+1587,KUCAT_2018_2002,sachin karki,779,cs
+1588,KUCAT_2018_2003,sudarshan gautam,699,ce
+1589,KUCAT_2018_2004,sagar thapa,885,communication
+1590,KUCAT_2018_2006,amit tamang,895,auto
+1591,KUCAT_2018_2007,neshana shrestha,766,arch
+1592,KUCAT_2018_2008,ashok parajuli,794,civil
+1593,KUCAT_2018_2009,rahul shikhrakar,630,civil
+1594,KUCAT_2018_2012,riwash neupane,613,ce
+1595,KUCAT_2018_2013,bibek sharma,883,civil
+1596,KUCAT_2018_2014,pratibha sharma,651,civil
+1597,KUCAT_2018_2015,amita shrestha,987,ce
+1598,KUCAT_2018_2016,sandhya phuyal,650,civil
+1599,KUCAT_2018_2017,roshan bhatt,669,civil
+1600,KUCAT_2018_2018,prabin lamsal,976,ce
+1601,KUCAT_2018_2019,ashim raj shrestha,608,energy
+1602,KUCAT_2018_2020,ishar maharjan,1006,ce
+1603,KUCAT_2018_2021,ashmita adhikari,679,civil
+1604,KUCAT_2018_2022,anu gautam,554,civil
+1605,KUCAT_2018_2024,prasanna ranjitkar,819,civil
+1606,KUCAT_2018_2025,nischal thapa,702,design
+1607,KUCAT_2018_2026,saurav raj khanal,722,civil
+1608,KUCAT_2018_2028,nitish neupane,657,auto
+1609,KUCAT_2018_2029,anup jung khadka,596,civil
+1610,KUCAT_2018_2030,jeenta maharjan,703,pharma
+1611,KUCAT_2018_2031,ujjwal dhakal,550,design
+1612,KUCAT_2018_2032,indra bahadur dhami,705,civil
+1613,KUCAT_2018_2034,neha verma,786,ce
+1614,KUCAT_2018_2035,shiva raj bhatt,683,cs
+1615,KUCAT_2018_2037,uttam mahato,825,computational
+1616,KUCAT_2018_2038,saswat gautam,1011,chem
+1617,KUCAT_2018_2039,ashlesha muktan,783,ce
+1618,KUCAT_2018_2040,niraj kumar shah,551,civil
+1619,KUCAT_2018_2041,kapil ojha,602,civil
+1620,KUCAT_2018_2042,sunny kanaujiya,649,ce
+1621,KUCAT_2018_2044,prapti koirala,553,ce
+1622,KUCAT_2018_2045,sobit sapkota,999,auto
+1623,KUCAT_2018_2046,aashutosh agrahari,1082,civil
+1624,KUCAT_2018_2048,manish kushwaha,616,civil
+1625,KUCAT_2018_2049,suraj b.k.,658,ce
+1626,KUCAT_2018_2051,winner pathak,733,ce
+1627,KUCAT_2018_2054,pujan bahadur neupane,569,civil
+1628,KUCAT_2018_2055,anusha kc,692,arch
+1629,KUCAT_2018_2056,rachana salami magar,602,pharma
+1630,KUCAT_2018_2057,jyoti jha,599,bio
+1631,KUCAT_2018_2058,suman yadav,569,civil
+1632,KUCAT_2018_2059,siddhartha malla,803,design
+1633,KUCAT_2018_2060,devendra upadhyaya risal,641,chem
+1634,KUCAT_2018_2062,sagar hamal,625,civil
+1635,KUCAT_2018_2063,ridam paudyal,829,civil
+1636,KUCAT_2018_2065,dinesh subedi,807,civil
+1637,KUCAT_2018_2066,aarati kunwar,809,design
+1638,KUCAT_2018_2067,kabita khatri,585,civil
+1639,KUCAT_2018_2068,anushreeya baskota,677,pharma
+1640,KUCAT_2018_2071,niraj shrestha,621,hydro
+1641,KUCAT_2018_2072,anil thakur,774,civil
+1642,KUCAT_2018_2073,nitesh kumar yadav,572,civil
+1643,KUCAT_2018_2074,pramod kumar sah,980,civil
+1644,KUCAT_2018_2075,umesh karak,647,civil
+1645,KUCAT_2018_2076,suzzine amgain2(see endnotes),762,civil
+1646,KUCAT_2018_2077,shekhar sah,644,civil
+1647,KUCAT_2018_2078,anupam gautam2(see endnotes),591,ce
+1648,KUCAT_2018_2080,dilip sapkota,696,ce
+1649,KUCAT_2018_2081,ashok raj sapkota,536,civil
+1650,KUCAT_2018_2082,sujan sigdel,723,civil
+1651,KUCAT_2018_2083,karishma neupane,624,ce
+1652,KUCAT_2018_2085,aman bajracharya,758,civil
+1653,KUCAT_2018_2086,sajja panta,537,communication
+1654,KUCAT_2018_2087,shanti tamang,571,pharma
+1655,KUCAT_2018_2088,shiv prakash yadav,544,pharma
+1656,KUCAT_2018_2089,kabiraj bhandari,765,ce
+1657,KUCAT_2018_2090,abish lamsal,682,hydro
+1658,KUCAT_2018_2091,rohan prasai,678,civil
+1659,KUCAT_2018_2092,kshitiz pyakurel,773,civil
+1660,KUCAT_2018_2093,santosh gajurel,599,civil
+1661,KUCAT_2018_2094,newson ghimire,725,arch
+1662,KUCAT_2018_2095,prasant sah,931,geo
+1663,KUCAT_2018_2096,nitesh gajurel,761,civil
+1664,KUCAT_2018_2098,sandip sah,627,civil
+1665,KUCAT_2018_2099,nabina chaulagain,747,civil
+1666,KUCAT_2018_2100,mukesh kumar mehta,743,civil
+1667,KUCAT_2018_2103,prayash bhetwal,633,hydro
+1668,KUCAT_2018_2104,lelin adhikari,713,design
+1669,KUCAT_2018_2105,manish kumar shah,746,civil
+1670,KUCAT_2018_2106,saroj prasad mainali,940,ce
+1671,KUCAT_2018_2107,samir lamsal,894,power
+1672,KUCAT_2018_2108,karan saud,753,hydro
+1673,KUCAT_2018_2109,saurav sapkota,599,power
+1674,KUCAT_2018_2111,sumanta paudel,551,ce
+1675,KUCAT_2018_2112,adithya pokharel,1070,ce
+1676,KUCAT_2018_2114,manoj kumar bhagat,713,auto
+1677,KUCAT_2018_2115,bhupendra dulal,893,civil
+1678,KUCAT_2018_2116,nischal aryal,1023,ce
+1679,KUCAT_2018_2117,nishu kumari sah,543,civil
+1680,KUCAT_2018_2118,niraj kumar chaudhary,533,civil
+1681,KUCAT_2018_2119,sameer jung gupta,601,civil
+1682,KUCAT_2018_2120,nabanita karmacharya,943,ce
+1683,KUCAT_2018_2121,biplab pokhrel,540,civil
+1684,KUCAT_2018_2123,arpan koirala,827,ce
+1685,KUCAT_2018_2124,chandra shekhar das,657,civil
+1686,KUCAT_2018_2125,amrit kumar yadav,618,design
+1687,KUCAT_2018_2126,suchit kumar mahatman,660,ce
+1688,KUCAT_2018_2129,navin yadav,798,civil
+1689,KUCAT_2018_2131,sushant kumar,837,design
+1690,KUCAT_2018_2132,bikky thakur,794,civil
+1691,KUCAT_2018_2133,sweta khanal,679,communication
+1692,KUCAT_2018_2134,deepak kumar sah,821,civil
+1693,KUCAT_2018_2136,urusha dhungana,696,civil
+1694,KUCAT_2018_2137,bishwas panta,877,civil
+1695,KUCAT_2018_2138,prashamsa bakhrel,618,ce
+1696,KUCAT_2018_2139,roshan khadka,1087,civil
+1697,KUCAT_2018_2140,ashish bhattarai2(see endnotes),814,auto
+1698,KUCAT_2018_2141,bipin poudel,562,enve
+1699,KUCAT_2018_2143,arun kumar yadav,602,pharma
+1700,KUCAT_2018_2144,prashant paudyal sharma,1032,ce
+1701,KUCAT_2018_2145,kritika dangol,596,ce
+1702,KUCAT_2018_2146,chandan thakur,973,power
+1703,KUCAT_2018_2148,upendra sharma lohar,1069,bio
+1704,KUCAT_2018_2149,kriti kafle,661,civil
+1705,KUCAT_2018_2150,ram prasad sapkota,641,civil
+1706,KUCAT_2018_2154,nihant ghimire,840,communication
+1707,KUCAT_2018_2155,sabina dhakal,644,civil
+1708,KUCAT_2018_2156,bibek kumar sah,589,design
+1709,KUCAT_2018_2158,arjun tharu,528,civil
+1710,KUCAT_2018_2161,kamal budhathoki,693,civil
+1711,KUCAT_2018_2162,aashutosh parajuli,708,ce
+1712,KUCAT_2018_2163,rohan karki,746,ce
+1713,KUCAT_2018_2165,pracheen sharma,768,ce
+1714,KUCAT_2018_2166,rohit gyawali,644,civil
+1715,KUCAT_2018_2167,shrutika bhandari,582,arch
+1716,KUCAT_2018_2168,rojib bhattarai,1026,civil
+1717,KUCAT_2018_2169,diwas shrestha,809,cs
+1718,KUCAT_2018_2170,bibek kumar sah,871,civil
+1719,KUCAT_2018_2172,raju mahato,584,ce
+1720,KUCAT_2018_2174,kumar bhandari,545,civil
+1721,KUCAT_2018_2175,ashok pandit,544,power
+1722,KUCAT_2018_2177,prashant chaudhary,668,communication
+1723,KUCAT_2018_2179,sarishma acharya,647,pharma
+1724,KUCAT_2018_2180,sebika nepal,626,arch
+1725,KUCAT_2018_2181,srishti thakur,606,civil
+1726,KUCAT_2018_2182,shila pakhrin,588,arch
+1727,KUCAT_2018_2183,nawaraj khadka,728,design
+1728,KUCAT_2018_2185,piyush gautam,832,civil
+1729,KUCAT_2018_2186,rachana prajapati,538,civil
+1730,KUCAT_2018_2187,sanjiwani jha,653,arch
+1731,KUCAT_2018_2188,tashi lamo,726,civil
+1732,KUCAT_2018_2189,birbhuvan kumar mandal,807,civil
+1733,KUCAT_2018_2190,sunil kumar sah,759,chem
+1734,KUCAT_2018_2191,suniti sainju,555,ce
+1735,KUCAT_2018_2192,shambhavi adhikari,854,ce
+1736,KUCAT_2018_2193,prajeeta gyawali,823,arch
+1737,KUCAT_2018_2194,krishna kumar sah,724,civil
+1738,KUCAT_2018_2196,arbin choudhary,763,civil
+1739,KUCAT_2018_2197,ashish thapa,922,civil
+1740,KUCAT_2018_2200,shekhar chaulagain,1039,civil
+1741,KUCAT_2018_2201,santosh rauniyar,564,pharma
+1742,KUCAT_2018_2203,kundan giri,594,ce
+1743,KUCAT_2018_2204,krishna b.c,627,pharma
+1744,KUCAT_2018_2205,sanjiv kumar thakur,539,power
+1745,KUCAT_2018_2206,ayush uprety,709,cs
+1746,KUCAT_2018_2207,balmiki kumar sah,810,civil
+1747,KUCAT_2018_2208,aakriti khadka,746,chem
+1748,KUCAT_2018_2209,barun kc,746,civil
+1749,KUCAT_2018_2210,samana khanal,626,civil
+1750,KUCAT_2018_2211,sakshi gorkhali,679,envs
+1751,KUCAT_2018_2212,prakriti khatiwada,969,civil
+1752,KUCAT_2018_2213,sanil bista,955,design
+1753,KUCAT_2018_2214,raju bishwakarma,785,civil
+1754,KUCAT_2018_2216,prashna shrestha,939,ce
+1755,KUCAT_2018_2217,rajan bhusal,577,pharma
+1756,KUCAT_2018_2218,ojaswi neupane,721,ce
+1757,KUCAT_2018_2219,manita shrestha,728,arch
+1758,KUCAT_2018_2220,ritu adhikari,587,civil
+1759,KUCAT_2018_2221,anita kafle,534,arch
+1760,KUCAT_2018_2223,ankit acharya,755,ce
+1761,KUCAT_2018_2224,susan mahatara,747,geo
+1762,KUCAT_2018_2225,santosh kumar yadav,604,geo
+1763,KUCAT_2018_2226,pranjal pokharel2(see endnotes),1245,ce
+1764,KUCAT_2018_2228,aditya jaishi,612,civil
+1765,KUCAT_2018_2229,sambeg shrestha,959,ce
+1766,KUCAT_2018_2230,shital raj deuja,777,geo
+1767,KUCAT_2018_2231,subash mainali,1195,communication
+1768,KUCAT_2018_2232,dhrubabar singh k.c,655,auto
+1769,KUCAT_2018_2233,nikita wagle,689,civil
+1770,KUCAT_2018_2234,aayam pradhan,550,pharma
+1771,KUCAT_2018_2235,yogesh pant,1088,ce
+1772,KUCAT_2018_2236,sailendra katwal,996,civil
+1773,KUCAT_2018_2237,rupika chaulagain,540,bio
+1774,KUCAT_2018_2238,anil thapa,682,civil
+1775,KUCAT_2018_2239,sameer jung subedi,932,ce
+1776,KUCAT_2018_2240,sadikshya dhakal,761,bio
+1777,KUCAT_2018_2241,sparsh sharma,627,arch
+1778,KUCAT_2018_2242,raman singh kathayat,692,ce
+1779,KUCAT_2018_2243,dipak dahal,773,civil
+1780,KUCAT_2018_2244,sagar sarki,746,energy
+1781,KUCAT_2018_2245,kaushal kumar chaudhary,529,civil
+1782,KUCAT_2018_2247,deep khadka,554,civil
+1783,KUCAT_2018_2248,pranima kansakar,1005,ce
+1784,KUCAT_2018_2249,nasib khulal,782,auto
+1785,KUCAT_2018_2251,jay prakash mandal,754,civil
+1786,KUCAT_2018_2252,nikil sharma,793,ce
+1787,KUCAT_2018_2253,shakshi shahi,690,civil
+1788,KUCAT_2018_2254,priya diwakar,544,civil
+1789,KUCAT_2018_2255,arun kumar chaudhary,791,civil
+1790,KUCAT_2018_2256,aashish bhatta,671,civil
+1791,KUCAT_2018_2257,siddhant subedi,800,civil
+1792,KUCAT_2018_2258,anil ghimire,710,envs
+1793,KUCAT_2018_2259,sanisha gharti pun,789,civil
+1794,KUCAT_2018_2260,alisha fago,822,ce
+1795,KUCAT_2018_2262,ajay thapa,612,civil
+1796,KUCAT_2018_2263,nischal adhikari,864,energy
+1797,KUCAT_2018_2264,sakar koirala,740,civil
+1798,KUCAT_2018_2268,samriddhi dahal,596,arch
+1799,KUCAT_2018_2269,sashank silwal,1168,cs
+1800,KUCAT_2018_2270,sushan kunwar,807,communication
+1801,KUCAT_2018_2271,avash luitel,644,civil
+1802,KUCAT_2018_2272,riwaj neupane,850,ce
+1803,KUCAT_2018_2273,bibash karki,748,civil
+1804,KUCAT_2018_2274,subek shah,955,civil
+1805,KUCAT_2018_2275,sameer khatri,877,civil
+1806,KUCAT_2018_2276,aadarsha bastola,789,ce
+1807,KUCAT_2018_2277,priyanka ray,922,civil
+1808,KUCAT_2018_2278,kalyan sendang,751,civil
+1809,KUCAT_2018_2279,sajag adhikari,746,civil
+1810,KUCAT_2018_2280,arjun khadka,671,auto
+1811,KUCAT_2018_2281,jenish nanicha shrestha,778,geo
+1812,KUCAT_2018_2282,shishir devkota,803,civil
+1813,KUCAT_2018_2283,saroj raut,558,civil
+1814,KUCAT_2018_2284,peresh rai,696,ce
+1815,KUCAT_2018_2285,bibek parajuli,953,civil
+1816,KUCAT_2018_2286,arjit barakoti,821,civil
+1817,KUCAT_2018_2288,santosh devkota,571,civil
+1818,KUCAT_2018_2289,prabin kumar yadav,545,civil
+1819,KUCAT_2018_2290,nisha kumari barnwal,630,pharma
+1820,KUCAT_2018_2291,gaurab kandel,655,power
+1821,KUCAT_2018_2292,sujit gautam,748,ce
+1822,KUCAT_2018_2293,ashok timsena,719,civil
+1823,KUCAT_2018_2294,ina maharjan,968,arch
+1824,KUCAT_2018_2295,jeeya shrestha,616,civil
+1825,KUCAT_2018_2296,bijaya rayamajhi,1010,auto
+1826,KUCAT_2018_2297,eliza maka,581,ce
+1827,KUCAT_2018_2301,riya nakarmi,726,arch
+1828,KUCAT_2018_2303,palden tamang,811,ce
+1829,KUCAT_2018_2304,yukesh karki,758,ce
+1830,KUCAT_2018_2305,kabindra ojha,563,geo
+1831,KUCAT_2018_2307,pranjal bhatta,605,ce
+1832,KUCAT_2018_2308,riya pokhrel,872,geo
+1833,KUCAT_2018_2309,prajwal lamsal2(see endnotes),579,ce
+1834,KUCAT_2018_2310,mina shrestha,543,civil
+1835,KUCAT_2018_2312,sunil shah,893,power
+1836,KUCAT_2018_2313,sandeep shrestha,697,civil
+1837,KUCAT_2018_2314,kali prasad bist,711,civil
+1838,KUCAT_2018_2317,manish thapa,914,geo
+1839,KUCAT_2018_2318,aninjya shresthacharya,1002,civil
+1840,KUCAT_2018_2319,sijan adhikari,697,civil
+1841,KUCAT_2018_2320,subhav gautam,729,civil
+1842,KUCAT_2018_2321,sushma chaudhary,695,pharma
+1843,KUCAT_2018_2322,shradha katuwal,687,civil
+1844,KUCAT_2018_2323,aniket sharma,884,civil
+1845,KUCAT_2018_2324,ganesh bharati,871,design
+1846,KUCAT_2018_2325,samir gurung,695,civil
+1847,KUCAT_2018_2326,srestaa bhattarai,596,arch
+1848,KUCAT_2018_2327,himmat basnet,1153,civil
+1849,KUCAT_2018_2328,abishkar shrestha,866,design
+1850,KUCAT_2018_2330,shoyeb khan,819,hydro
+1851,KUCAT_2018_2332,kishor kafle2(see endnotes),752,civil
+1852,KUCAT_2018_2333,sujan dangi,560,ce
+1853,KUCAT_2018_2335,isha acharya,900,auto
+1854,KUCAT_2018_2336,aditi neupane,682,arch
+1855,KUCAT_2018_2337,isha shrestha,972,civil
+1856,KUCAT_2018_2338,roji gupta,616,auto
+1857,KUCAT_2018_2339,naresh raj nyaupane,537,civil
+1858,KUCAT_2018_2340,prasamsa paudel,786,ce
+1859,KUCAT_2018_2341,nimesh bhandari,955,geo
+1860,KUCAT_2018_2342,sankalpa dhakal,607,civil
+1861,KUCAT_2018_2343,anish gautam,709,civil
+1862,KUCAT_2018_2344,mandip subedi2(see endnotes),618,cs
+1863,KUCAT_2018_2346,ashok shrestha,579,civil
+1864,KUCAT_2018_2347,kushal ghimire,768,arch
+1865,KUCAT_2018_2348,roshan subedi,822,pharma
+1866,KUCAT_2018_2349,akshay kumar chaudhary,795,power
+1867,KUCAT_2018_2350,nisha manandhar,719,bio
+1868,KUCAT_2018_2351,deep narayan yadav,677,civil
+1869,KUCAT_2018_2352,tej raj tharu,886,civil
+1870,KUCAT_2018_2353,mukesh ijam limbu,589,civil
+1871,KUCAT_2018_2354,shirish karna,673,ce
+1872,KUCAT_2018_2355,prabin sharma,884,civil
+1873,KUCAT_2018_2356,sahil karki,705,ce
+1874,KUCAT_2018_2357,yashaswi maharjan,652,design
+1875,KUCAT_2018_2358,dilip singh kathayat,759,civil
+1876,KUCAT_2018_2359,gagan bista2(see endnotes),689,civil
+1877,KUCAT_2018_2362,rojan karki,1066,civil
+1878,KUCAT_2018_2364,astha pandey,797,chem
+1879,KUCAT_2018_2365,bibekananda pandey,778,ce
+1880,KUCAT_2018_2366,rohit karn,1195,civil
+1881,KUCAT_2018_2367,rabin kumar shrestha,1013,civil
+1882,KUCAT_2018_2368,somesh manandhar,1071,civil
+1883,KUCAT_2018_2369,achel sharma,724,civil
+1884,KUCAT_2018_2370,rupesh aryal,810,ce
+1885,KUCAT_2018_2371,abhishek poudel,753,civil
+1886,KUCAT_2018_2372,anish kumar mallik,743,ce
+1887,KUCAT_2018_2373,lal babu mandal,552,civil
+1888,KUCAT_2018_2375,testa kumar gurung2(see endnotes),735,civil
+1889,KUCAT_2018_2377,shrayesh shrestha,555,civil
+1890,KUCAT_2018_2378,samriddha shrestha,877,ce
+1891,KUCAT_2018_2379,sulav pradhan,871,civil
+1892,KUCAT_2018_2380,rozen shrestha,800,ce
+1893,KUCAT_2018_2381,satish adhikari,690,ce
+1894,KUCAT_2018_2383,amir kaushil,674,civil
+1895,KUCAT_2018_2384,sandeep gurung,836,civil
+1896,KUCAT_2018_2385,ashwin koirala,655,civil
+1897,KUCAT_2018_2386,nijal khatri,532,civil
+1898,KUCAT_2018_2387,rahul kashyap,537,pharma
+1899,KUCAT_2018_2388,ashish rai,773,ce
+1900,KUCAT_2018_2390,sushant baral,543,ce
+1901,KUCAT_2018_2391,sudip chauhan,739,geo
+1902,KUCAT_2018_2392,anup adhikari,847,hydro
+1903,KUCAT_2018_2393,pradip pokharel,648,pharma
+1904,KUCAT_2018_2394,bikash gelal2(see endnotes),557,pharma
+1905,KUCAT_2018_2395,gopal baidawar chhetri,1231,energy
+1906,KUCAT_2018_2396,sandip acharya,628,civil
+1907,KUCAT_2018_2398,sagar aryal,532,arch
+1908,KUCAT_2018_2399,kishor gc,851,design
+1909,KUCAT_2018_2400,gajendra mahata,643,auto
+1910,KUCAT_2018_2401,amin kumar bamma,807,civil
+1911,KUCAT_2018_2403,akash kumar sah,620,civil
+1912,KUCAT_2018_2404,buddha mani gautam,978,ce
+1913,KUCAT_2018_2405,nischal bhandari,1094,ce
+1914,KUCAT_2018_2406,sandesh bashyal,695,civil
+1915,KUCAT_2018_2407,bishnu hari pandey,673,civil
+1916,KUCAT_2018_2408,akash chaudhary,892,civil
+1917,KUCAT_2018_2409,amar kumar jaiswal,928,ce
+1918,KUCAT_2018_2410,prashant shrestha,684,ce
+1919,KUCAT_2018_2411,asim mahat,645,arch
+1920,KUCAT_2018_2412,madhusudan lohanee,601,civil
+1921,KUCAT_2018_2413,sabin chapagain,879,civil
+1922,KUCAT_2018_2415,bijaya ghimire,862,civil
+1923,KUCAT_2018_2416,bal bahadur karki,675,civil
+1924,KUCAT_2018_2417,upendra nepali,751,civil
+1925,KUCAT_2018_2418,bibek gautam,687,civil
+1926,KUCAT_2018_2419,toyanath poudel,782,auto
+1927,KUCAT_2018_2420,rijuma chitrakar2(see endnotes),614,ce
+1928,KUCAT_2018_2422,bigyesh pandey,653,ce
+1929,KUCAT_2018_2423,atal neupane,635,cs
+1930,KUCAT_2018_2424,pradeep nepal,860,civil
+1931,KUCAT_2018_2425,priyanshu kayastha,738,arch
+1932,KUCAT_2018_2426,rampratap kumar yadav,541,civil
+1933,KUCAT_2018_2427,arjun gautam,906,civil
+1934,KUCAT_2018_2428,mandira kafle,801,civil
+1935,KUCAT_2018_2429,surya kiran pradhan,805,civil
+1936,KUCAT_2018_2431,pratirodh sharma pokhrel,903,ce
+1937,KUCAT_2018_2432,abishek baral,772,civil
+1938,KUCAT_2018_2433,pawan ghimire,926,civil
+1939,KUCAT_2018_2434,divya panthi,694,ce
+1940,KUCAT_2018_2435,sandesh pokhrel,1064,energy
+1941,KUCAT_2018_2436,rabi shree shrestha,569,enve
+1942,KUCAT_2018_2437,cizal gautam,724,ce
+1943,KUCAT_2018_2438,prashikshya baral,557,civil
+1944,KUCAT_2018_2439,sudhir paudel,720,ce
+1945,KUCAT_2018_2440,aftab aalam,699,civil
+1946,KUCAT_2018_2442,nikita acharya,573,civil
+1947,KUCAT_2018_2446,surat kumari satsangi,542,pharma
+1948,KUCAT_2018_2447,mukul atreya,1005,ce
+1949,KUCAT_2018_2448,vikram gc,777,design
+1950,KUCAT_2018_2449,pragya neupane,747,communication
+1951,KUCAT_2018_2450,aroj kc,823,geo
+1952,KUCAT_2018_2451,prajjwal silwal,556,ce
+1953,KUCAT_2018_2452,chandani kumari chaudhary,531,pharma
+1954,KUCAT_2018_2454,digamber lekhak,689,bio
+1955,KUCAT_2018_2455,aayush prajapati,839,civil
+1956,KUCAT_2018_2456,yogesh thapa,649,ce
+1957,KUCAT_2018_2457,sagar timalsina,1021,ce
+1958,KUCAT_2018_2458,kritan prajapati,815,ce
+1959,KUCAT_2018_2459,aman thapa,654,ce
+1960,KUCAT_2018_2460,rewaj pokhrel (khatri),689,civil
+1961,KUCAT_2018_2463,pratyush nepal,583,ce
+1962,KUCAT_2018_2464,pratik thakuri2(see endnotes),533,ce
+1963,KUCAT_2018_2466,dhiraj kumar shah,575,civil
+1964,KUCAT_2018_2467,keshari maya shrestha,795,pharma
+1965,KUCAT_2018_2468,anish gelal,583,ce
+1966,KUCAT_2018_2469,sapana bhandari,602,pharma
+1967,KUCAT_2018_2470,santosh panday,915,ce
+1968,KUCAT_2018_2472,nilima sharma,687,civil
+1969,KUCAT_2018_2473,pasang lama,620,arch
+1970,KUCAT_2018_2475,sovika mainali,762,pharma
+1971,KUCAT_2018_2476,srijana wagle,771,ce
+1972,KUCAT_2018_2478,sriyans rauniyar,1113,ce
+1973,KUCAT_2018_2481,dipak kumar sah,604,civil
+1974,KUCAT_2018_2482,prashanna mani paudel,974,civil
+1975,KUCAT_2018_2483,dipendra rana,542,civil
+1976,KUCAT_2018_2484,pritam shrestha,768,civil
+1977,KUCAT_2018_2485,aagya paudel,630,civil
+1978,KUCAT_2018_2487,darpan upadhayay,536,chem
+1979,KUCAT_2018_2488,utsav dhakal,717,chem
+1980,KUCAT_2018_2489,santosh baral,726,geo
+1981,KUCAT_2018_2490,janak thapa,725,civil
+1982,KUCAT_2018_2491,aakash lamsal,743,civil
+1983,KUCAT_2018_2492,bivek kumar adhikari,646,civil
+1984,KUCAT_2018_2493,aashish dhakal,829,civil
+1985,KUCAT_2018_2494,vaibhav sapkota,824,ce
+1986,KUCAT_2018_2495,dhruba paudel,931,ce
+1987,KUCAT_2018_2496,rohit pati,872,design
+1988,KUCAT_2018_2497,shishir dhakal,875,ce
+1989,KUCAT_2018_2498,sudeep gautam,674,civil
+1990,KUCAT_2018_2500,bajrang prasad sah,788,power
+1991,KUCAT_2018_2501,sandhya ranabhat,774,civil
+1992,KUCAT_2018_2503,laxmi mahara,765,ce
+1993,KUCAT_2018_2504,aayushama karmacharya,566,civil
+1994,KUCAT_2018_2505,saraswati bhandari,971,arch
+1995,KUCAT_2018_2506,prajwal karki,676,civil
+1996,KUCAT_2018_2507,amrit kumal,632,pharma
+1997,KUCAT_2018_2508,anuyam sangam,749,civil
+1998,KUCAT_2018_2509,santosh bhatta,627,geo
+1999,KUCAT_2018_2510,arif din miya,570,ce
+2000,KUCAT_2018_2512,bishesh shrestha,652,energy
+2001,KUCAT_2018_2513,kritika shrestha,778,civil
+2002,KUCAT_2018_2514,sanjog shrestha,598,civil
+2003,KUCAT_2018_2515,ganga bhandari,598,arch
+2004,KUCAT_2018_2518,bibek mishra,1122,ce
+2005,KUCAT_2018_2519,nirmal sapkota,792,ce
+2006,KUCAT_2018_2520,rabin kumar sah,633,civil
+2007,KUCAT_2018_2521,sebak oli,817,geo
+2008,KUCAT_2018_2522,bhimsen chaudhari,653,civil
+2009,KUCAT_2018_2523,pradeep regmi,760,ce
+2010,KUCAT_2018_2524,sampanna dahal,1230,ce
+2011,KUCAT_2018_2525,sagar khanal,1100,civil
+2012,KUCAT_2018_2526,pratigya shrestha,680,communication
+2013,KUCAT_2018_2527,sagar khanal,742,ce
+2014,KUCAT_2018_2528,kamalesh kumar yadav,894,civil
+2015,KUCAT_2018_2529,sandesh dahal,843,civil
+2016,KUCAT_2018_2530,rakesh kumar yadav,664,auto
+2017,KUCAT_2018_2531,swostika shrestha,783,ce
+2018,KUCAT_2018_2533,sandesh dahal,947,ce
+2019,KUCAT_2018_2534,prabin timsina,985,pharma
+2020,KUCAT_2018_2535,sunil belbase,710,design
+2021,KUCAT_2018_2536,ajita jnawali,598,civil
+2022,KUCAT_2018_2537,rubin baidhya,993,ce
+2023,KUCAT_2018_2540,swikar lungeli,535,civil
+2024,KUCAT_2018_2541,rohit shrestha,743,ce
+2025,KUCAT_2018_2543,sujit acharya2(see endnotes),557,auto
+2026,KUCAT_2018_2544,ambika kumari pandit,619,pharma
+2027,KUCAT_2018_2545,sparsh bhattarai,840,civil
+2028,KUCAT_2018_2546,govinda bikram shahi,693,civil
+2029,KUCAT_2018_2548,basanta tamrakar,675,pharma
+2030,KUCAT_2018_2549,krijal lage2(see endnotes),608,auto
+2031,KUCAT_2018_2550,kshitij shrestha,1468,ce
+2032,KUCAT_2018_2553,sapana baral,740,bio
+2033,KUCAT_2018_2555,aashish dawadi,754,design
+2034,KUCAT_2018_2557,ashutosh dev,772,civil
+2035,KUCAT_2018_2558,ritik mishra,715,civil
+2036,KUCAT_2018_2559,amisha gorkhali,849,civil
+2037,KUCAT_2018_2560,rijon gautam,744,civil
+2038,KUCAT_2018_2561,parth bohra,587,arch
+2039,KUCAT_2018_2562,david singh,833,auto
+2040,KUCAT_2018_2563,koshan dhakal,678,ce
+2041,KUCAT_2018_2564,pradip paneru,1089,ce
+2042,KUCAT_2018_2565,nilima khadka,881,civil
+2043,KUCAT_2018_2566,prajwal khadgi,721,civil
+2044,KUCAT_2018_2569,sachita ghimire,759,civil
+2045,KUCAT_2018_2570,ganesh thapa,740,ce
+2046,KUCAT_2018_2571,babina banjara,797,civil
+2047,KUCAT_2018_2572,aadarsha jung basnet,783,ce
+2048,KUCAT_2018_2573,bibek joshi,766,ce
+2049,KUCAT_2018_2577,santosh luitel,668,ce
+2050,KUCAT_2018_2580,anita thakur,573,pharma
+2051,KUCAT_2018_2581,aayush lamsal,759,ce
+2052,KUCAT_2018_2582,bikram gupta,676,civil
+2053,KUCAT_2018_2583,aditya raj jaiswal,667,ce
+2054,KUCAT_2018_2587,rakesh kumar shah,680,civil
+2055,KUCAT_2018_2589,rasmita acharya,848,arch
+2056,KUCAT_2018_2590,mewalal sah,529,civil
+2057,KUCAT_2018_2591,chandra shekhar yadav,779,civil
+2058,KUCAT_2018_2592,ramjtan kumar yadav,641,civil
+2059,KUCAT_2018_2593,ajay kumar sah2(see endnotes),628,power
+2060,KUCAT_2018_2594,sabin neupane,610,civil
+2061,KUCAT_2018_2595,abhinav ranjan das,889,civil
+2062,KUCAT_2018_2597,prabesh baniya,646,bio
+2063,KUCAT_2018_2599,anup giri,1043,ce
+2064,KUCAT_2018_2600,anupam dhakal,709,civil
+2065,KUCAT_2018_2602,vivek jung bista,899,civil
+2066,KUCAT_2018_2603,rishabh kumar ray,599,ce
+2067,KUCAT_2018_2604,prabesh shrestha,618,cs
+2068,KUCAT_2018_2606,abinash adhikari,994,auto
+2069,KUCAT_2018_2607,chandan singh kushwaha2(see endnotes),687,civil
+2070,KUCAT_2018_2608,manish bhatta,564,chem
+2071,KUCAT_2018_2609,saugat bhattarai,671,ce
+2072,KUCAT_2018_2610,udit narayan yadav,618,civil
+2073,KUCAT_2018_2611,aayush bohara,617,civil
+2074,KUCAT_2018_2613,tapendra pandey,949,ce
+2075,KUCAT_2018_2614,sajwal dhakal,943,civil
+2076,KUCAT_2018_2616,ariz bhatta,591,civil
+2077,KUCAT_2018_2617,rupesh kaini,768,enve
+2078,KUCAT_2018_2618,alsu adhikari,589,arch
+2079,KUCAT_2018_2619,ram narayan sah,574,communication
+2080,KUCAT_2018_2620,eureka bhochhibhoya,799,arch
+2081,KUCAT_2018_2621,soni kumari pandit,796,pharma
+2082,KUCAT_2018_2622,hem shankar singh,710,civil
+2083,KUCAT_2018_2623,prakriti maharjan,587,civil
+2084,KUCAT_2018_2624,nayan bastakoti,1100,ce
+2085,KUCAT_2018_2627,dipesh chandra jha,571,civil
+2086,KUCAT_2018_2628,abin makaju,614,pharma
+2087,KUCAT_2018_2629,shubham singh,675,ce
+2088,KUCAT_2018_2630,anuj pokharel2(see endnotes),672,ce
+2089,KUCAT_2018_2631,anjali dhami,528,bio
+2090,KUCAT_2018_2632,aadarsha kumar lagarwar,677,civil
+2091,KUCAT_2018_2633,reeya agrwal,581,pharma
+2092,KUCAT_2018_2634,priyanka rai,781,civil
+2093,KUCAT_2018_2635,anim rajbahak shrestha,1097,civil
+2094,KUCAT_2018_2636,prashanna raj pandit,931,ce
+2095,KUCAT_2018_2637,sujan rayamajhi,794,civil
+2096,KUCAT_2018_2638,nitu shrestha,545,ce
+2097,KUCAT_2018_2639,anand pant,684,computational
+2098,KUCAT_2018_2641,saroj thapa,956,auto
+2099,KUCAT_2018_2643,jeevan bhandari,619,auto
+2100,KUCAT_2018_2644,dharmaraj lodh,553,geo
+2101,KUCAT_2018_2645,mandipa thapa,708,ce
+2102,KUCAT_2018_2646,abhishek seti sirwal,828,civil
+2103,KUCAT_2018_2647,sameer tiwari,768,civil
+2104,KUCAT_2018_2648,nirbhay singh solanki,723,ce
+2105,KUCAT_2018_2650,biraj aryal,709,civil
+2106,KUCAT_2018_2651,shisheer bhattarai,837,civil
+2107,KUCAT_2018_2652,aakash thapa kshetri,718,communication
+2108,KUCAT_2018_2653,rajan sharma,559,ce
+2109,KUCAT_2018_2655,sandeep kumar yadav,596,civil
+2110,KUCAT_2018_2656,nabin gharti magar,810,civil
+2111,KUCAT_2018_2660,bibek neupane,993,auto
+2112,KUCAT_2018_2662,shyam prasad sanjel,711,ce
+2113,KUCAT_2018_2663,aadim nyaichyai,736,chem
+2114,KUCAT_2018_2664,nishar vaidhya,600,auto
+2115,KUCAT_2018_2665,pujan chaguthi,828,civil
+2116,KUCAT_2018_2666,raj kumar shahi,559,geo
+2117,KUCAT_2018_2667,roman poudel,752,civil
+2118,KUCAT_2018_2668,abhishek halwai,965,ce
+2119,KUCAT_2018_2671,nausad sharif,539,pharma
+2120,KUCAT_2018_2672,ajay kumar patel,733,hydro
+2121,KUCAT_2018_2674,akash panthi,1286,ce
+2122,KUCAT_2018_2676,sandeep bhusal,843,civil
+2123,KUCAT_2018_2678,sandip kumar sah,570,civil
+2124,KUCAT_2018_2679,bishal sah,719,pharma
+2125,KUCAT_2018_2680,suspana rimal,872,civil
+2126,KUCAT_2018_2682,ajaya shrestha,808,communication
+2127,KUCAT_2018_2683,anil sintakala,708,civil
+2128,KUCAT_2018_2684,aakash pandey,883,ce
+2129,KUCAT_2018_2685,bibek nepal,549,civil
+2130,KUCAT_2018_2687,baij nath gupta,914,civil
+2131,KUCAT_2018_2688,uma shankar thakur,542,civil
+2132,KUCAT_2018_2689,sandesh maharjan,534,auto
+2133,KUCAT_2018_2692,mikesh paudel,961,design
+2134,KUCAT_2018_2693,sameeksha dhungana,669,ce
+2135,KUCAT_2018_2694,ratnakar thakur,763,ce
+2136,KUCAT_2018_2697,bhawana dhami,539,pharma
+2137,KUCAT_2018_2702,ritika pandey,834,ce
+2138,KUCAT_2018_2703,prajwol manandhar,884,ce
+2139,KUCAT_2018_2704,oshan shrestha,844,ce
+2140,KUCAT_2018_2705,biplob paudel,658,ce
+2141,KUCAT_2018_2708,aaditya pokhrel,633,design
+2142,KUCAT_2018_2710,suman bhattarai,1104,design
+2143,KUCAT_2018_2711,nisan koirala,546,geo
+2144,KUCAT_2018_2712,surendra shahi,694,civil
+2145,KUCAT_2018_2715,susmita pokharel,757,civil
+2146,KUCAT_2018_2717,mahesh karki,546,civil
+2147,KUCAT_2018_2718,bishal sanjel,636,pharma
+2148,KUCAT_2018_2720,kismat tamang,662,chem
+2149,KUCAT_2018_2721,luza shrestha,812,ce
+2150,KUCAT_2018_2722,utpal pandey,564,geo
+2151,KUCAT_2018_2723,subash ghimire,534,hydro
+2152,KUCAT_2018_2725,aayush raut,763,ce
+2153,KUCAT_2018_2726,migur sherpa,678,civil
+2154,KUCAT_2018_2727,bhawana khanal,549,civil
+2155,KUCAT_2018_2729,sunny gupta,738,ce
+2156,KUCAT_2018_2730,ridam paudel,650,civil
+2157,KUCAT_2018_2732,dhruba sharma,998,ce
+2158,KUCAT_2018_2733,ameer dhungel,631,geo
+2159,KUCAT_2018_2734,birendra kumar shah,766,civil
+2160,KUCAT_2018_2739,tanuja ojha,722,geo
+2161,KUCAT_2018_2743,siddhartha gautam,847,civil
+2162,KUCAT_2018_2744,surakshya aryal,560,geo
+2163,KUCAT_2018_2745,aaditya jha,683,civil
+2164,KUCAT_2018_2749,sagar kc,1059,hydro
+2165,KUCAT_2018_2751,jina ghorasain,725,civil
+2166,KUCAT_2018_2753,binita guragain,589,pharma
+2167,KUCAT_2018_2754,raj kumar tamang,534,design
+2168,KUCAT_2018_2755,nirakar shrestha,973,ce
+2169,KUCAT_2018_2756,shreyam pokharel,974,ce
+2170,KUCAT_2018_2758,pravin kumar sah,651,civil
+2171,KUCAT_2018_2762,binod raj joshi,789,civil
+2172,KUCAT_2018_2763,sanjay kumar gupta,557,civil
+2173,KUCAT_2018_2764,sushovan bhattarai,696,ce
+2174,KUCAT_2018_2765,madhu bista,681,ce
+2175,KUCAT_2018_2766,sagar sunar,744,communication
+2176,KUCAT_2018_2771,suman subedi,669,civil
+2177,KUCAT_2018_2772,gayanand patel,692,ce
+2178,KUCAT_2018_2773,gaurav timilsina,853,civil
+2179,KUCAT_2018_2774,anup kapali,830,ce
+2180,KUCAT_2018_2775,sunny kumar shah,674,civil
+2181,KUCAT_2018_2777,randhir kumar mandal,607,civil
+2182,KUCAT_2018_2778,punkaj pokhrel,593,civil
+2183,KUCAT_2018_2781,subodh dhakal,623,communication
+2184,KUCAT_2018_2782,manish panta,850,ce
+2185,KUCAT_2018_2783,bipin adhikari,896,civil
+2186,KUCAT_2018_2784,dikshant shah,712,bio
+2187,KUCAT_2018_2785,neha kumari yadav,675,arch
+2188,KUCAT_2018_2786,abina pokhrel,840,civil
+2189,KUCAT_2018_2787,sanchita panthi,1001,civil
+2190,KUCAT_2018_2789,rashmi karki,559,civil
+2191,KUCAT_2018_2790,rajib panta,614,ce
+2192,KUCAT_2018_2791,sushruti sharma,554,pharma
+2193,KUCAT_2018_2792,parangat narsingh pradhan,603,ce
+2194,KUCAT_2018_2793,sanjip bhujel,573,pharma
+2195,KUCAT_2018_2794,alok pudasaini,783,ce
+2196,KUCAT_2018_2795,mallika pudasaini,796,civil
+2197,KUCAT_2018_2797,sandesh timilsena,671,geo
+2198,KUCAT_2018_2798,aakriti maharjan,634,pharma
+2199,KUCAT_2018_2799,rinku rasaili,696,ce
+2200,KUCAT_2018_2800,kushal raj timalsina,852,civil
+2201,KUCAT_2018_2801,shraban kumar shah,552,ce
+2202,KUCAT_2018_2802,dipak kumar yadav,544,civil
+2203,KUCAT_2018_2803,rohit kumar yadav,573,ce
+2204,KUCAT_2018_2804,amrit kumar pandit,926,civil
+2205,KUCAT_2018_2806,prasun bhandari,1006,ce
+2206,KUCAT_2018_2808,ayush shrestha,623,bio
+2207,KUCAT_2018_2810,nasira khatun,994,arch
+2208,KUCAT_2018_2811,richa shah,581,civil
+2209,KUCAT_2018_2813,babita thakur,942,arch
+2210,KUCAT_2018_2814,shahil bhatta,713,civil
+2211,KUCAT_2018_2816,prakash gharti magar,841,civil
+2212,KUCAT_2018_2817,prashansa banepali,706,enve
+2213,KUCAT_2018_2818,sajal phuyal,806,civil
+2214,KUCAT_2018_2820,sushil khanal,647,pharma
+2215,KUCAT_2018_2821,bijesh lama,617,auto
+2216,KUCAT_2018_2822,bishal pradhan,676,civil
+2217,KUCAT_2018_2823,bal krishna belbase,631,pharma
+2218,KUCAT_2018_2825,archana ghimire,751,envs
+2219,KUCAT_2018_2826,anmol yadav,1112,civil
+2220,KUCAT_2018_2829,aayam bhattarai,694,ce
+2221,KUCAT_2018_2830,prince yadav,609,pharma
+2222,KUCAT_2018_2832,swapnil shrestha,894,civil
+2223,KUCAT_2018_2833,neelima neupane,716,chem
+2224,KUCAT_2018_2834,alisha thapa,666,pharma
+2225,KUCAT_2018_2835,nita thapa magar,563,cs
+2226,KUCAT_2018_2836,shreejan karki,834,civil
+2227,KUCAT_2018_2837,ashmita dhital,763,pharma
+2228,KUCAT_2018_2838,rabi prajapati,780,ce
+2229,KUCAT_2018_2839,sushmita jamarkattel,551,geo
+2230,KUCAT_2018_2841,sandesh hamo shrestha,783,civil
+2231,KUCAT_2018_2842,shubhanshu kumar bhagat,647,civil
+2232,KUCAT_2018_2844,nitesh swarnakar,1090,ce
+2233,KUCAT_2018_2845,jiwan prasad guragain2(see endnotes),1202,ce
+2234,KUCAT_2018_2847,kushal guragain,714,design
+2235,KUCAT_2018_2848,kushal rijal,530,design
+2236,KUCAT_2018_2849,sushant tha,794,ce
+2237,KUCAT_2018_2852,anil dangol,671,civil
+2238,KUCAT_2018_2853,karuna lamsal,754,civil
+2239,KUCAT_2018_2854,rajnish mahato,604,civil
+2240,KUCAT_2018_2855,aman kumar chaudhary,903,civil
+2241,KUCAT_2018_2856,samrat ojha,765,civil
+2242,KUCAT_2018_2857,swostika timilsina,712,civil
+2243,KUCAT_2018_2858,shreedev sharma2(see endnotes),694,civil
+2244,KUCAT_2018_2859,ritu thakur,567,civil
+2245,KUCAT_2018_2861,ganesh adhikari,748,pharma
+2246,KUCAT_2018_2862,namrata bisht,648,pharma
+2247,KUCAT_2018_2863,bishwa raj karki,604,power
+2248,KUCAT_2018_2864,sumit kunwar,628,ce
+2249,KUCAT_2018_2867,anuska pudasaini,656,geo
+2250,KUCAT_2018_2868,parvat khatiwada,575,civil
+2251,KUCAT_2018_2869,rahul kumar singh2(see endnotes),547,arch
+2252,KUCAT_2018_2870,parash pratap singh,552,ce
+2253,KUCAT_2018_2871,prativa pudasaini,559,civil
+2254,KUCAT_2018_2873,brabeem sapkota,1093,hydro
+2255,KUCAT_2018_2874,dip raj shah,853,ce
+2256,KUCAT_2018_2875,nikesh dc,1056,ce
+2257,KUCAT_2018_2880,mukesh kumar pajiyar,681,ce
+2258,KUCAT_2018_2881,sunit kmar chaudhary,761,civil
+2259,KUCAT_2018_2884,anup katwal,570,civil
+2260,KUCAT_2018_2885,swastika manandhar,556,pharma
+2261,KUCAT_2018_2886,upama shree mahato,789,communication
+2262,KUCAT_2018_2887,mukesh sharma,804,civil
+2263,KUCAT_2018_2888,swastika karki2(see endnotes),583,cs
+2264,KUCAT_2018_2889,sudip karki,553,auto
+2265,KUCAT_2018_2890,diwas giri,720,civil
+2266,KUCAT_2018_2892,ashish ojha,1248,geo
+2267,KUCAT_2018_2893,anil bhusal,917,ce
+2268,KUCAT_2018_2894,anish poudel,869,ce
+2269,KUCAT_2018_2897,nirman sapkota,800,ce
+2270,KUCAT_2018_2898,nista simkhada,655,geo
+2271,KUCAT_2018_2899,puja pudasaini,781,geo
+2272,KUCAT_2018_2901,anmol khadka,583,civil
+2273,KUCAT_2018_2902,parth pandey,585,ce
+2274,KUCAT_2018_2903,aayush gautam,559,civil
+2275,KUCAT_2018_2905,alok bhandari,569,civil
+2276,KUCAT_2018_2906,raunak shrestha,734,civil
+2277,KUCAT_2018_2908,subhadra aryal,838,pharma
+2278,KUCAT_2018_2909,suman kaucha,530,auto
+2279,KUCAT_2018_2910,pratistha bajracharya,701,geo
+2280,KUCAT_2018_2911,ram pratap mahato,559,geo
+2281,KUCAT_2018_2912,smarika sijapati,572,civil
+2282,KUCAT_2018_2914,binaya dhungana,603,civil
+2283,KUCAT_2018_2915,sarjun khatri,1026,civil
+2284,KUCAT_2018_2917,raj kumar mandal,563,civil
+2285,KUCAT_2018_2919,nirajan bhandari,924,ce
+2286,KUCAT_2018_2922,reshika koirala,838,ce
+2287,KUCAT_2018_2923,bishal niroula,616,civil
+2288,KUCAT_2018_2924,samir pant2(see endnotes),569,ce
+2289,KUCAT_2018_2925,sanjeeb adhikari,807,cs
+2290,KUCAT_2018_2927,siddhartha kumar mandal,597,civil
+2291,KUCAT_2018_2929,manish kaushal,829,pharma
+2292,KUCAT_2018_2930,rijesh shrestha,549,ce
+2293,KUCAT_2018_2931,roshan kumar mandal,749,ce
+2294,KUCAT_2018_2934,bhawana bhandari,650,arch
+2295,KUCAT_2018_2935,sundar subedi,569,geo
+2296,KUCAT_2018_2937,akash shakya,656,civil
+2297,KUCAT_2018_2938,gaurav kumar jha,678,civil
+2298,KUCAT_2018_2939,eric ghimire,557,civil
+2299,KUCAT_2018_2940,bibek gurung,558,envs
+2300,KUCAT_2018_2941,aishwarya bhandari2(see endnotes),666,ce
+2301,KUCAT_2018_2944,nischal khanal2(see endnotes),594,civil
+2302,KUCAT_2018_2947,prashidhika ghimire,632,civil
+2303,KUCAT_2018_2948,aagya paudel,776,civil
+2304,KUCAT_2018_2949,mayank chand,735,communication
+2305,KUCAT_2018_2950,aditi chaulagain,541,civil
+2306,KUCAT_2018_2951,nirmal shrestha,978,ce
+2307,KUCAT_2018_2953,sagason thapa,707,ce
+2308,KUCAT_2018_2954,nischal dhakal,584,communication
+2309,KUCAT_2018_2955,image adhikari,990,ce
+2310,KUCAT_2018_2956,satkar raj shrestha,756,bio
+2311,KUCAT_2018_2957,ramhari shrestha,578,ce
+2312,KUCAT_2018_2961,nawaraj thapa magar,556,design
+2313,KUCAT_2018_2963,dipak mandal,532,pharma
+2314,KUCAT_2018_2966,siddhant shrestha,745,ce
+2315,KUCAT_2018_2967,sanjay rai,689,civil
+2316,KUCAT_2018_2968,tushar singh,686,civil
+2317,KUCAT_2018_2969,apeksha shrestha,537,pharma
+2318,KUCAT_2018_2970,reema bhandari,772,civil
+2319,KUCAT_2018_2971,shraddha uprety,754,arch
+2320,KUCAT_2018_2972,shivansh adhikari,751,ce
+2321,KUCAT_2018_2974,seema gupta,712,arch
+2322,KUCAT_2018_2976,deependra thakuri,570,ce
+2323,KUCAT_2018_2977,manish khatiwada,617,ce
+2324,KUCAT_2018_2978,prajjwal rayamajhi,537,cs
+2325,KUCAT_2018_2979,pramiksha bagale,562,bio
+2326,KUCAT_2018_2982,ambika aryal,556,pharma
+2327,KUCAT_2018_2983,raksha bhandari,611,pharma
+2328,KUCAT_2018_2984,jitendra sah,651,civil
+2329,KUCAT_2018_2985,shradha bhandari,634,pharma
+2330,KUCAT_2018_2987,achal gautam,696,auto
+2331,KUCAT_2018_2989,ashish khatakho,969,ce
+2332,KUCAT_2018_2990,sushan gautam2(see endnotes),692,ce
+2333,KUCAT_2018_2995,bikram singh bhattarai,859,auto
+2334,KUCAT_2018_2996,prishma dahal,730,communication
+2335,KUCAT_2018_2998,nishchal nath sigdel,994,civil
+2336,KUCAT_2018_2999,supran acharya,635,communication
+2337,KUCAT_2018_3000,winer limbu,583,design
+2338,KUCAT_2018_3002,dhrubahari ranabhat,621,ce
+2339,KUCAT_2018_3003,sudhir raj shakya,786,civil
+2340,KUCAT_2018_3004,kriti karki2(see endnotes),563,civil
+2341,KUCAT_2018_3006,sagar poudel,798,civil
+2342,KUCAT_2018_3007,gambhir bidari,820,ce
+2343,KUCAT_2018_3008,samjhana lamichhane,536,civil
+2344,KUCAT_2018_3009,sushil tiwari,559,ce
+2345,KUCAT_2018_3010,ujjal baniya,649,ce
+2346,KUCAT_2018_3011,smriti karanjit,619,civil
+2347,KUCAT_2018_3012,sandip poudel,973,ce
+2348,KUCAT_2018_3014,sushmita paudel,735,civil
+2349,KUCAT_2018_3015,nisha yadav,617,civil
+2350,KUCAT_2018_3016,dip purush shahi,727,civil
+2351,KUCAT_2018_3017,ganesh bohara,627,civil
+2352,KUCAT_2018_3020,bishwaram bhattarai,632,pharma
+2353,KUCAT_2018_3021,jigyasha nepal,899,geo
+2354,KUCAT_2018_3022,ashish paudel,658,ce
+2355,KUCAT_2018_3023,libesh prasad pradhan,607,civil
+2356,KUCAT_2018_3024,kiran paudel,667,auto
+2357,KUCAT_2018_3025,ashutosh man pradhan,645,power
+2358,KUCAT_2018_3026,prerana pandey,734,ce
+2359,KUCAT_2018_3027,dinesh karki,912,civil
+2360,KUCAT_2018_3028,shikshya shrestha,742,ce
+2361,KUCAT_2018_3032,sushant devkota,662,ce
+2362,KUCAT_2018_3033,kailash lama,619,civil
+2363,KUCAT_2018_3034,ayush kayastha,742,ce
+2364,KUCAT_2018_3035,raj kumar tamang,726,civil
+2365,KUCAT_2018_3036,udhir rai,705,civil
+2366,KUCAT_2018_3037,bharat chhetri,698,civil
+2367,KUCAT_2018_3038,ramesh kumar yadav,818,civil
+2368,KUCAT_2018_3039,anup adhikari,541,power
+2369,KUCAT_2018_3040,rajib mandal,574,civil
+2370,KUCAT_2018_3041,sagar niroula,666,hydro
+2371,KUCAT_2018_3045,ravi pandey,1174,ce
+2372,KUCAT_2018_3046,manish rajbanshi,569,ce
+2373,KUCAT_2018_3047,sanju subedi,820,ce
+2374,KUCAT_2018_3048,abhijit rajbanshi,573,ce
+2375,KUCAT_2018_3049,aarambha bhandari,805,civil
+2376,KUCAT_2018_3052,saurabh sharma timilsina,808,ce
+2377,KUCAT_2018_3053,dikshya khatiwada,654,design
+2378,KUCAT_2018_3056,prijma silwal,676,bio
+2379,KUCAT_2018_3057,dikshant aryal,884,ce
+2380,KUCAT_2018_3059,anil subedi,751,civil
+2381,KUCAT_2018_3060,prajwol tiwari,628,auto
+2382,KUCAT_2018_3061,samrat pahari,583,ce
+2383,KUCAT_2018_3063,subodh ghimire,760,civil
+2384,KUCAT_2018_3065,sushant ojha,696,civil
+2385,KUCAT_2018_3068,diya sentury,668,arch
+2386,KUCAT_2018_3069,kritisha thapa,530,pharma
+2387,KUCAT_2018_3070,madan bajyu,711,civil
+2388,KUCAT_2018_3072,lekhnath dhakal,590,civil
+2389,KUCAT_2018_3073,mahendra ghimire,686,civil
+2390,KUCAT_2018_3075,rahul kumar sha kalwar,819,power
+2391,KUCAT_2018_3076,avisek kumar sah,675,power
+2392,KUCAT_2018_3077,prasiddha guragain,775,auto
+2393,KUCAT_2018_3078,rishi ram sharma,574,civil
+2394,KUCAT_2018_3079,bishal ghimire,720,civil
+2395,KUCAT_2018_3080,bishal adhikari,760,cs
+2396,KUCAT_2018_3081,sohail alam,734,communication
+2397,KUCAT_2018_3082,rajesh shrestha,706,pharma
+2398,KUCAT_2018_3085,daksha thakur,842,arch
